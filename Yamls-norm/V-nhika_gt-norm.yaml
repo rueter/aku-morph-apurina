@@ -1,0 +1,31 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - nhika: # Verb pg 275 'eng eat, pt' - partial paradigm
+# Perfect aspect
+     nhika+V+ScSg1: nhinhika # I eat
+     nhika+V+ScSg2: pynhika # you(sg) eat
+     nhika+V+ScSg3M: inhika # he eats
+     nhika+V+ScSg3F: unhika # she eats
+
+
+     nhika+V+ScPl1: anhika # we eat
+     nhika+V+ScPl2: hĩnhika # you(pl) eat
+     nhika+V+ScPl3M: ynhikana # they eat
+     nhika+V+ScPl3F: unhikana # they eat
+

@@ -1,0 +1,78 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - hĩmata: # Verb pg 2016: 86 'eng copulate, pt copular' - partial paradigm
+# Perfect aspect
+     hĩmata+V+ScSg1: nhĩĩmata # I see
+     hĩmata+V+ScSg2: pĩĩmata # you(sg) see
+     hĩmata+V+ScSg3+Msc: ĩĩmata # he sees
+     hĩmata+V+ScSg3+Fem: ũĩmata # she sees
+     hĩmata+V+ScPl1: ãĩmata # we see
+     hĩmata+V+ScPl2: hĩĩmata # you(pl) see
+     hĩmata+V+ScPl3+Mal: ĩĩmatana # they see
+     hĩmata+V+ScPl3+Fem: ũĩmatana # they see
+
+     hĩmata+V+ScSg1+Oc3M: nhĩĩmatary # I see it(Mal)
+     hĩmata+V+ScSg1+Oc3F: nhĩĩmataru # I see it(Fem)
+     hĩmata+V+ScSg1+OcSg2: nhĩĩmatai # I see you
+     hĩmata+V+ScSg1+OcPl2: nhĩĩmatai # I see you
+
+
+     hĩmata+V+ScPl1+Oc3M: ãĩmatary # we see it
+     hĩmata+V+ScPl1+Oc3F: ãĩmataru # we see it
+     hĩmata+V+ScPl1+OcSg2: ãĩmatai # we see you
+     hĩmata+V+ScPl1+OcPl2: ãĩmatai # we see you
+
+     hĩmata+V+ScSg2+Oc3M: pĩĩmatary # you(Sg) see it(Mal)
+     hĩmata+V+ScSg2+Oc3F: pĩĩmataru # you(Sg) see it(Fem)
+     hĩmata+V+ScSg2+OcSg1: pĩĩmatano # you(Sg) see me
+     hĩmata+V+ScSg2+OcPl1: pĩĩmatawa # you(Sg) see us
+
+     hĩmata+V+ScPl2+Oc3M: hĩĩmatary # you see it
+     hĩmata+V+ScPl2+Oc3F: hĩĩmataru # you see it
+     hĩmata+V+ScPl2+OcSg1: hĩĩmatano # you see me
+     hĩmata+V+ScPl2+OcPl1: hĩĩmatawa # you see us
+
+     hĩmata+V+ScSg3+Mal+Oc3M: ĩĩmatary # he(Sg) see it(Mal)
+     hĩmata+V+ScSg3+Mal+Oc3F: ĩĩmataru # he(Sg) see it(Mal)
+     hĩmata+V+ScSg3+Fem+Oc3M: ũĩmatary # she(Sg) see it(Fem)
+     hĩmata+V+ScSg3+Fem+Oc3F: ũĩmataru # she(Sg) see it(Fem)
+     hĩmata+V+ScSg3+Mal+OcSg1: ĩĩmatano # he(Sg) see me
+     hĩmata+V+ScSg3+Mal+OcPl1: ĩĩmatawa # he(Sg) see us
+     hĩmata+V+ScSg3+Fem+OcSg1: ũĩmatano # she(Sg) see me
+     hĩmata+V+ScSg3+Fem+OcPl1: ũĩmatawa # she(Sg) see us
+     hĩmata+V+ScSg3+Mal+OcSg2: ĩĩmatai # he(Sg) see you(sg)
+     hĩmata+V+ScSg3+Mal+OcPl2: ĩĩmatai # he(Sg) see you(pl)
+     hĩmata+V+ScSg3+Fem+OcSg2: ũĩmatai # she(Sg) see you(sg)
+     hĩmata+V+ScSg3+Fem+OcPl2: ũĩmatai # she(Sg) see you(pl)
+
+
+     hĩmata+V+ScPl3+Msc+Oc3M: ĩĩmatanary # they see him
+     hĩmata+V+ScPl3+Msc+Oc3F: ĩĩmatanaru # they see her
+     hĩmata+V+ScPl3+Msc+OcSg1: ĩĩmatanano # they see me
+     hĩmata+V+ScPl3+Msc+OcPl1: ĩĩmatanawa # they see us
+     hĩmata+V+ScPl3+Msc+OcSg2: ĩĩmatanai # they see you(sg)
+     hĩmata+V+ScPl3+Msc+OcPl2: ĩĩmatanai # they see you(pl)
+
+     hĩmata+V+ScPl3+Fem+Oc3M: ũĩmatanary # they see him
+     hĩmata+V+ScPl3+Fem+Oc3F: ũĩmatanaru # they see her
+     hĩmata+V+ScPl3+Fem+OcSg1: ũĩmatanano # they see me
+     hĩmata+V+ScPl3+Fem+OcPl1: ũĩmatanawa # they see us
+     hĩmata+V+ScPl3+Fem+OcSg2: ũĩmatanai # they see you(sg)
+     hĩmata+V+ScPl3+Fem+OcPl2: ũĩmatanai # they see you(pl)
+

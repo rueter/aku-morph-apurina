@@ -1,0 +1,31 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - arika: # Verb pg 275 'eng set on fire, pt' - partial paradigm
+# Perfect aspect
+     arika+V+ScSg1+Oc3M: narikary # I set it on fire
+     arika+V+ScSg1+Oc3F: narikaru # I set it on fire
+     arika+V+ScSg1+OcSg2: narikai # I set you on fire
+     arika+V+ScSg1+OcPl2: narikai # I set you on fire
+
+
+     arika+V+ScPl1+Oc3M: ãarikary # we set it on fire
+     arika+V+ScPl1+Oc3F: ãarikaru # we set it on fire
+     arika+V+ScPl1+OcSg2: ãarikai # we set you on fire
+     arika+V+ScPl1+OcPl2: ãarikai # we set you on fire
+

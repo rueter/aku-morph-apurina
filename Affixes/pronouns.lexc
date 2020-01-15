@@ -1,0 +1,26 @@
+!! Noun inflection
+!  ---------------
+!! The APURINÃ language nouns inflect in cases.
+
+LEXICON PRONOUN-TYPES
+ PERS ;
+
+LEXICON PERS
+nuta+Pron+Pers+Sg1:nuta     Cases   ;
+nuta+Pron+Pers+Pl1:atha     Cases   ;
+
+pitha+Pron+Pers+Sg2:pitha     Cases   ;
+pitha+Pron+Pers+Pl2:hỹtha     Cases   ;
+
+ywa+Pron+Pers+Sg3+Msc:ywa     Cases   ;
+ywa+Pron+Pers+Pl3+Msc:ywana     Cases   ;
+ywa+Pron+Pers+Sg3+Fem:uwa     Cases   ;
+ywa+Pron+Pers+Pl3+Fem:uwana     Cases   ;
+
+LEXICON PRON_TOT
+# ;
+
+
+! vim: set ft=xfst-lexc:
+
+

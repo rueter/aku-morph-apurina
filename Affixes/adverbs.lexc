@@ -1,0 +1,15 @@
+!! Adverb inflection
+!  --------------------
+!! The APURINÃ language adverbs compare.
+
+LEXICON ADV_
+ # ;
+
+LEXICON ADV-SPAT_
++Spat # ;
+
+LEXICON ADV-TEMP_
++Temp # ;
+
+! vim: set ft=xfst-lexc:
+

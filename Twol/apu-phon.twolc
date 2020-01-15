@@ -1,0 +1,142 @@
+!! =================================== !
+!! The Apurinã morphophonological/twolc rules file !
+!! =================================== !
+
+Alphabet
+ a b c d e f g h i j k l m n o p q r s t u v w x y z 
+ ã ẽ ĩ ũ ỹ
+
+ á é ó ú í õ
+ ç
+
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+ Ã Ẽ Ĩ Ũ Ỹ
+
+ Á É Ó Ú Í Õ
+ Ç
+
+
+
+%{hØ%}:0 !
+%{hØ%}:h !
+%{yiØ%}:y !
+%{yiØ%}:i !
+%{yiØ%}:0 !
+%{ỹĩØ%}:ỹ !
+%{ỹĩØ%}:ĩ !
+%{ỹĩØ%}:0 !
+%{uũ%}:u !
+%{uũ%}:ũ !
+%{aã%}:a !
+%{aã%}:ã !
+
+%^VowRM:0  !!= __@CODE@__ this will remove stem final vowel
+%^VowNasL:0 !!= __@CODE@__ This will nasalize preceding vowel
+
+! Literal quotes and angles must be escaped (cf morpheme boundaries further down):
+ »7     ! »
+ «7     ! «
+ %[%>%] ! >
+ %[%<%] ! <
+
+
+ %>
+ %<
+ #
+ «
+ »
+
+;
+
+Sets
+
+ Vow = a e i u y ã ẽ ĩ ũ ỹ ;
+ Cns = b c d f g h j k l m n p q r s t v w x z ;
+
+Definitions
+
+PALCns = [n h | x | t x | t s | t h ] ;
+
+NonPALCns = [n [Vow | Cns - [h]]  | Cns - [x|n|t] | t [Cns - [x | s | h] | Vow ] ] ;
+
+
+Rules
+
+"Deleting %{hØ%}"
+  %{hØ%}:0 <=> n _ [%{yiØ%}:y %< NonPALCns | %{yiØ%}:0 %< [Vow - i] ] ;
+
+!! arika+V+ScSg1+Oc3F: __set on fire__
+!!€ n%{hØ%}%{yiØ%}%<arika%>ru
+!!€ n00%<arika%>ru
+!!$ n%{hØ%}%{yiØ%}%<arika%>ru
+!!$ nh0%<arika%>ru
+
+"Deleting %{yiØ%}:0 "
+ %{yiØ%}:0 <=> [n %{hØ%}:|p | # ] _ %< Vow ;
+
+"Deleting %{ỹĩØ%}:0 "
+ %{ỹĩØ%}:0 <=> h _ %< Vow ;
+
+"Deleting stem-final a before NomAct -inhi"
+ a:0 <=> _ %^VowRM: %> ;
+!! myteka+V+Der+Der/NomAct+N+Sg+Nom: __running/corrida__ 
+!!€ myteka%^VowRM%>inhi 
+!!€ mytek00%>inhi 
+
+"Realizing %{hØ%}:h "
+  %{hØ%}:h <=> n _ [%{yiØ%}:i %< PALCns | %{yiØ%}:0 %< i ] ;
+!! nhika+V+ScSg1+Oc3F: __I ate it(Fem)/__
+!!€ n%{hØ%}%{yiØ%}%<nhika%>ru
+!!€ nhi%<nhika%>ru
+
+
+"Realizing %{yiØ%}:y "
+ %{yiØ%}:y <=> [n %{hØ%}: | p | # ] _ %< NonPALCns  ;
+
+"Realizing %{yiØ%}:i "
+ %{yiØ%}:i <=> [n %{hØ%}: | p | # ] _ %< PALCns  ;
+
+"Realizing %{yiØ%}:ỹ "
+ %{ỹĩØ%}:ỹ <=> h _ %< NonPALCns  ;
+
+"Realizing %{ỹĩØ%}:ĩ "
+ %{ỹĩØ%}:ĩ <=> h _ %< PALCns  ;
+
+"non-nasal a"
+ %{aã%}:a <=> _ %< Cns  ;
+
+"non-nasal u"
+ %{uũ%}:u <=> _ %< Cns  ;
+
+"nasal ã"
+ %{aã%}:ã <=> _ %< Vow  ;
+
+"nasal ũ"
+ %{uũ%}:ũ <=> _ %< Vow  ;
+
+"nasalization with -ka passive marker"
+!! __@RULENAME@__
+ Vx:Vy <=>  _ %^VowNasL:0 %> ;
+           where Vx in (a e i u)
+                 Vy in (ã ẽ ĩ ũ) matched ;
+
+"nasalization with -Ntxi y:ỹ"
+!! __@RULENAME@__
+ y:ỹ <=> _ (y:) %^VowNasL:0 %> NonPALCns ; 
+
+
+"nasalization with -Ntxi y:ĩ"
+!! __@RULENAME@__
+ y:ĩ <=>
+ Cns _ %^VowNasL:0 %> PALCns ; 
+  _ y: %^VowNasL:0 %> PALCns ; 
+! kywy+N+Sg+Nom+PxNot: __head/cabeça__
+!!€ kywy%^VowNasL%>txi
+!!€ kywĩ0%>txi
+! tsyy+N+Sg+Nom+PxNot: __/dor__
+!!€ tsyy%^VowNasL%>txi
+!!€ tsĩi0%>txi
+
+!!TESTS
+!echo 'n {hØ}:0 {yiØ}:y < t a k a > r y' | hfst-pair-test src/phonology/apu-phon.compose.hfst
+!echo 'taka+V+ScSg1+OcSg3M' | hfst-lookup src/morphology/lexicon.hfst

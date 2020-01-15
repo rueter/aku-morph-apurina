@@ -1,0 +1,71 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - taka: # Verb pg 275 'eng put, place, pt plantar' - partial paradigm
+# Perfect aspect
+     taka+V+ScSg1: nytaka # I run
+     taka+V+ScSg2: pytaka # you(sg) run
+     taka+V+ScSg3+Msc: ytaka # he runs
+     taka+V+ScSg3+Fem: utaka # she runs
+     taka+V+ScPl1: ataka # we run
+     taka+V+ScPl2: hỹtaka # you(pl) run
+     taka+V+ScPl3+Mal: ytakana # they run
+     taka+V+ScPl3+Fem: utakana # they run
+
+     taka+V+ScSg1+Oc3M: nytakary # I put it(Mal)
+     taka+V+ScSg1+Oc3F: nytakaru # I put it(Fem)
+     taka+V+ScSg1+OcSg2: nytakai # I put you
+     taka+V+ScSg1+OcPl2: nytakai # I put you
+
+
+     taka+V+ScPl1+Oc3M: atakary # we put it
+     taka+V+ScPl1+Oc3F: atakaru # we put it
+     taka+V+ScPl1+OcSg2: atakai # we put you
+     taka+V+ScPl1+OcPl2: atakai # we put you
+
+     taka+V+ScSg2+Oc3M: pytakary # you(Sg) put it(Mal)
+     taka+V+ScSg2+Oc3F: pytakaru # you(Sg) put it(Fem)
+     taka+V+ScSg2+OcSg1: pytakano # you(Sg) put me
+     taka+V+ScSg2+OcPl1: pytakawa # you(Sg) put us
+
+     taka+V+ScPl2+Oc3M: hỹtakary # you put it
+     taka+V+ScPl2+Oc3F: hỹtakaru # you put it
+     taka+V+ScPl2+OcSg1: hỹtakano # you put me
+     taka+V+ScPl2+OcPl1: hỹtakawa # you put us
+
+     taka+V+ScSg3M+Oc3M: ytakary # he(Sg) put it(Mal)
+     taka+V+ScSg3M+Oc3F: ytakaru # he(Sg) put it(Mal)
+     taka+V+ScSg3F+Oc3M: utakary # she(Sg) put it(Fem)
+     taka+V+ScSg3F+Oc3F: utakaru # she(Sg) put it(Fem)
+     taka+V+ScSg3M+OcSg1: ytakano # he(Sg) put me
+     taka+V+ScSg3M+OcPl1: ytakawa # he(Sg) put us
+     taka+V+ScSg3F+OcSg1: utakano # she(Sg) put me
+     taka+V+ScSg3F+OcPl1: utakawa # she(Sg) put us
+     taka+V+ScSg3M+OcSg2: ytakai # he(Sg) put you(sg)
+     taka+V+ScSg3M+OcPl2: ytakai # he(Sg) put you(pl)
+     taka+V+ScSg3F+OcSg2: utakai # she(Sg) put you(sg)
+     taka+V+ScSg3F+OcPl2: utakai # she(Sg) put you(pl)
+
+
+     taka+V+ScPl3+Oc3M: ytakary # they put him
+     taka+V+ScPl3+Oc3F: ytakaru # they put her
+     taka+V+ScPl3+OcSg1: ytakano # they put me
+     taka+V+ScPl3+OcPl1: ytakawa # they put us
+     taka+V+ScPl3+OcSg2: ytakai # they put you(sg)
+     taka+V+ScPl3+OcPl2: ytakai # they put you(pl)
+

@@ -1,0 +1,92 @@
+!! Noun inflection
+!  ---------------
+!! The APURINÃ language nouns inflect in cases.
+! There are yaml tests 
+! in apu/test/src/gt-norm-yamls/
+! for herẽka in N-hereqka_gt-norm.yaml
+
+
+LEXICON N_SUFFIXES_01_Fem_ne/0
+@P.NounEnding.ne@+Fem:@P.NounEnding.ne@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Fem_te/0
+@P.NounEnding.te@+Fem:@P.NounEnding.te@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Fem_ne-te/0
+@P.NounEnding.ne@+Fem:@P.NounEnding.ne@	N_SUFFIXES_02 ;
+@P.NounEnding.te@+Fem:@P.NounEnding.te@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_te/0
+@P.NounEnding.te@+Msc:@P.NounEnding.te@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_ne-te/0
+@P.NounEnding.ne@+Msc:@P.NounEnding.ne@	N_SUFFIXES_02 ;
+@P.NounEnding.te@+Msc:@P.NounEnding.te@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Fem-ru_te/0
+@P.NounEnding.te@+Fem:@P.NounEnding.te@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc-ry_te/0
+@P.NounEnding.te@+Msc:@P.NounEnding.te@	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_re2/ry
+@P.NounEnding.re2@+Msc:@P.NounEnding.re2@ N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc
++Msc:	N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_0/txi ! clothes marked when not possessed
+@P.NounEnding.txi@+Msc:@P.NounEnding.txi@ N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_0/Ntxi ! clothes marked when not possessed
+@P.NounEnding.Ntxi@+Msc:@P.NounEnding.Ntxi@ N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_0/txi-Ntxi ! clothes marked when not possessed
+@P.NounEnding.txi@+Msc:@P.NounEnding.txi@ N_SUFFIXES_02 ;
+@P.NounEnding.Ntxi@+Msc:@P.NounEnding.Ntxi@ N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Msc_0/NULL !yry father always possessed. inalienable
++Msc:   N_SUFFIXES_02 ;
+
+LEXICON N_SUFFIXES_01_Fem_0/NULL !ynyru mother always possessed. inalienable
+!check for morphology between yny AND ru
++Fem:   N_SUFFIXES_02 ;
+
+LEXICON Cases
++Nom:0     #   ;
+!+N+Pl+Nom:i     #   ;
++Aff:%>nhi # ; ! affected by the event described in the verb
++All:%>munhi    #   ;!to para
++Com:%>kata    #   ;!with, +Com in kpv Associative marker
++Dat:%>mukary    #   ;!to para
++Loc:%>ã   #   ;! both +Loc and +Ins
+
+!#:0   Nouns   ;
+
+LEXICON N_SUFFIXES_02
++Sg: N_SUFFIXES_02-after-number ;
++Pl:%>waku N_SUFFIXES_02-after-number ;
+
+LEXICON N_SUFFIXES_02-after-number
+@R.PN.SG1@+PxSg1:@R.PN.SG1@ N_SUFFIXES_03 ;
+@R.PN.PL1@+PxPl1:@R.PN.PL1@ N_SUFFIXES_03 ;
+@R.PN.SG2@+PxSg2:@R.PN.SG2@ N_SUFFIXES_03 ;
+@R.PN.PL2@+PxPl2:@R.PN.PL2@ N_SUFFIXES_03 ;
+@R.PN.SG3M@+PxSg3+Msc:@R.PN.SG3M@ N_SUFFIXES_03 ;
+@R.PN.SG3F@+PxSg3+Fem:@R.PN.SG3F@ N_SUFFIXES_03 ;
+@R.PN.PL3M@+PxPl3+Msc:@R.PN.PL3M@%>na N_SUFFIXES_03 ;
+@R.PN.PL3F@+PxPl3+Fem:@R.PN.PL3F@%>na N_SUFFIXES_03 ;
+@D.PN@ N_SUFFIXES_03 ;
+
+LEXICON N_SUFFIXES_03
+#;
+
+! vim: set ft=xfst-lexc:
+
+
+!! Suffixes
+
+LEXICON n_suf
+v_suf ; ! identical?
+
+

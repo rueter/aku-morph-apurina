@@ -1,0 +1,36 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Noun - herẽka: # Noun pg 2016: 86 'eng blood, pt sangue' - partial paradigm
+# Perfect aspect
+     herẽka+N+Msc+Sg+Nom+PxSg1: nỹerẽka # my blood
+     herẽka+N+Msc+Sg+Nom+PxSg2: pỹerẽka # your(sg) blood
+     herẽka+N+Msc+Sg+Nom+PxSg3M: ỹerẽka # his bloods
+     herẽka+N+Msc+Sg+Nom+PxSg3F: ũerẽka # her bloods
+     herẽka+N+Msc+Sg+Nom+PxPl1: ãerẽka # our blood
+     herẽka+N+Msc+Sg+Nom+PxPl2: hỹerẽka # your(pl) blood
+     herẽka+N+Msc+Sg+Nom+PxPl3M: ỹerẽkana # their blood
+     herẽka+N+Msc+Sg+Nom+PxPl3F: ũerẽkana # their blood
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - myteka: # Verb pg 275 'eng run, pt' - partial paradigm
+# Perfect aspect
+     myteka+V+ScSg1: nymyteka # I run
+     myteka+V+ScSg2: pymyteka # you(sg) run
+     myteka+V+ScSg3M: ymyteka # he runs
+     myteka+V+ScSg3F: umyteka # she runs
+
+
+     myteka+V+ScPl1: amyteka # we run
+     myteka+V+ScPl2: hỹmyteka # you(pl) run
+     myteka+V+ScPl3M: ymytekana # they run
+     myteka+V+ScPl3F: umytekana # they run
+

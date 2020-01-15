@@ -1,0 +1,12 @@
+!! Adverbs
+!  ----------
+!! Adverbs in the APURINÃ language describe things.
+
+LEXICON Adverbs
+ikaatuku+Adv:ikaatuku ADV-TEMP_ "so, then" ;
+wai+Adv:wai ADV-SPAT_ "here" ;
+
+
+harekary+Interj:harekary # "Thank you" ;
+
+! vim: set ft=xfst-lexc:

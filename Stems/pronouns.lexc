@@ -1,0 +1,9 @@
+!! Pronouns
+!  --------
+!! Pronouns in the Apurinã language are references to things.
+
+LEXICON Pronouns
+ykynypuku+Pron:ykynypuku PRON_TOT "everything" ;
+
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,21 @@
+!! Verbs
+!  -----
+!! Verbs in APURINÃ language are actions.
+
+LEXICON Verbs
+aiata+V:aiata V_SUFFIXES_01 "TV hunt" ;
+apuka+V:apuka V_SUFFIXES_01 "TV find" ;
+arika+V:arika V_SUFFIXES_01 "TV set on fire" ;
+ãta+V:ãta V_SUFFIXES_01 "TV drink" ;
+atama+V:atama V_SUFFIXES_01 "TV watch" ;
+etama+V:etama V_SUFFIXES_01 "TV see" ;
+kama+V:kama V_SUFFIXES_01 "TV make" ;
+mapuruka+V:mapuruka V_SUFFIXES_01 "TV pull out of the ground" ;
+myteka+V:myteka V_SUFFIXES_01 "IV run" ;
+nhika+V:nhika V_SUFFIXES_01 "TV eat" ;
+pata+V:pata V_SUFFIXES_01 "TV cover" ;
+taka+V:taka    V_SUFFIXES_01 "TV put" ;
+uka+V:uka V_SUFFIXES_01 "TV kill" ;
+!taka+V:taka    v_suf "put"  ;
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,8 @@
+!! Adjectives
+!  ----------
+!! Adjectives in the Apurinã language describe things.
+
+LEXICON Adjectives
+adjective    Comparisons   ;
+
+! vim: set ft=xfst-lexc:

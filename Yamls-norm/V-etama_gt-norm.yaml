@@ -1,0 +1,78 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - taka: # Verb pg 275 'eng see, pt ver' - partial paradigm
+# Perfect aspect
+     etama+V+ScSg1: netama # I see
+     etama+V+ScSg2: petama # you(sg) see
+     etama+V+ScSg3+Msc: etama # he sees
+     etama+V+ScSg3+Fem: ũetama # she sees
+     etama+V+ScPl1: ãetama # we see
+     etama+V+ScPl2: hẽtama # you(pl) see
+     etama+V+ScPl3+Mal: etamana # they see
+     etama+V+ScPl3+Fem: ũetamana # they see
+
+     etama+V+ScSg1+Oc3M: netamary # I see it(Mal)
+     etama+V+ScSg1+Oc3F: netamaru # I see it(Fem)
+     etama+V+ScSg1+OcSg2: netamai # I see you
+     etama+V+ScSg1+OcPl2: netamai # I see you
+
+
+     etama+V+ScPl1+Oc3M: ãetamary # we see it
+     etama+V+ScPl1+Oc3F: ãetamaru # we see it
+     etama+V+ScPl1+OcSg2: ãetamai # we see you
+     etama+V+ScPl1+OcPl2: ãetamai # we see you
+
+     etama+V+ScSg2+Oc3M: petamary # you(Sg) see it(Mal)
+     etama+V+ScSg2+Oc3F: petamaru # you(Sg) see it(Fem)
+     etama+V+ScSg2+OcSg1: petamano # you(Sg) see me
+     etama+V+ScSg2+OcPl1: petamawa # you(Sg) see us
+
+     etama+V+ScPl2+Oc3M: hẽtamary # you see it
+     etama+V+ScPl2+Oc3F: hẽtamaru # you see it
+     etama+V+ScPl2+OcSg1: hẽtamano # you see me
+     etama+V+ScPl2+OcPl1: hẽtamawa # you see us
+
+     etama+V+ScSg3M+Oc3M: etamary # he(Sg) see it(Mal)
+     etama+V+ScSg3M+Oc3F: etamaru # he(Sg) see it(Mal)
+     etama+V+ScSg3F+Oc3M: ũetamary # she(Sg) see it(Fem)
+     etama+V+ScSg3F+Oc3F: ũetamaru # she(Sg) see it(Fem)
+     etama+V+ScSg3M+OcSg1: etamano # he(Sg) see me
+     etama+V+ScSg3M+OcPl1: etamawa # he(Sg) see us
+     etama+V+ScSg3F+OcSg1: ũetamano # she(Sg) see me
+     etama+V+ScSg3F+OcPl1: ũetamawa # she(Sg) see us
+     etama+V+ScSg3M+OcSg2: etamai # he(Sg) see you(sg)
+     etama+V+ScSg3M+OcPl2: etamai # he(Sg) see you(pl)
+     etama+V+ScSg3F+OcSg2: ũetamai # she(Sg) see you(sg)
+     etama+V+ScSg3F+OcPl2: ũetamai # she(Sg) see you(pl)
+
+
+     etama+V+ScPl3+Msc+Oc3M: etamanary # they see him
+     etama+V+ScPl3+Msc+Oc3F: etamanaru # they see her
+     etama+V+ScPl3+Msc+OcSg1: etamanano # they see me
+     etama+V+ScPl3+Msc+OcPl1: etamanawa # they see us
+     etama+V+ScPl3+Msc+OcSg2: etamanai # they see you(sg)
+     etama+V+ScPl3+Msc+OcPl2: etamanai # they see you(pl)
+
+     etama+V+ScPl3+Fem+Oc3M: ũetamanary # they see him
+     etama+V+ScPl3+Fem+Oc3F: ũetamanaru # they see her
+     etama+V+ScPl3+Fem+OcSg1: ũetamanano # they see me
+     etama+V+ScPl3+Fem+OcPl1: ũetamanawa # they see us
+     etama+V+ScPl3+Fem+OcSg2: ũetamanai # they see you(sg)
+     etama+V+ScPl3+Fem+OcPl2: ũetamanai # they see you(pl)
+
