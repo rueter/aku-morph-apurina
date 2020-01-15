@@ -33,7 +33,7 @@ If you use this data in your work, I would be ever so grateful if you cited it a
 
 This repository can also be cited as:
 
-
+[![DOI](https://zenodo.org/badge/234045407.svg)](https://zenodo.org/badge/latestdoi/234045407)
 
 
 # Acknowledgements
