@@ -49,6 +49,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Dat	   !!≈ -mukary
 !!≈	   -ka, -nhi
 
+
  +Msc !!≈  ywa
  +Fem !!≈	uwa
  
@@ -70,8 +71,32 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
  +Relzr-Subj !!= relativizer with subject reference
  +Relzr-Obj  !!= relativizer with object reference
- +Prftv	     !!= perfective -pe
+
+ +Impf      !!= IPFTV
+ +Perf      !!= PFTV perfective -pe
+
+
  +Pss	     !!= passivizer -~ka
+ +Distr
++Caus
++Intr
++Augm
++TCaus
++Fact
++ColTV
++Prog
++Almost
++Random
++Intens
++Des
++RS
++Vblz
++Hypoth
++Recipr
++Immin
++Caus
++Hab
++Pred
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
@@ -133,6 +158,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Edu
  +Veh
  +Clth
+
++Sem/Body
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
@@ -230,13 +257,20 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 @P.NounEnding.te@
 @P.NounEnding.re1@
 @P.NounEnding.re2@
+@P.NounEnding.txi@
+@P.NounEnding.Ntxi@
+
 @R.NounEnding.ry@
 @R.NounEnding.ru@
 @R.NounEnding.ne@
 @R.NounEnding.te@
 @R.NounEnding.re1@
 @R.NounEnding.re2@
+@R.NounEnding.txi@
+@R.NounEnding.Ntxi@
 
+@P.VerbDerv.YES@
+@D.VerbDerv@
 
 @U.pn.sg1@
 @U.pn.sg2@

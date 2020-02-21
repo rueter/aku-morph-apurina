@@ -51,15 +51,21 @@ LEXICON V_SUFFIXES_01
 !n-arika-ru ScSg1+Oc3M
 !karuwa-ta-no non-indian+VBLZ+OcSg1
 !0-upũ-pe
- V_SUFFIXES_02 ; !This may allow all
+  YES/NO_DISTR ;
++Der+Der/NomAct+N:%^VowRM%>inhi N_SUFFIXES_02 ;!Direct from verb stem 
+!sa%^VowRM%>inhi
++Impf+Pred:%>panhi%>ka  N_SUFFIXES_02 ;
+!! aiata+Impf+Pred:__caça/hunting__
+!! aiatapanhika
+! V_SUFFIXES_02 ; !This may allow all
 +Der+Der/NomAct+N:%^VowRM%>inhi N_SUFFIXES_02 ;
 +Der+Der/NomAg+N:%>myna N_SUFFIXES_02 ;
 @D.PN@+Relzr-Subj+Msc:@D.PN@%>ta%>kary # ; ! should this relativizer have %>ta here ?
 @D.PN@+Relzr-Subj+Fem:@D.PN@%>ta%>karu # ;
 @D.PN@+Relzr-Obj+Msc:@D.PN@%>ta%>kyty # ;
 @D.PN@+Relzr-Obj+Fem:@D.PN@%>ta%>kytu # ; ! 
-+Pftv:%>pe # ;
-+Pftv+Pss:%>pe%^VowNasL%>ka V_SUFFIXES_02 ;
++Perf:%>pe # ;
++Perf+Pss:%>pe%^VowNasL%>ka V_SUFFIXES_02 ;
 
 LEXICON V_SUFFIXES_02
 @R.PN.SG1@+ScSg1:@R.PN.SG1@ V_SUFFIXES_03 ;
@@ -73,7 +79,14 @@ LEXICON V_SUFFIXES_02
 @D.PN@ V_SUFFIXES_03 ;
 
 LEXICON V_SUFFIXES_03
-+OcSg1:%>no Verbs_END ;
++All:%>munhi    V_SUFFIXES_04   ;!to para
++Com:%>kata    V_SUFFIXES_04   ;!with, +Com in kpv Associative marker
++Dat:%>mukary    V_SUFFIXES_04   ;!to para
++Loc:%>ã   V_SUFFIXES_04  ;! both +Loc and +Ins
+ V_SUFFIXES_04 ;
+
+LEXICON V_SUFFIXES_04
++OcSg1:%>nu Verbs_END ;
 +OcPl1:%>wa Verbs_END ;
 +OcSg2:%>i Verbs_END ;
 +OcPl2:%>i Verbs_END ;
@@ -82,10 +95,111 @@ LEXICON V_SUFFIXES_03
  Verbs_END ;
 
 LEXICON Verbs_END
++Fut:%>ku # ;
 # ;
 
 
+LEXICON YES/NO_DISTR
+!1 Distr -puku
+@P.VerbDerv.YES@+Distr:@P.VerbDerv.YES@%>puku YES/NO_CAUS-1 ;
+ YES/NO_CAUS-1 ;
 
+LEXICON YES/NO_CAUS-1
+!2 Caus -ka2
+@P.VerbDerv.YES@+Caus:@P.VerbDerv.YES@%>ka YES/NO_INTR ;
+ YES/NO_INTR ;
+
+LEXICON YES/NO_INTR
+!3 Intr -rewa
+@P.VerbDerv.YES@+Intr:@P.VerbDerv.YES@%>rewa YES/NO_AUGM ;
+ YES/NO_AUGM ;
+
+LEXICON YES/NO_AUGM
+!4 Augm -puwa
+@P.VerbDerv.YES@+Augm:@P.VerbDerv.YES@%>puwa YES/NO_TCAUS ;
+ YES/NO_TCAUS ;
+
+LEXICON YES/NO_TCAUS
+!5	T.Caus -kũtaka
+@P.VerbDerv.YES@+TCaus:@P.VerbDerv.YES@%>kũtka YES/NO_FACT ;
+ YES/NO_FACT ;
+
+LEXICON YES/NO_FACT
+!6 Fact -ã2
+@P.VerbDerv.YES@+Fact:@P.VerbDerv.YES@%^VowNasL%>ã YES/NO_COLTV ;
+ YES/NO_COLTV ;
+
+LEXICON YES/NO_COLTV
+!7 ColTV -pirĩka
+@P.VerbDerv.YES@+ColTV:@P.VerbDerv.YES@%>pirĩka YES/NO_PROG ;
+	YES/NO_PROG ;
+
+LEXICON	YES/NO_PROG
+!8 Prog -nany
+@P.VerbDerv.YES@+Prog:@P.VerbDerv.YES@%>nany YES/NO_ALMOST ;
+ YES/NO_ALMOST ;
+LEXICON YES/NO_ALMOST
+!9 Almost -wari
+@P.VerbDerv.YES@+Almost:@P.VerbDerv.YES@%>wari YES/NO_RANDOM ;
+ YES/NO_RANDOM ;
+
+LEXICON YES/NO_RANDOM
+!10 Random -ãpu
+@P.VerbDerv.YES@+Random:@P.VerbDerv.YES@%^VowNasL%>ãpu YES/NO_INTENS ;
+ YES/NO_INTENS ;
+
+LEXICON YES/NO_INTENS
+!11 Intens -ka1
+@P.VerbDerv.YES@+Intens:@P.VerbDerv.YES@%>ka YES/NO_DESID ;
+ YES/NO_DESID ;
+
+LEXICON YES/NO_DESID
+!12 Desid -ene
+@P.VerbDerv.YES@+Des:@P.VerbDerv.YES@%>ene YES/NO_RS ;
+ YES/NO_RS ;
+
+LEXICON YES/NO_RS
+!13 RS -pira
+@P.VerbDerv.YES@+RS:@P.VerbDerv.YES@%>pira VRBLZ ;
+ VRBLZ ;
+
+LEXICON  VRBLZ
+!14 Vblz -ta see also 325 absent
++Vblz:%>ta YES/NO_HYPOTH ;
+@D.VerbDerv@ YES/NO_HYPOTH ;
++Vblz+Der+Der/NomAct+N:%>ta%^VowRM%>inhi N_SUFFIXES_02 ;
++Vblz+Impf+Pred:%>ta%>panhi%>ka  N_SUFFIXES_02 ;
+!ukatsaã-ta-panhi-ka
+
+LEXICON YES/NO_HYPOTH
+!15 Hypoth -ã3
++Hypoth:%^VowNasL%>ã YES/NO_RECIPR ;
+ YES/NO_RECIPR ;
+
+LEXICON YES/NO_RECIPR
+!16 Recipr -kaka
++Recipr:%>kaka YES/NO_IMMIN ;
+ YES/NO_IMMIN ;
+
+LEXICON YES/NO_IMMIN
+!17 Immin -napanu
++Immin:%>napanu YES/NO_CAUS-2 ;
+	YES/NO_CAUS-2 ;
+
+LEXICON	YES/NO_CAUS-2
+!18 Caus -ka3
++Caus:%>ka YES/NO_HAB ;
+ YES/NO_HAB ;
+
+LEXICON YES/NO_HAB
+!19 Hab -pi
++Hab:%>pi  YES/NO_PRED-KA ;
+ YES/NO_PRED-KA ;
+
+LEXICON YES/NO_PRED-KA
++Pred:%>ka V_SUFFIXES_02 ;
+ V_SUFFIXES_02 ;
++Pred+Der+Der/NomAct+N:%>ka%^VowRM%>inhi N_SUFFIXES_02 ;
 
 
 ! vim: set ft=xfst-lexc:

@@ -1,0 +1,794 @@
+# Facundes 2000 !Orthography
+(p. 122)
+1a. nu-su-pe-ka-ko
+1SG-go-PFTV-PRED-FUT
+ ‘I’ll get going.’ 
+(p. 123)
+b. watxa nu-su-pe-ka-ko nota
+ today 1SG-go-PFTV-PRED-FUT 1SG
+ ‘Now I’ll get going.’
+c. nu-su-pe-ka-ko nota watxa
+ 1SG-go-PFTV-PRED-FUT 1SG today
+ ‘I’ll get going now.’
+
+2.  ́watxa nu-su-pe- ́ka-ko  ́nota ‘Now I’ll get going.’ today 1SG-go-PFTV-PRED-FUT 1SG
+(124)
+4a. kuku-wako-ru
+ man-PL-M
+‘men’
+b. *uwa muteka-wako-ru
+ 3M run-PL-M
+(They ran.)
+c. nu-su-pe-ka-ko   nota watxa
+ 1SG-go-PFTV-PRED-FUT 1SG today
+‘I’ll get going now.’
+(125)
+5a. uwa muteka-nanu-ta ‘He’s running.’ 3SG.M run-PROGR-VBLZ
+6. uwa owa-kata muteka-nanu-ta ‘He was running with her.’ 3SG.M 3SG.F-ASSOC run-PROGR-VBLZ
+(126)
+7a. kanhipa nhi-txa-ru “man”?
+ how 1SG-say-3M.O
+‘How do I say “man”?’ 
+b. kuku
+ man
+ ‘man’
+(136)
+10b. ata [nhipoko]ROOT –re
+ 1PL food-POSSED
+‘our food’
+c. ata [nhipoko-re]STEM –a
+ 1PL food-POSSED-INSTR
+‘in our food’
+(138)
+11a. nota muteka-ko ‘I’ll run away.’ 1SG run-FUT
+b. nota-ko muteka ‘I’ll run away.’ 1SG-FUT run
+(160)
+14a. Ø-akuro apo-pe ‘His grandmother has arrived.’ 3M-grandmother.of arrive-PFTV
+b. õ-akuro apo-pe ‘Her grandmother has arrived.’ 3F-grandmother.of arrive-PFTV
+15a. kuro apo-pe grandma arrive-PFTV
+b. totu apo-pe grandpa arrive-PFTV
+c. nano apo-pe
+mom arrive-PFTV
+‘Grandma has arrived.’ ‘Grandpa has arrived.’ ‘Mom/My auntie has arrived.’
+(161)
+d. patu apo-pe ‘Dad/my uncle has arrived.’ dad arrive-PFTV
+(165)
+19a. ata komuru usonãka-pe-ta-ka
+1PL manioc dry-pulp.of-VBLZ-CAUS ‘We put the manioc pulp to dry.’ (QP1:24)
+b. Preceding context: ‘First, we prepare the field farm by cutting down the trees... then...’
+ata yotika-xiti-ta txa-ru
+1PL burn-earth.of-VBLZ AUX-3M.OBJ ‘....we set it (the field farm) on fire.’
+(181)
+41. (komeru(-pe)) ata oka-pe-ta manioc(-pulp of) we throw-pulp-VBLZ
+‘We thrown the (manioc) mush in.’
+(201)
+49a. nota nuta-ro n-ããta-ne
+1SG look.for-3F.O 1SG-canoe-POSSED ‘I look for my (traditional) canoe.’
+b. nota nuta-ro ããta
+1SG look.for-3F.O canoe
+‘I look for the (traditional) canoe.’
+(202)
+50a. [nota kuku-re1] apo-pe
+1SG man-POSSED arrive-PFTV ‘My husband has arrived.’
+b. kuku apo-pe
+man arrive-PFTV ‘The man has arrived.’
+(205)
+51a. mipa atama-ta-ru1 o-kota-re2
+Mipa look-VBLZ3M.O 3SG.F-basket-POSSED ‘Mipa looks her basket.’
+b. mipa atama-ta-ru kota-ru2
+Mipa look-VLBZ-3M.O basket-UNPOSS ‘Mipa looks the basket.’
+(214)
+60a. nota nhipoko-ta
+‘I ate.’
+‘I found a place-for-eating.’
+‘You made it.’ ‘your work’
+1SG
+b. nota 1SG
+61a. pite 2SG
+b. pita 2SG
+food-VBLZ
+apoka-ru nhipoko-ta-txi
+find-3M.O food-VBLZ-UNPOSS
+kama-ru
+make-3M.O
+kama-re1
+make-POSSED
+(216)
+62a. nota apoka-ru atama-ta-karu
+1SG find-3M.O look-VBLZ-S.M.REL
+‘I found the (masculine) one who watches.’
+b. nota apoka-ru atama-ta-karo
+1SG find-3M.O look-VBLZ-S.F.REL ‘I found the (feminine) one who watches’
+63a. nota apoka-ru nhika-kutu 1SG find-3M.O eat-O.M.REL
+‘I found the (masculine) one who was eaten’
+b. nota apoka-ru nhika-kuto
+1SG find-3M.O eat-O.F.REL
+‘I found the (feminine) one who was eaten’
+(218)
+64a. ata nhika-ro tata we eat-3F.O umari
+‘We eat “umari”.’
+b. nota atama-ru yowata I look-3M.O knife
+‘I saw the knife.’
+(221)
+66a. u-muteka hãtako-ru1 3M-run youth-3M
+‘The boy runs.’
+(221)
+b. o-muteka hãtako-ro 3F-run youth-3F ‘The girl runs.’
+(223)
+68. pose ̃taka-ru txipokoru yellow-3M.O fruit.M 'The fruit is ripe.'
+(224)
+69a. mita-ru1 pataru big-3M.O chicken ‘The rooster is big’
+b. mita-ro pataru
+big-3F chicken
+‘The female chicken is big.’
+(237)
+78a. [nhi-nhipoko-re2] pu-muna 1SG-food-POSSED 2SG-bring ‘Bring my food.’
+(238)
+b. [nhipoko-ru2] pu-muna food-UNPOSS 2SG-bring ‘Bring the food.’
+79a. nota nhipoko-ta 1SG food-VBLZ
+b. nota apoka-ru 1SG find-3M.O
+nhipoko-ta-txi
+food-VBLZ-UNPOSS
+‘I did the eating.’
+‘I found a place-for-eating/ something to eat with’
+(239)
+80a. komeru nota taka manioc 1SG plant/put
+b. nu-taka-ru komeru 1SG-plant/put-3M.O manioc
+c. nu-maporoka-ru taka-ru2 1SG-pull.out-3M.O plant/put-UNPOSS
+‘I planted/put manioc (in).’ ‘I planted/put manioc (in).’ ‘I pull out the plant.’
+(241)
+82a. katso-na-ka1-rewa-t-iko pu-muna squeeze-linear-INTENS-VBLZ-NMLZ 2SG-bring
+b. nota suk-iko 1SG give-NMLZ
+c. kusaka-rewa-t-iko pu-muna dig-INTR-VBLZ-NMLZ 2SG-bring
+‘Bring the squeezer’ ‘my gift
+‘Bring the “digger”’
+(242)
+84a. u-suka-pe 3M-give-PFTV
+b. u-suka-ãpo-ta 3M-give-RANDOM-VBLZ
+c. u-suka-ta-i 3M-give-VBLZ-2O
+d. u-suk-iko 3M-give-NMLZ
+‘he has given (it)’ ‘he gives it around’ ‘he gives it around’ ‘his gift/present’
+(243)
+85a. mayaka-muna apo-pe catch-NMLZ arrive-PFTV
+b. taka-muna apo-pe put/plant-NMLZ arrive-PFTV
+c. oka-muna apo-pe kill-NMLZ arrive-PFTV
+d. keroka-muna apo-pe miss-NMLZ arrive-PFTV
+‘The catcher has arrived.’
+‘The planter (one who plants) has arrived.’
+‘The killer/murderer has arrived.’
+‘The error-maker (one who makes errors) has arrived.’
+(244)
+86a. kanawa-muna-ru1 su-pe. kanawa-NMLZ-3M go-PFTV
+b. serepi-muna-ru1 su-pe. arrow-NMLZ-3M go-PFTV
+c. kopiti-muna-ro su-pe. pan-NMLZ-3F go-PFTV
+‘The canoe-builder has left.’ ‘The arrow-maker has left.’ ‘The pan-maker has left.’
+87a. n-atama-ta-ru ãkiti-muna-ru1 1SG-look-VBLZ-3M.O jaguar-NMLZ-3M
+b. n-atama-ta-ru kãkiti-muna-ru1 1SG-look-VBLZ-3M.O person-NMLZ-3M
+c. n-atama-ta-ro pataru-muna-ro 1SG-look-VBLZ-3F.O chicken-NMLZ-3F
+‘jaguar killer’
+‘person killer, murderer’ ‘chicken killer’
+(246)
+89. anhi-kuto-mokaru ‘to the one taken away take.out-REL.SG.F.O-GOAL (e.g. kidnapped one)’
+(247)
+91a. nota muteka 1SG run
+b. nota mutek-inhi 1SG run-GER
+92a. a-sarawa-ta 1PL-play-VBLZ
+b. awa-ru
+there.be/have-3M.O 1PL-play-GER
+‘I run’
+‘my running’
+‘we play’
+‘there is our playing’
+(248)
+93a. nhi-xinhik-inhi-ã ‘in/with my remembering’ 1SG-remember-GER-INST
+b. nu-s-inhi-ã ‘in/with my going’ 1SG-go-GER-INST
+94a. a-yowe ̃k-inhi-ru ‘our things for sifting’ 1PL-sift-GER-3M.O
+b. o-awãku-ta-k-inhi-ru ‘her struggle to give birth to him’ 3F-give.birth-VBLZ-CAUS-GER-3M.O
+(249)
+96a. nota muteka-ko 1SG run-FUT
+b. nota mutekã-ãpo-ta
+1SG run-RANDOM-VBLZ
+c. nota mutek-inhi 1SG run-GER
+‘I’ll run.’
+‘I ran around.’ ‘my run’
+(260)
+116a. kuku-wako-ru1 man-PL-M
+b. suto-wako-ro woman-PL-M
+apo-pe
+arrive-PFTV
+‘The men have arrived.’ ‘women’
+‘male Apurinã’
+‘female Apurinã’
+‘male relatives’ ‘female relatives’
+    c. popu ̃ka-ru1-wako-ru1 woman-PL-M
+d. popu ̃ka-ro-wako-ro woman-PL-F
+e. nurumane-wako-ru1 relative-PL-M
+f. nurumane-wako-ro relative-PL-M
+(262)
+118a. kuku-nu-ru apo-pe man-PL-M arrive-PFTV
+b. suto-nu-ro woman-PL-M
+c. kema-nu-ru tapir-PL-M
+d. kema-nu-ro tapir-PL-F
+e. kopiti-nu-ru big.pan-PL-M
+f . aiko-nu-ru house-PL-M
+‘The men have arrived.’ ‘women’
+‘male tapirs’
+‘female tapirs’
+‘large buckets’ ‘houses’
+(270) Verb MOrph
+1a. hãkiti-nhi kãkutu-wako-ru1 keta jaguar-AFFECT person-PL-M shoot ‘The (male) people shot the poor jaguar.’
+b. *hãkiti-nhi kãkutu keta-wako-ru1 jaguar-AFFECT person shoot-PL-M (The (male) people shot the jaguar)
+(273)
+2a. ata nhika-ru ximaku we eat-3M.O fish ‘We eat fish.’
+b. yowata n-atamata nota knife 1SG-look 1SG ‘I look at the knife.’
+(275)
+4a. arika
+b. n-arika-ru
+1SG-set.fire-3M.O
+c. arika-txi n-atama fire-NMLZ 1SG-look
+‘to set on fire’ ‘I set it on fire.’
+‘I looked at the fire.’
+(275)
+5a. karuwa ‘a non-Indian person’
+b. karuwa-ta-no ‘I am/act like a non-Indian person’
+non-Indian-VBLZ-1SG.O
+(277)
+8a. Ø-upũ-pe 3M-die-PFTV
+‘He/It has died.’ b. nh-irika nota
+1SG-fall 1SG ‘I fell down.’
+c. n-umaka-ko 1SG-sleep-FUT ‘I will sleep.’
+d. u-muteka kuku 3M-run man ‘The man ran.’
+(278)
+e. o-serena suto 3F-dance woman ‘The woman danced.’
+f. o-apo-pe 3F-arrive-PFTV ‘She has arrived.’
+(279)
+9a. nu-sãpaka nota 1SG-be.tired 1SG ‘I’m tired.’
+b. nhi-inhikaka 1SG-feel.hot ‘I feel hot.’
+c. o-mireka 3F-be.awake ‘She’s awake.’
+d. nu-sutu ̃ka-pe nota 1SG-stink-PFTV 1SG ‘I smell bad.’
+e. o-suru ̃ka hãtako-ro 3F-lie.down youth-F ‘The girl is lying down.’
+f. u-tuma hãtako-ru 3M-stand.up youth-M ‘The boy is standing up.’
+(280)
+10a. nu-muteka-nanu-ta 1SG-run-PROG-VBLZ
+b. u-muteka-powa-ta 3M-run-AUGM-VBLZ
+c. u-muteka-ãpo-ta 3M-run-RANDOM-VBLZ
+11a. *nu-sãpaka-nanu-ta 1SG-be.tired-PROG-VBLZ
+b. u-sãpaka-powa-ta 3M-be.tired-AUGM-VBLZ
+c. u-sãpaka-ãpo-ta 3M-be.tired-RANDOM-VBLZ
+‘I’m running.’
+‘The fat one is running.’
+‘He/It is running at aimslessly.’
+(I’m getting tired.) ‘The fat one is tired.’ ‘He’s aimlessly tired.’
+(281)
+12a. hareka-no be.good-1SG.O
+‘I am good.’
+b. here-no be.pretty-1SG.O ‘I am pretty.’
+(282)
+c. pooma-no be.hot-1SG.O ‘I am hot.’
+13a. pooma-no nota be.hot-1SG.O 1SG ‘I’m/feel hot.’
+b. katsopu-ru hu ̃wu be.white-3M.O flower
+‘The flower is white.’
+c. pomama-ru mãka-txi be.black-3M.O clothes-UNPOSS ‘The clothes are black.’
+d. mita-ru aiko be.big-3M.O house
+‘The house is big.’
+(284)
+14a. nhi-nhika-ãpo-ta-ru 1SG-eat-RANDOM-VLBZ-3M.O ‘I went around aimlessly eating it.’
+(285)
+b. n-oka-ma-ru-ko 1SG-kill-FRUSTR-3M-FUT ‘I would have killed it.’
+c. nu-taka-pe-ta-ru 1SG-put-pulp-VBLZ-3M.O
+‘I put it (the fleshy thing) away.’
+15a. pu-suka-ru ‘Give (something) to him.’ 2SG-give-3M.O
+b. pu-suka-ro ‘Give (something) to her.’ 2SG-give-3F.O
+(286)
+16a. hãtako-ro apa-nanu-ta-ru aõtu girl.F fetch-PROG-VBLZ-3M.O umari(M)
+‘The girl is fetching “umari” (fruit).’
+b. o-atamata-ru uwa suto 3F-look-3M.O 3SG.M woman ‘The woman, she looked at it/him.’
+c. maku ata apa Brazil.nut we fetch ‘We gather Brazil-nut’
+d. a-makatxaka txa-ru komeru-pe 1PL-take.out AUX-3M.O manioc-pulp ‘We take the manioc pulp out.’
+e. a-makatxaka-ru 1PL-take.out-3M.O ‘We take it out.’
+(287)
+17a. mipake owara-pira-ta-ru u-sãkire (pita-monhi) Mipake teach-language-3M.O 3M-language.of 2SG-GOAL ‘Mipake taught his language (to you).’
+b. nota sãpire-ta-ru tsora sãkire (youkake-monhi) 1SG tell-VBLZ-3M.O Tsora language.of Youkake-GOAL ‘I told the Tsora story (to Youkake).’
+(288)
+18a. nhi-yowata-ne pita nota suka 1SG-knife-POSSED 2SG 1SG give ‘I gave you my knife.’
+19a. o-suka-ro uwa-mokaru nu-serepi 3F-give-3F.O 3SG.M-GOAL 1SG-arrow.of(F) ‘She gave my arrow to him.’
+(289)
+b. nota suka-ru uwa-mokaru nu-serepi
+1SG give-3M.O 3SG.M-GOAL 1SG-arrow.of(F)
+‘I gave my arrow to him.’
+(290)
+20a. pu-suka-no nota 2SG-give-1SG.O 1SG
+‘Give away to me.’
+b. nu-suka-pe-ka-ru 1SG-give-PFTV-PRED-3M.O ‘I’ve given away to him.’
+(291)
+21a. aiko mipake sukare-pe-ro suto house Mipake sell-PFTV-3F.O woman ‘Mipake sold the house to the woman.’
+b. mipa sukare-pe-ru aiko mipa-mokaru Mipa sell-PFTV-3M.O house(M)-AFFECT woman(M)-GOAL ‘Mipa sold the house to the woman’
+(292)
+22a. sãko awa? traíra there.be
+‘There is “traíra” fish.’
+b. nhikitxi awa-ka-sawaku
+game there.be-PRED-TEMP ‘When there’s game...’
+c. apoka-koru yowata awa find-REL knife there.be ‘There’s a knife that was found.’
+(293)
+23a. popu ̃ ka-ru-wakoru Apurinã-M-PL.M ‘Apurinã existed.’
+b. kone kariwa
+not white.person there.be-3M.O ‘White people didn’t exist.’
+c. aiko kone watxa awa-yoka
+house NEG today there.be-NO.LONGER ‘The house no longer exists nowadays.’
+(294)
+23a. popu ̃ ka-ru-wakoru Apurinã-M-PL.M ‘Apurinã existed.’
+b. kone kariwa
+not white.person there.be-3M.O ‘White people didn’t exist.’
+c. aiko kone watxa awa-yoka
+house NEG today there.be-NO.LONGER ‘The house no longer exists nowadays.’
+25a. nha-pakunu-pa p-ãtenekoru p-awa WH-plus-INT 2SG-children 2SG-there.be ‘How many children do you have?’
+b. n-awa-ru epi kanawa 1SG-have-3M.O two canoe
+‘I have two canoes.’
+(295)
+26a. akirita i-txa-ro owa call 3M-AUX-3F 3SG.F
+‘He called her.’
+b. pitxeka i-txa komeru grow 3M-AUX manioc ‘The manioc grew.’
+c. ata yotika-xiti-ka-ta txa 1PL burn-earth-INTENS-VBLZ AUX ‘We burn well the farm field.’
+d. hareka-ko pi-txa be.good-FUT 2SG-AUX
+‘Be good.’
+(296)
+27a. kuku-ka-ne-ra-no i-txa man-PRED-ALSO-FOC-1SG.O 3M-say
+‘He said “It’s a man that I also am.”’
+b. Ø-oka-pe-no-na-ko i-txa kema owa-mokaru 3M-kill-PFTV-PL-FUT 3M-say tapir 3SG.F-GOAL ‘“They’ll kill me”, the tapir said to the woman.’
+c. kuku-ka-ne-ra uwa o-txa-ru man-PRED-ALSO-FOC 3SG.M 3F-say-3M.O ‘She said that he’s also a man.’
+d. akirita i-txa-ro owa call 3M-say-3F.O 3SG.F ‘He called her.’
+28a. owa-kanera suto o-txa-wa 3SG.F-ALSO woman 3SG.F-be-REFL ‘She is also a woman.’
+(297)
+b. uwa-kanera kuku i-txa-wa 3SG.M-ALSO man 3SG.M-be-REFL
+‘He is also a man.’
+29a. a-txa-ru ata kitxekapir ̃ika 1PL-do-3M.O 1PL formerly ‘We did it in ancient times.’
+b. i-txa-ka-ta-ru 3M-do-INTENS-VBLZ-3M.O ‘He really did it.’
+(298)
+31a. tapo-txi pu-suka-ta-no bow-UNPOSS 2SG-give-VBLZ-1SG.O
+b. pu-suka-tapo-ta-no
+3F.S 2SG-give-food-VBLZ-1SG.O
+32a. nota pu-suka-ta-no pu-tou 1SG 2SG-give-VBLZ-3M.O 2SG-thing
+b. pu-suka-toi-txi-ta-no 2SG-give-thing-UNPOSS-VBLZ-1SG.O
+‘Give me a bow.’ ‘Give me a bow.’
+‘Give me your goods.’ ‘Give me the goods.’
+(299)
+33a. n-atama-ta ru-na kema yãkunu 1SG-look-VBLZ-3M.O tapir footprint.of ‘I looked at the tapir’s footprint.’
+b. n-atama-yãkunu-ta-ru kema 1SG-look-footprint.of-VBLZ-3M.O tapir ‘I looked at the tapir’s footprint.’
+(301)
+37a. a-txirãka-ke-ta-ru 1PL-split-stick-VBLZ-3M.O
+b. nu-taka-pe-ta-ru 1SG-put-pulp-VBLZ-3M.O
+c. u-pok ̃ika-ã-ta 3M-leave-water-VBLZ
+‘We opened a long, thin, flexible object’ ‘I put the paste object.’
+‘It floated in the water.’
+(302)
+39a. ata i-ye ãã-ke txirãka-ke-ta 1PL 3M-PROX plant-stick split-stick-VBLZ ‘We split open the stick.’
+b. ata komuru-pe usonãka-pe-ta-ka
+1PL manioc-pulp.of dry-pulp-VBLZ-CAUS ‘We put the manioc pulp to dry.’
+40a’. ata makatxa-ka txa-ru i-ye komuru-pe...
+1PL take.out-PRED AUX-3M.O M-DEM manioc-pulp.of
+‘...(when it softens,) we take out the softened manioc (out of the water)...’
+(303)
+a”. ...ata aminhãka-pe-ta txa-ru aiko-mokaru 1PL carry-pulp-VBLZ AUX-3M.OBJ house-GOAL
+‘....we bring the softened one into the house.’
+(310)
+44a. n-aya-poko-ta (R:N) 1SG-hunt-DISTR-VBLZ
+b. u-muteka-poko-ta-pe 3M-run-DISTR-VBLZ-PFTV
+c. u-nuta-poko-ta-i (M:51) 3M-search-DISTR-VBLZ-2O
+‘I was hunting around.’
+‘He ran away, stopping here and there.’
+‘He is searching around for you.’
+45a. nhi-nhipoko-ka1-ka2-ta-ru (M) ‘I made him do eating.’ 1SG-eat-INTENS-CAUS-VBLZ-3M.O
+b. nhi-nhika-nanu-ka2-ta-ru yapa ‘I am making him eat capibara.’ 1SG-eat-PROG-CAUS-VBLZ-3M.O capibara
+(311)
+46a. a-etuka-ta-ru 1PL-see-VBLZ-3M.O
+c. n-atama-ta-i 1SG-look-VBLZ-1O
+b. u-suka-no 3M-give-1SG.O
+‘We saw it.’
+‘I look at you.’
+‘He gave me (something).’
+47a. a-etuka-rewa-ta 1PL-see-INTR-VBLZ
+b. u-suka-rewa-ta 3M-give-INTR-VLBZ
+c. n-atama-rawa-ta (3:15) 1SG-look-INTR-VBLZ
+‘We did some seeing.’ ‘He did selling.’
+‘I did some looking.’
+48. Ø-umaka-poko-rewa-ta-na ‘They are sleeping around.’ 3M-sleep-DISTR-INTR-VBLZ-3PL
+(312)
+49a. u-muteka-powa-ta (M) 3M-run-AUGM-VBLZ
+b. i-nhipoko-powa-ta 3M-eat-AUGM-VBLZ
+c. nhi-nhika-powa-ta-ru 1SG-eat-big-VBLZ-3M.O
+‘The fat one ran.’
+‘The big one did eating.’ ‘I ate a lot of it.’
+(313)
+50a. nh-nhika-ku ̃taka-nanu-ta-pe (3:11,22-23) 1SG-eat-TR.CAUS-PROG-VBLZ-PFTV
+b. n-atama-ku ̃taka-ta 1SG-look-TR.CAUS- VBLZ
+c. n-oka-ku ̃taka-ta 1SG-kill-T.CAUS- VBLZ
+‘I already made (her) eat (it).’ ‘I made (him) look (at it).’
+‘I made (him) kill (it).’
+51a. Ø-apo-ã2-ka1-ta (Artur:Class) 3M-arrive-FACT-INTENS-VBLZ
+b. u-pitxe-ã2-ka1-ta (R:N) 3M-grow-FACT-INTENS-VLBZ
+c. Ø-atama-ã2-ka1-ta (R:N) 3M-look-FACT-INTENS-VBLZ
+‘He really arrived.’ ‘All of it really grew.’ ‘He really tried it.’
+(314)
+52a. hamo a-nhipoko-pir ̃ika-ta HORT 3M-eat-COLTV-VBLZ
+b. hamo a-ã-pir ̃ika-ta-ru
+HORT 1PL-run-COLTV-VBLZ-3M.O
+c. hamo a-serena-pir ̃ika-ta
+HORT 1PL-dance-COLTV-VBLZ
+‘Let’s all eat.’
+‘Let’s all drink together.’ ‘Let’s all dance together.’
+(314)
+53. *a-yarita-pir ̃ika-ta-ru hãkiti (We beat the jaguar.) 1PL-beat-COLTV-VBLZ-3MO jaguar
+54a. p-irika-nanu-ta (M:4) 2SG-fall-PROG-VBLZ
+b. o-nhika-nanu-ta-ru (M:13) 3F-eat-PROG-VBLZ-3M.O
+c. n-atama-nanu-ta-ru 1SG-look-PROG-VBLZ-3M.O
+‘You’re (often) falling down.’ ‘She is eating it.’
+‘I’m looking at it/him.’
+(315)
+55a. nhi-nhika-wari-ta-ru (M) ‘I almost ate it.’ 1SG-eat-ALMOST-VBLZ-3M.O
+b. kaikiripi akatsa-wari-ta-no ‘The “jararaca” snake almost bit me.’ snake bite-ALMOST-VBLZ-1SG.O
+56a. nhi-nhika-ãpo-ta-ru (M) ‘I go around eating aimlessly.’ 1SG-eat-RANDOM-VBLZ-3M.O
+b. hãkiti akatsa-ãpo-ta-ru ‘The jaguar ran around biting it/him aimlessly’ jaguar bite-RANDOM-VBLZ-3M.O
+(316)
+57a. i-nhipoko-ka1-ta (M:7) 3M-eat-INTENS-VBLZ ‘He ate well.’
+b. u-muteka-ka1-ta 3M-run-INTENS-VLBZ ‘He runs in a hurry.’
+c. nh-irika-ka1-ta 1SG-fall-INTENS-VBLZ ‘I fell down at once.’
+58a. nhi-nhika-ene-ta-ru ‘I wanted to eat it.’ 1SG-eat-DESID-VBLZ-3M.O
+b. hãkiti akatsa-ene-ta-ru ‘The jaguar wanted to bite him.’ jaguar bite-DESID-VBLZ-3M.O
+(317)
+59a. ata kema-pira-ta-ru
+1PL listen-RS-VBLZ-3M.O
+b. Ø-atama-pira-ta 3M-look-RS-VBLZ
+c. u-muteka-pira-ta 3M-run-RS-VBLZ
+‘We heard rumors.’
+‘He went to see if it was true or not.’ ‘The news spread around.’
+(323)
+66a. Ø-umaka-poko-rewa-ta-na 3-sleep-DISTR-INTR-VBLZ-3PL
+b. Ø-umaka-poko-ka2-ta-ro 3M-sleep-DISTR-CAUS-VBLZ-3F.O
+c. nhi-nhipoko-ka2-rewa-ta 1SG-eat-CAUS-INTR-VBLZ
+d. Ø-umaka-rewa-powa-ta-na 3-sleep-INTR-AUGM-VBLZ-3PL
+‘They are sleeping around.’
+‘He ordered her to sleep here and there.’ ‘I gave an order for eating.’
+‘They slept for a long while.’
+          e. pi-nhika-powa-kutaka-ta-no 2SG-eat-AUGM-TR.CAUS-VBLZ-1SG.O
+f. ?i-nhika-kutaka-ã2-ta-ro 3M-eat-TR.CAUS-FACT-VBLZ-3F.O
+g. ?u-nhipoko-ã2-pir ̃ika-ta-na 3-eat-FACT-COLTV-VBLZ-3PL
+h. nu-suka-pir ̃ika-nanu-ta 1SG-give-COLTV-PROGR-VBLZ
+‘You made me eat a lot...’ ‘He really made her eat...’ ‘They really ate all together.’ ‘I’m selling over and over.’ ‘I left almost running.’
+            i. nu-muteka-nanu-wari-ãpo-ta 1SG-run-PROGR-ALMOST-RANDOM-VBLZ
+  j. nhi-muteka-rewa-powa-ãpo-ka1-ta ‘I really left running aimlessly.’ 1SG-run-INTR-AUGM-RANDOM-INTENS-VBLZ
+(324)
+k. no-muteka-ka1-ene-ta ‘I really wanted to run away.’ 1SG-run-INTENS-DESID-VBLZ
+l. i-nhipoko-ene-pira-ta ‘I heard that he wanted to eat.’ 1SG-eat-DESID-RS-VBLZ
+(325)
+67a. n-atama-i 1SG-look-2O
+b. n-atama-ta-i 1SG-look-VBLZ-2O
+68a. u-muteka 3M-run
+b. u-muteka-ta 3M-run-VBLZ
+‘I looked at you’ ‘I looked at you’
+‘He ran.’ ‘He ran.’
+69a. nhi-nhipoko-ta-ã3-ka4 1SG-eat-VBLZ-HYPOTH-PRED
+b. u-kori-ã3-ka4 3M-die-HYPOTH-PRED
+c. Ø-umaka-ã3-ka4 3M-sleep-HYPOTH-PRED
+‘if I had done the eating... ‘If he had died...’
+‘If he had slept...’
+(326)
+70a. nhi-nhipoko-ta-napano-ka4 1SG-eat-VBLZ-IMMIN-PRED
+b. n-umaka-napano-ka4 1SG-sleep-IMMIN-PRED
+c. u-muteka-napano-ka4 3M-run-IMMIN-PRED
+‘I’m about to start eating.’ ‘I’m about to sleep.’ ‘He’s about to run.’
+71a. nu-muteka-ka3-ru 1SG-run-CAUS-3M.O
+b. nhi-nhika-ka3-ru yapa 1SG-eat-CAUS-3M.O capybara
+‘I made him run.’
+‘I made him eat capybara.’
+(327)
+72a. owa txita-pi-ka4 ‘She is always fighting.’ she fight-HAB-PRED
+ b. uwa he
+nhipoko-ta-pi-ka4 ‘He is always eating.’ eat-VBLZ-HAB-PRED
+73a. ata atama-ta-kaka ‘We look at each other.’ we look-VBLZ-RECIPR
+b. ata txita-kaka ‘We argued with each other.’ we argue-RECIPR
+(330)
+78a. Ø-umaka-ã2-napano-ka4 3M-sleep-HYPOTH-IMMIN-PRED
+b. o-umaka-napano-ka3-ka4-ru 3F-sleep-IMMIN-CAUS-PRED-3M.O
+‘If he was/were about to sleep...’ ‘She’s about to put him to sleep.’
+‘We were about to look at each other.’
+     c. ata atama-kaka-napano-ka3-ka4-ru
+1PL look-RECIP-MMIN-CAUS-PRED-3M.O
+    d. pi-umaka-ka3-pi-ka4-no ‘You always make me sleep.’ 1SG-walk-CAUS-HAB-PRED-1SG.O
+e. a-atama-kaka-pi ‘We always looked at each other.’ 1PL-look-HAB-RECIPR
+(335)
+81a. pa-tuma-ru ATTR-be.fast-3M.O
+b. pa- ̃itano-ru 12 ATTR-be.long-3M.O
+c. pe ̃-ere-ro ATTR-be.pretty-3F.O
+d. p-amiyanata-ro ATTR-be.sick-3F.O
+e. pa-mita-ru ATTR-be.big-3M.O
+‘He’s fast’
+‘He’s tall; it’s long’ ‘She’s pretty.’ ‘She’s sick.’
+‘He’s big.’
+(362)
+21a. ke-ru-pa umaka wai WH-3M-INT sleep here ‘Who sleeps?’
+b. ke-ru-pa p-oka-pe WH-3M-INT 2SG-kill-PFTV ‘What have you killed?’
+c. ki-pa apo-pe WH-INT arrive-PFTV ‘Who/What has arrived?’
+22. ke-nere-pa p-oka-pe-ru ãkiti WH-will-INT 3SG-kill-PFTV-3M.O jaguar ‘Why have you killed the jaguar?’
+(363)
+23a. nhã-pa p-oka-pe-ru ãkiti WH-INT 2SG-kill-PFTV-3M.O jaguar ‘Where have you killed the jaguar?’
+b.  ̃itepa-i pite WH.PLACE-2O 2SG ‘Where are you’
+24. nha-pakunu-pa kuku-wako-ru apo-pe WH-plus-INT man-PL-M arrive-PFTV ‘How many men have arrived?’
+25a. ka-nhi-pa p-oka-pe-ru ãkiti WH-?-INT 2SG-kill-PFTV-3M.O jaguar ‘How have you killed the jaguar?’
+26a. ke-ru-sawaku-pa p-oka-pe-ru ãkiti WH-3M-TEMP-INT 2SG-kill-PFTV-3M.O jaguar ‘When have you killed the jaguar?’
+(365)
+28a. tei! tei! tei! i-txa-ka-ta i-ye koriwa hawite 3M-say-INTENS-VBLZ 3M-DISTAL “javari” chief
+‘Tey! Tey! Tey! The chief “javari” says.’
+b. tii! tii! tii! i-txa-ka-ta xiyoku hawite 3M-say-INTENS-VBLZ bat chief
+‘Tii! Tii! Tii! The chief bat says.’
+c. puma! puma! puma! i-txa-ka-ta 3M-say-INTENS-VBLZ
+‘Booma! Booma! Booma! It says.’
+d. toh! i-txa-ka-ta 3M-say-INTENS-VBLZ
+‘Toh! It says.’
+e. unawa... piri ̃ka-ka-ta:
+3PL play-INTENS-VBLZ ‘They really played: heheeeeee!’
+heheeeee!
+(368)
+30a. ã-apo-pe watxa 1SG-arrive-PFTV today ‘We arrived today/now.’
+b. oposo u-sa-ru after 3M-go-3M.O ‘He then left.’
+c. mitxi Ø-una-ru
+first 3M-come-3M.O ‘First, he came.’
+d. kuta nu-sa-ru yesterday 1SG-go-3M.O ‘I left yesterday.’
+31a. watxa nu-su-pe-ka
+today 1SG-go-PFTV-PRED ‘I’ll leave now.’
+b. nu-su-pe-ka watxa 1SG-go-PFTV-PRED today ‘I’ll leaving now.’
+(369)
+32a. ari ̃kika sãki-rewa-ta-karu kuku slowly speak-INTR-VBLZ-RELZ man ‘‘The man who speaks slowly arrived.’
+b. sãki-rewa-ta-karu kuku apo-pe speak-INTR-VBLZ-RELZ man arrive-PFTV slowly ‘‘The man who speaks arrived slowly.’
+(370)
+33a. n-awa-ru wai 1SG-exist-3M.O here ‘I live here.’
+b. nu-sa-ru werã 1SG-go-3M.O there ‘He went there.’
+(371)
+35. nu-su-pe-ka-ko kotxi nu-sãpaka 1SG-go-PFTV-PRED-FUT because 1SG-be.tired ‘I’ll get going because I’m tired.’
+(373)
+
+36a. aruwatxa, sitxinei, Ø-umu-pe-ka
+so Sidi 3M-end-PFTV-PRED ‘That’s it, Sidi, it’s the end.’
+b. uwai ̃ka, hãtako-ro apa-nanu-ta-ru aõtu so youth-F fetch-PROGR-VBLZ-3M.O “umari” ‘So, the young woman was fetching “umari” fruit.’
+c. oposo, uwa, kema, anhika txa-pe-ro hãtako-ro then 3M.SG tapir take AUX-PFTV-PFTV youth-F ‘Then, the tapir, it took the young woman away.’
+d. iye, owa, o-su-ka-sawaku aõkuta txa-ru i-ye kema so 3F.SG 3F-go-PRED-TEMP see AUX-3M.O 3M-PROX tapir ‘So, she, when she went to see this tapir...’
+(374)
+e. owã meko-txi ̃-ã... ata meko-nanu-ta
+then paddle.of-UNPOSS-INSTR 1PL paddle.of-PROG-VBLZ ‘Then we paddle... with the paddle.’
+f. kama a-txa-ru keruwako u-mata, aruwatxa ata i-ye
+make 1PL-AUX-3M.O so 3M-skin.of so 1PL 3M-PROX
+ãã-ke txirãka-ke-ta, ata uwai ̃ka taka txa-ru
+plant-stick.of split-stick.of-VBLZ 1PL so put AUX-3M.O
+‘So, we make it flat, then we split up the tip of this wood stick, and then we place it there.’
+g. ateeneka... a-txa alright 1PL-do ‘Alright... we do.’
+37a. hamo a-su-pe HORT 1PL-go-PFTV ‘Let’s get going.’
+b. hamo a-kako-rewa-ta
+HORT 1PL-chew.katsoparu-INTR-VBLZ ‘Let’s do “katsoparu” chewing.’
+(384)
+7a. u-su-pe uwa 3M-go-PFTV 3SG.M ‘He has left.’
+b. o-apo-pe suto 3F-arrive-PFTV woman ‘The woman has arrived.’
+c. aõtu o-apa-nanu-ta-ru suto umari 3F-fetch-PROG-VBLZ-3M.O woman ‘The woman was gathering “umari” fruit.
+d. nhi-nhipoko-re nhi-nhika-ru nota 1SG-food-POSSED 1SG-eat-3M.O 1SG ‘I ate my food.’
+(386)
+8a. manopi-ã4 o-kama-ru tipiti-INSTR 3F-make-3M.O
+‘She makes it with/in the “tipiti”.’
+b. serepi-txi-ã4 Ø-oka-ru arrow-UNPOSS-INSTR 3M-kill-3M.O
+‘He killed it with the arrow.’
+c. kai-ã4 u ̃-asoka-ru stone-INSTR 3M-beat-3M.O
+‘He beat him/it with/in a stone’
+d. tsapu ̃ãta-ã4 o-katsã-ã-ta fish.hook-INSTR 3F-to.fish-LIQ-VBLZ
+‘She fished with a fish-hook.’
+i. uwa-ã4 nu-sawaka-ru 3SG.M-INSTR 1SG-cut-3M.O
+‘I cut it/him with/in it.’
+9a. nu-par ̃ikawa-ta itokori-ã4 1SG-work-VBLZ field.farm-INSTR ‘I worked in the field farm.’
+(387)
+b. nu-par ̃ikawa-ta n-awapoko-ã4 1SG-work-VBLZ 1SG-village-INSTR ‘I worked in my village.’
+10a. a- ̃ita-wako-ru-kata n-awa-ru 1PL-brother.of-PL-M-ASSOC 1SG-live-3M.O ‘I live/am with our cousins/brothers.’
+b. nu-wãka-tu-kata n-awa-ru 1SG-namesake-big-ASSOC 1SG-live-3M.O
+‘I live/am with my namesake.’
+c. hãtako-ro o-unuro-kata n-atama-ta youth-F 3F-mother.of-ASSOC 1SG-see-VBLZ
+‘I saw the young woman with her mother.’
+d. suto kuku-kata n-atama-ta woman man-ASSOC 1SG-see-VBLZ
+‘I saw the woman with the man.’
+e. n-ama-ru1-te-nhi-kata-ra n-awa-ru 1SG-kid-M-POSSED-ASSOC-FOC 1SG-live-3M.O ‘It’s with my injured son that I live/am.’
+(388)
+f. nota-kata o-apoka 1SG-ASSOC 3F-arrive ‘She arrived with me.’
+11a. kuunuru-sawaku1 ata serena-ko xingané-TEMP 1PL dance-FUT
+‘We’ll dance during the “Xingané” festivities’
+b. õtu-sawaku n-apo-pe day-TEMP 1SG-arrive-PFTV ‘I arrived during the day’
+c. upuyã-sawaku n-ayata-ko day-TEMP 1SG-hunt-FUT ‘I’ll go hunting during the night’
+(389)
+12a. kikio-mokaru nu-sa-ru field.farm-GOAL 1SG-go-3M.O ‘I went to the field farm.’
+b. uwa-mokaru nu-suka-ru 3SG.M-GOAL 1SG-give-3M.O ‘I gave away to him.’
+c. kukata-monhi u-su-pe afternoon-GOAL 3M-go-PFTV ‘He has gone towards the afternoon.’
+(390)
+13a. nh-ita-ru1-takote n-awa-ru 1SG-brother.of-M-CONTIG 1SG-live-3M.O ‘I live near/next to my brother/cousin’
+b. “agostinho”-takote n-awa-ta Agostinho-CONTIG 1SG-live-VBLZ ‘...I live near Agostinho.’
+c. uwa surũka-powa-ta owa-takote 3SG.M lie.down-AUG-VBLZ 3SG.F-CONTIG ‘He was lying down beside her.’
+14a. suto-xika n-una-ru woman-C.SOURCE 1SG-come-3M.O ‘I came because of the woman.’
+(391)
+15a. n-apoka-ru kopiti-puti-nhi 1SG-find-3M.O bucket-EMPH-AFFECT
+‘I found the really broken bucket.’ 
+d. maku-putu-ka4-ra Brazil.nut-EMPH-PRED-FOC ‘(it is) really the Brazil-nut...’
+e. nota-putu-ka4-ra 1SG-EMPH-PRED-FOC ‘It’s I indeed.’
+f. nota-putu-nhi 1SG-EMPH-AFFECT ‘Poor me!’
+16a. nhi-nhika-putu-ka4-ru 1SG-eat-EMPH-PRED-3M.O ‘I ate it indeed.’
+(392)
+b. nu-muteka-putu-ka4 1SG-eat-EMPH-PRED ‘I ran indeed.’
+17a. n-ayat-inhi-ru-ko 1SG-hunt-GER-3M.O-FUT ‘My hunting for it/him...’
+b. u-suk-inhi-no-ko 3M-give-GER-1SG.O-FUT ‘His giving away to me...’
+(393)
+18a. upowa-nhi n-atama-ta lake-AFFECT 1SG-see-VBLZ ‘I saw the dried up lake.’
+b. anãpa akatsata-ru kuki-nhi
+dog bite-3M.O man-AFFECT ‘The dog bit the injured man.’
+(394)
+d. uwa-nhi hãkiti nhi-pe 3SG.M-AFFECT jaguar eat-PFTV ‘The jaguar has eaten him/it.’ (R:N)
+19a. i-nhipoko-ta-nhi-ko 3M-eat-VBLZ-AFFECT-FUT
+‘He now feels like eating.’ (i.e. ‘He’s hungry’)
+b. u-muteka-nhi-pe ̃-ka 3M-run-AFFECT-PFTV-PASS ‘He (being hurt) had to run.’
+c. u-muteka-nanu-ta-nhi-ka4 3M-run-AFFECT-VBLZ-AFFECT-PRED ‘He (being hurt) is running.’
+(396)
+20a. kema-kata-pe o-su-p-inhi-nhi tapir-ASSOC-PFTV 3F-go-PFTV-GER-AFFECT
+‘... her having gone with the tapir.’
+b. epu kananu-pe-ka4 two year-PFTV-PRED
+‘two years have passed...’
+c. kuku-pe-ka4-ra apo-ka4 man-PFTV-PRED-FOC arrive-PRED
+‘(It’s) the man that has arrived.’
+d. owa-pe-ka4-ra... hãtako-ro... 3SG.F-PFTV-PRED-FOC youth-F
+‘(It’s) been her... the young woman...’
+21a. nhi-nhipoko-ta-pe-ka4 1SG-eat-VBLZ-PFTV-PRED ‘I’ve already eaten.’
+b. sotu hãkiti oka-pe
+deer jaguar kill-PFTV
+‘The jaguar has already killed the brown deer.’
+c. nu-su-pe-ka-ko 1SG-go-PFTV-PRED-FUT ‘I’ll already get going.’
+(397)
+22a. hãtako-ru1-panhi kona apo-ka4 youth-M-IMPFTV not arrive-PRED ‘The boy has not arrived yet.’
+b. epu kananu-panhi two year-IMPFTV ‘...still two years’
+c. wai-ka-ra-no nota-panhi be.here-PRED-FOC-1SG.O 1SG-IMPFTV ‘(It’s) here that I am still.’
+23a. nhi-nhipoko-ta-panhi-ka4-ko 1SG-eat-VBLZ-IMPFTV-PRED-FUT ‘I’m still going to eat.’
+b. hãkiti n-oka-panhi-ka4
+jaguar 1SG-kill-IMPTV-PRED ‘I’m still going to kill the jaguar.’
+c. kona u-su-pe-ka
+not 3M-go-IMPTV-PRED ‘He has not left yet.’
+(398)
+24a. popu ̃ka-ru-ka4-ra-no Apurinã-F-PRED-FOC-1SG.O ‘I (really) am Apurinã.’
+b. watxa-ka4-ra-ko ADV.PTC-PRED-FOC-FUT ‘(It) will really be today/now.’
+c. hãt-u-ka4-ra-ko one-M-PRED-FUT ‘(It) will be one.’
+d. uwa-putu-ka4-ma-ra-ko 3SG.M-EMPH-PRED-FRUSTR-FOC-FUT ‘(It) would be him but....’
+(399)
+25a. nh-iri-pe nota 3M-fall-PFTV 1SG
+‘I’ve fallen down.’
+b. nh-iri-ka4 nota 1SG-fall-PRED 1SG ‘I fell down.’
+26a. owa txita-pi-(ka4) 3SG.F fight-HAB-(PRED) ‘She is always fighting.’
+(400)
+b. n-umaka-napano-(ka4) 1SG-sleep-IMMIN-(PRED) ‘I was about to sleep.’
+c. nu-muteka-putu-(ka4) 1SG-run-EMPH-(PRED) ‘I ran indeed.’
+d. uwa nhipoko-ta-pi-(ka4) 3SG.M eat-VBLZ-HAB-(PRED) ‘He is always eating.’
+e. n-umaka-napano-(ka4) 1SG-sleep-IMMIN-(PRED) ‘I’m about to sleep.’
+27a. Ø-oka-pe ̃-ka 3M-kill-PFTV-PASS
+‘He was killed.’
+(401)
+b. n-apoka-pe ̃-ka 1SG-find-PFTV-PASS ‘I have been found.’
+c. u-pata-pe ̃-ka 3M-cover-PFTV-PASS ‘It has been covered.’
+d. uwa-nhi ãkiti oka-pe ̃-ka man-AFFECT jaguar kill-PFTV-PASS ‘The man was killed by the jaguar.’
+28a. uwã u-su-pe ̃-ka
+there 3M-go-PFTV-PASS
+‘He/It has gone (somewhere).’
+(402)
+b. uwã Ø-etama-panh ̃i-ka-ko there 3M-see-IMPTV-PASS ‘He/It still will go there.’
+Lit.: ‘He/It still will see there.’
+c. sotu ãkiti akatsa-pe ̃ -ka
+deer jaguar bite-PFTV-PASS
+‘The jaguar has already bitten the deer.’
+d. kariwa i-txa-pe ̃-ka-wa white.person 3M-be-PFTV-PASS-REFL ‘He/it became a white man.’
+(403)
+30a.
+b.
+c.
+d.
+a-sãkire-nanhi-nhi n-umata
+1PL-language.of-RESTR-AFFECT 1SG-know ‘I know only our language.’
+katarokuru-nanu-ra nhi-nhika
+manioc.flour-RESTR-FOC 1SG-eat ‘It’s only manioc flour that we eat’
+serota-kata-nanu-ra
+salt-ASSOC- RESTR-FOC ‘(It’s) only with salt...’
+uwa-nanu su-pe
+3SG.M-RESTR go-PFTV ‘Only he has left.’
+31a. u-kuwu-noka n-atama-ta 3M-head.of-RESTR 1SG-see-VBLZ ‘I saw only his/its head.’
+b. nota-noka apoka 1SG-RESTR arrive ‘I arrived alone.’
+(404)
+32a. youka-ke-ma-ra apoka Youka-stick-FRUST-FOC arrive
+‘It’s the skinny Youka that had arrived but...’
+b. nota-ma uwa-kata sãki-rewa-ta-pe kona nu-sa-ru 1SG-FRUST 3SG.M-ASSOC talk-INTR-VBLZ-PFTV not 1SG-go-3M.O
+‘I talked to him but I didn’t go (with him).’
+33a. nu-nuta-pe-ka4-ma-ru kona n-apoka-ru 1SG-search-PFTV-PASS-3M.O not 1SG-find-3M.O
+‘I searched it/him but I didn't find it/him’
+b. Ø-oka-ma-ru-ko 3M-kill-FRUST-3M.O-FUT ‘He’d kill it but...’
+c. nhi-nhipoko-ta-ma-ko 1SG-eat-VBLZ-FRUST-FUT
+‘I’d eat but...’
+(405)
+34a.
+b.
+c.
+d.
+e.
+kopiti-ka4-ra o-kama
+bucket-PRED-FOC 3F-make ‘It’s the bucket that she made.’
+maku-putu-ka4-ra n-apoka
+Brazil.nut-EMPH-PRED-FOC 1SG-find ‘What I found was indeed Brazil-nut.’
+katarokuru-nanu-ra
+manioc.flour-RESTR-FOC ‘(It’s) only manioc flour...’
+a-serota-re-kata-nanu-ra
+1PL-salt-POSSED-ASSOC-RESTR-FOC ‘(It’s) only our salt...’
+uwa-ka4-ra
+3SG.M-PRED-FOC ‘It’s him!’
+     f. nota-ka4-ra 3SG.M-PRED-FOC ‘It’s me!’
+(406)
+35a. Ø- ̃iketa-ra-ko 3M-get.dark-FOC-FUT
+‘The NIGHT WILL COME DOWN.’
+b. nu-suka-pe-ka4-ra-ru 1SG-give-PFTV-PRED-FOC-3M ‘I HAVE GIVEN AWAY to him.’
+c. nu-suka-ra-ru 1SG-give-FOC-3M.O
+‘I GAVE AWAY to him.’
+36a. -no p-atama-ta-no
+1SG.O 2SG-see-VBLZ-1SG.O
+‘You saw me.’
+(408)
+38. -wa REFLEXIVIZER
+a. nhi-yõka-ta-wa 1SG-paint-VBLZ-REFL
+‘I painted myself.’
+b. pi-yõka-ta-wa 2SG-see-1SG.O
+‘You painted yourself.’
+c. o-yõka-ta-wa 3F-see-2O
+‘She painted herself.’
+d. i-yõka-ta-wa 3M-paint-VBLZ-REFL
+‘He painted himself.’
+e. a-yõka-ta-wa 1PL-paint-VBLZ-REFL
+‘We painted ourselves.’
+f. h ̃i-yõka-ta-wa 3PL-paint-VBLZ-REFL
+‘You (PL) painted yourselves.’
+g. i-yõka-ta-wa-na 1SG-paint-VBLZ-REFL-PL
+‘They (F/M) painted themselves.’
+(409)
+40a. i-nhika-ru-na 3PL-eat-3M.O-3PL
+‘They (M) ate it/him.’
+b. kona õ-oka-ro-na not 3F-kill-3F-3PL
+‘They (F) killed it/her.’
+41a. Ø-unuro-na 3M-mother.of-3PL
+‘Their (M) mother’
+b. õ-unuro-na 3F-mother.of-3PL
+‘Their (F) mother’
+(410)
+42a. katarokuru-nanu-ra-ko manioc.flour-RESTR-FOC-FUT ‘(It’s) only manioc flour (that) will...’
+b. maku-putu-ka4-ra-ko Brazil.nut-EMPH-PRED-FUT ‘(It’s) broken buckets (that) will...’
+c. kopiti-ka4-ra-ko o-kama bucket-PRED-FOC-FUT 3F-make ‘(It’s) the bucket that she’ll make.’
+d. nota-ko suka-ru 1SG-FUT give-3M.O
+‘I’ll give away to him.’
+e. hãt-u-kata-ra-ko one-M-ASSOC-FOC-FUT ‘(It) will (be) with one that...’
+f. kona-ko nhi-txiparu-te nhi-suka-i
+not-FUT 1SG-banana-POSSED 1SG-give-2O
+‘I won’t give you banana.’
+(411)
+43a. nhi-nhipoko-ta-ko 1SG-eat-VBLZ-FUT
+‘I will do eating.’
+b. p-imaka-ko 2SG-sleep-FUT
+‘You'll sleep.’
+c. a-kama-ru-ko 1PL-make-POS-3M.O-FUT
+‘We'll make it.’
+d. o-taka-ru-ko 3F-put/plant-3M.O-FUT
+‘She'll put it (somewhere)/plant it.’
+(412)
+44a. ã-atama-ta-kaka-putu 1PL-see-VBLZ-REC-EMPH ‘We indeed see each other.’
+b. kopiti-nu-ru1-putu-ka4-ra pot-PL-M-EMPH-PRED-FOC ‘It’s indeed the pans.
+(413)
+46a. nhi-nhika-(ta)-putu ... 1SG-eat-VBLZ-EMPH ‘I indeed ate...’
+b. nhi-nhipoko-(ta)-nhi 1SG-eat-VBLZ-AFFECT
+‘I (being injured/sick) did eating.’
+c. nhi-nhik-(t)-inhi... 1SG-eat-VBLZ-GER
+‘my eating...’
+d. nhi-nhika-(ta)-pe... 1SG-eat-VBLZ-PFTV
+‘I’ve already eaten...’
+(414)
+e. nhi-nhika-(ta)-panhi... 1SG-eat-VBLZ-IMPFTV
+‘I’m still to eat...’
+f. nhi-nhika-(tã)-ka... 1SG-eat-VBLZ-PASS
+‘I was eaten...’
+()
