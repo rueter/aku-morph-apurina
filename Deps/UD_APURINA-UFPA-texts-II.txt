@@ -1,0 +1,2325 @@
+# -*- coding : UTF-8 -*-
+II. TEXTOS DO MATERIAL DE CONVERSAÇÃO (COM O ACRÉSCIMO DAS INTERLINEARIZAÇÕES)
+
+# sent_id = FernandaM2017:TextsII-1-1
+# text_orig = Lição 1: Wai-ka-i Pitha (estar.aqui-PRED-2SG.O 2SG) ‘Você está aqui’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-1-2
+# text_orig = Kamasaru: Wai-ka-i pitha. 
+# text = Kamasaru: Waikai pitha. 
+# gloss_pt = estar.aqui-PRED-2SG.O 2SG 
+# text_pt = ‘Olá.’ Lit.: ‘Você está aqui’.
+
+# sent_id = FernandaM2017:TextsII-1-3
+# text_orig = Aramakary: Ary. Wai-ka-ra-nu. 
+# text = Aramakary: Ary. Waikaranu. 
+# gloss_pt = sim estar.aqui-PRED-FOC-1SG.O
+# text_pt = ‘Olá.’ Lit.: ‘Sim. Eu estou aqui.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-1-4
+# text_orig = Kamasaru: Py-kanhĩkuwa-ta. 
+# text = Kamasaru: Pykanhĩkuwata. 
+# gloss_pt = 2SG-subir-VBLZ
+# text_pt = ‘Pode entrar.’ Lit.: ‘Pode subir.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-1-5
+# text_orig = Aramakary: Ary. 
+# text = Aramakary: Ary. 
+# gloss_pt = sim
+# text_pt = ‘Tá bom.’ Lit.: ‘Sim.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-1-6
+# text_orig = Kamasaru: Natuku y-txa? 
+# text = Kamasaru: Natuku ytxa? 
+# gloss_pt = como 3SG.M-ser
+# text_pt = ‘Como está?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-1-7
+# text_orig = Aramakary: Kuna. Ere-ka-txi-ry. 
+# text = Aramakary: Kuna. Erekatxiry. 
+# gloss_pt = não ser.bom-PRED-N.POSSD-3SG.M.O
+# text_pt = ‘Tudo bem.’ Lit.: ‘Não. Tudo bem.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-1-8
+# text_orig = Kamasaru: Ateeneka. 
+# text = Kamasaru: Ateeneka. 
+# gloss_pt = tá.certo
+# text_pt = ‘Tá certo então.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-1-9
+# text_orig = Kiripa py-kama? 
+# text = Kiripa pykama? 
+# gloss_pt = o.quê 2SG-fazer 
+# text_pt = ‘O que você tá fazendo?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-1-10
+# text_orig = Aramakary: N-ukatsaã-nã-ta. 
+# text = Nukatsaãnãta. 
+# gloss_pt = 1SG-pescar-PROGR-VBLZ
+# text_pt = ‘Eu tava pescando.’Q
+# text_en = ‘I was fishing.‘
+
+# sent_id = FernandaM2017:TextsII-1-11
+# text_orig = Kamasaru: Ĩthepa-ry ximaky? 
+# text = Ĩthepary ximaky? 
+# gloss_pt = onde.está-3SG.M.O peixe
+# text_pt = Cadê o peixe?
+# text_en = Where is the fish?
+
+# sent_id = FernandaM2017:TextsII-1-12
+# text_orig = Aramakary: Kuna ka-iumaã-nu. 
+# text = Kuna kaiumaãnu. 
+# gloss_pt = não ATRIB-trabalho-1SG.O
+# text_pt = Não peguei nada.
+# text_en = I didn't take anything.
+
+# sent_id = FernandaM2017:TextsII-1-13
+# text_orig = Yny umiti-ka-ry ximaky. 
+# text = Yny umitikary ximaky. 
+# gloss_pt = lontra espantar-PRED-3SG.M.O peixe
+# text_pt = A lontra espantou os peixes.
+# text_en = The otter scared the fish away.
+
+# sent_id = FernandaM2017:TextsII-1-14
+# text_orig = Inhinhĩã kuna m-inha-ka-ty n-uka. 
+# text = Inhinhĩã kuna minhakaty nuka. 
+# gloss_pt = então não PRIV-ser-PRED-3SG.M.O 1SG-matar
+# text_pt = Por isso que não matei nada.
+# text_en = That's why I didn't kill anything.
+
+# sent_id = FernandaM2017:TextsII-1-15
+# text_orig = Kamasaru: Atha-munhi awa ximaky.
+# text = Athamunhi awa ximaky.
+# gloss_pt = 1PL-DAT existir peixe
+# text_pt = Nós temos peixe.’ Lit.: ‘Tem peixe pra nós.’
+# text_en = We have fish.
+
+# sent_id = FernandaM2017:TextsII-1-16
+# text_orig = Ximaky p-anhi-k-inha-wa. 
+# text = Ximaky panhikinhawa. 
+# gloss_pt = peixe 2SG-levar-PRED-?ser-REFL
+# text_pt = ‘Pode levar o peixe.’
+# text_en = You can take the fish.
+
+# sent_id = FernandaM2017:TextsII-1-17
+# text_orig = Aramakary: Ateeneka. 
+# text = Ateeneka. 
+# gloss_pt = tá.certo
+# text_pt = ‘Tá bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-1-18
+# text_orig = Ny-sy-pe-ka-ku. 
+# text = Nysypekaku. 
+# gloss_pt = 1SG-ir-PFTV-PRED-FUT
+# text_pt = ‘Eu já vou.’ 
+
+# sent_id = FernandaM2017:TextsII-1-19
+# text_orig = Kamasaru: Ary. Py-sy-p-inhi-ka-wa. 
+# text = Ary. Pysypinhikawa. 
+# gloss_pt = sim 2SG-ir-PFTV-GER-PRED-REFL
+# text_pt = ‘Pode ir.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-1
+# text_orig = Lição 2: Kiripa-ra-i?
+# text = Kiriparai?
+# gloss_pt = quem-FOC-2SG.O
+# text_pt ‘Quem é você?
+
+# sent_id = FernandaM2017:TextsII-2-2
+# text_orig = Txiiakatxi: Atee! 
+# text = Atee! 
+# gloss_pt = ei
+# text_pt = ‘Ei!’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-3
+# text_orig = Txiiupyryỹry: Ei! 
+# text = Ei! 
+# gloss_pt = ei
+# text_pt = ‘Ei!’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-4
+# text_orig = Txiiakatxi: Kiripa-ra-i? 
+# text = Kiriparai? 
+# gloss_pt = quem-FOC-2SG.O
+# text_pt = Quem é você?
+# text_en = Who are you?
+
+# sent_id = FernandaM2017:TextsII-2-5
+# text_orig = Txiiupyryỹry: Nuta-ra. 
+# text = Nutara. 
+# gloss_pt = 1SG-FOC
+# text_pt = ‘Sou eu.’ 
+# text_en = It's me.
+
+# sent_id = FernandaM2017:TextsII-2-6
+# text_orig = Txiiakatxi: Nanhikiripa-ra-i? 
+# text = Nanhikiriparai? 
+# gloss_pt = de.onde-FOC-2SG.O
+# text_pt = Você é de onde?
+# text_en = Where are you from?
+
+# sent_id = FernandaM2017:TextsII-2-7
+# text_orig = Txiiupyryỹry: Kuna wai-kiri-nu nuta. 
+# text = Kuna waikirinu nuta. 
+# gloss_pt = não aqui-?-1SG.O 1SG 
+# text_pt = ‘Eu não sou daqui.’
+# text_en = I am not from here
+
+# sent_id = FernandaM2017:TextsII-2-8
+# text_orig = Txiiakatxi: Nanhikiripa p-yna? 
+# text = Nanhikiripa pyna? 
+# gloss_pt = de.onde 2SG-vir
+# text_pt = ‘De onde você é?’ Lit.: ‘De onde você veio?’Q
+# text_en = Where do you come from?
+
+# sent_id = FernandaM2017:TextsII-2-9
+# text_orig = Txiiupyryỹry: Syrywyny n-awa. 
+# text = Syrywyny nawa. 
+# gloss_pt = Seruini 1SG-existir
+# text_pt = ‘Eu sou do Seruini.’Q
+# text_en = ‘I'm from Seruini.‘
+
+# sent_id = FernandaM2017:TextsII-2-10
+# text_orig = Txiiakatxi: Kiripa p-yry? 
+# text = Kiripa pyry?
+# gloss_pt = quem 2SG-pai.de
+# text_pt = ‘Quem é o seu pai?’Q
+# text_en = Who is your father?
+
+# sent_id = FernandaM2017:TextsII-2-11
+# text_orig = Txiiupyryỹry: Kamarapu n-yry. 
+# text = Kamarapu nyry. 
+# gloss_pt = N.PROP 1SG-pai.de
+# text_pt = ‘Meu pai é o seu Kamarapu.’Q
+# text_en = My father is Kamarapu
+
+# sent_id = FernandaM2017:TextsII-2-12
+# text_orig = Txiiakatxi: Aa! P-yry nh-iimatykyry i-txa-wa. 
+# text = Aa! Pyry nhiimatykyry itxawa. 
+# gloss_pt = interjeição 2SG-pai.de 1SG-tio.de 3SG.M-ser-REFL
+# text_pt = Ah! O seu pai é meu tio.
+# text_en = Ah! your father is my uncle.
+
+# sent_id = FernandaM2017:TextsII-2-13
+# text_orig = Kerupa p-ynyru? 
+# text = Kerupa pynyru? 
+# gloss_pt = quem 2SG-mãe.de
+# text_pt = ‘Quem é a sua mãe?’
+# text_en = Who is your mother?
+
+# sent_id = FernandaM2017:TextsII-2-14
+# text_orig = Txiiupyryỹry: Kanaiapa ny-nyru. 
+# text = Kanaiapa nynyru. 
+# gloss_pt = N.PROP 1SG-mãe.de
+# text_pt = Minha mãe é a Kanaiapa.
+# text_en = My mother is Kanaiapa.
+
+# sent_id = FernandaM2017:TextsII-2-15
+# text_orig = Txiiakatxi: Py-nyru ny-nyru nyrymane u-txa-wa. 
+# text = Pynyru nynyru nyrymane utxawa. 
+# gloss_pt = 2SG-mãe.de 1SG-mãe.de parente .de 3SG.F-ser-REFL
+# text_pt = ‘A sua mãe é parenta da minha mãe.’Q
+# text_en = Your mother is my mother's relative
+
+# sent_id = FernandaM2017:TextsII-2-16
+# text_orig = Txiiupyryỹry: Ãkiri kiripa-ra-i pitha? 
+# text = Ãkiri kiriparai pitha? 
+# gloss_pt = filho.de quem-FOC-2SG.O 2SG
+# text_pt = ‘E você é filho de quem?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-17
+# text_orig = Txiiakatxi: Tutupary ãkiri nhi-txa-wa. 
+# text = Txiiakatxi: Tutupary ãkiri nhitxawa. 
+# gloss_pt = N.PROP filho.de 1SG-ser-REFL
+# text_pt = ‘Eu sou filho do Tutupary.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-18
+# text_orig = Txiiupyryỹry: Kerupa p-ynyru? 
+# text = Txiiupyryỹry: Kerupa pynyru? 
+# gloss_pt = quem 2SG-mãe.de
+# text_pt = ‘Quem é a sua mãe?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-19
+# text_orig = Txiiakatxi: Kamĩkiu n-ynyru. 
+# text = Txiiakatxi: Kamĩkiu nynyru. 
+# gloss_pt = N.PROP 1SG-mãe.de
+# text_pt = ‘Minha mãe é a Kamĩkiu.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-20
+# text_orig = Txiiupyryỹry: Ataũ-pyty-ka-ra py-sãkire. 
+# text = Txiiupyryỹry: Ataũpytykara pysãkire. 
+# gloss_pt = ser.verdade-ENF-PRED-FOC 2SG-falar
+# text_pt = ‘Você falou a verdade.’ 
+
+# sent_id = FernandaM2017:TextsII-2-21
+# text_orig = Ataũ-pyty-ka-ra pi-txa kutxi n-yry xinhika-pi-ka-ry p-yry. 
+# text = Ataũpytykara pitxa kutxi nyry xinhikapikary pyry. 
+# gloss_pt = ser.verdade-ENF-PRED-FOC 2SG-ser porque 1SG-pai.de lembrar-HAB-PRED-3SG.M.O 2SG-pai.de
+# text_pt = ‘Você disse a verdade, pois meu pai sempre se lembra do seu pai.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-22
+# text_orig = Kiripa py-wãka? 
+# text = Kiripa pywãka? 
+# gloss_pt = qual 2SG-nome.de
+# text_pt = ‘Qual o seu nome?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-23
+# text_orig = Txiiakatxi: Txiiakatxi ny-wãka. 
+# text = Txiiakatxi: Txiiakatxi nywãka. 
+# gloss_pt = N.PROP 1SG-nome.de
+# text_pt = ‘O meu nome é Txiiakatxi.’ 
+ 
+
+# sent_id = FernandaM2017:TextsII-2-24
+# text_orig = Kiripa pitha wãka? 
+# text = Kiripa pitha wãka? 
+# gloss_pt = qual 2SG nome.de
+# text_pt = ‘Qual o seu nome?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-25
+# text_orig = Txiiupyryỹry: Txiiupyryỹry ny-wãka. 
+# text = Txiiupyryỹry: Txiiupyryỹry nywãka. 
+# gloss_pt = N.PROP 1SG-nome.de
+# text_pt = ‘O meu nome é Txiiupyryỹry.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-26
+# text_orig = Txiiakatxi: Ĩka a-ymaruta-kaka-pe-ka. 
+# text = Txiiakatxi: Ĩka aymarutakakapeka. 
+# gloss_pt = ?então 1PL-conhecer-REC-PFTV-PRED
+# text_pt = ‘Então já nos conhecemos.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-2-27
+# text_orig = Nh-ithary pi-txa-wa. 
+# text = Nhithary pitxawa. 
+# gloss_pt = 1SG-primo, irmão.de 2SG-ser-REFL
+# text_pt = ‘Você é meu primo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-2-28
+# text_orig = Txiiupyryỹry: Ateeneka. Ereka-pyty-ka-ry. 
+# text = Txiiupyryỹry: Ateeneka. Erekapytykary. 
+# gloss_pt = tá.certo ser.bom-ENF-PRED-3SG.M.O
+# text_pt = ‘Então tá certo. Muito bem.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-1
+# text_orig = Lição 3: Natukupa i-txa wai p-awinhi-ã? 
+# text = Lição 3: Natukupa itxa wai pawinhiã? 
+# gloss_pt = (como-INTERR 3SG.M-ser aqui 2SG-comunidade.de-LOC) ‘Como é a vida na sua comunidade?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-2
+# text_orig = Txiakatxi: Natuku-pa i-txa wai p-awinhi-ã? 
+# text = Txiakatxi: Natukupa itxa wai pawinhiã? 
+# gloss_pt = como-INTER 3SG.M-ser aqui 2SG-comunidade.de-LOC
+# text_pt = ‘Como é a vida aqui onde você mora?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-3
+# text_orig = Kuriiaty: Nuta-munhi ereka-ry.
+# text = Kuriiaty: Nutamunhi erekary.
+# gloss_pt = 1sg-DAT ser.bom-3SG.M.O
+# text_pt = ‘Pra mim, é bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-4
+# text_orig = Txiakatxi: Kiripa hỹ-kama ykyny-ũty? 
+# text = Txiakatxi: Kiripa hỹkama ykynyũty? 
+# gloss_pt = o.quê 2PL-fazer tudo-dia
+# text_pt = ‘O que vocês fazem no dia-a-dia de vocês?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-5
+# text_orig = Kuriiaty: Ii! Kaiãu-ry parĩka-txi atha-munhi. 
+# text = Kuriiaty: Ii! Kaiãury parĩkatxi athamunhi. 
+# gloss_pt = interjeição existir.muito-3SG.M.O trabalho.de-N.POSSD 1PL-DAT
+# text_pt = ‘Ii! Tem muito trabalho pra nós!’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-6
+# text_orig = Hĩtha-munhi awa parĩka-txi apaka? 
+# text = Hĩthamunhi awa parĩkatxi apaka? 
+# gloss_pt = 2PL-DAT existir trabalho.de-N.POSSD também
+# text_pt = ‘E lá com vocês, é assim também?’ Lit.: ‘Pra vocês também tem trabalho?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-7
+# text_orig = Txiakatxi: Ary, awa-pyty-ka. 
+# text = Txiakatxi: Ary, awapytyka. 
+# gloss_pt = sim existir-ENF-PRED
+# text_pt = ‘É, é assim mesmo.’ Lit.: ‘Sim, tem mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-8
+# text_orig = Kuriiaty: Ki-nha-kary-pa parĩka-txi awa hĩtha-munhi? 
+# text = Kuriiaty: Kinhakarypa parĩkatxi awa hĩthamunhi? 
+# gloss_pt = INTERR-ser-REL.S.M-INTERR trabalho.de-N.POSSD existir 2PL-DAT
+# text_pt = ‘Que tipo de trabalho vocês fazem?’ Lit.: ‘Que tipo de trabalho tem pra vocês?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-9
+# text_orig = Kutxi atha kyky-ãkinhi a-kama-ry tukury, kumyry amapuruka, katarukyry a-kama, a-ũkatsaãta, ã-aiata, a-txa atha wai. 
+# text = Kutxi atha kykyãkinhi akamary tukury, kumyry amapuruka, katarukyry akama, aũkatsaãta, ãaiata, atxa atha wai. 
+# gloss_pt = porque 1PL homem-grupo 1PL-fazer-3SG.M.O roçado mandioca arrancar farinha 1PL-fazer 1PL-pescar 1PL-caçar 1PL-fazer 1PL aqui
+# text_pt = ‘Nós, os homens, fazemos o roçado, arrancamos a mandioca, fazemos a farinha, pescamos, caçamos... Tudo isso nós fazemos aqui.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-10
+# text_orig = Txiakatxi: Ywatuku kanera a-txa atha ywaã. 
+# text = Txiakatxi: Ywatuku kanera atxa atha ywaã. 
+# gloss_pt = assim ? 1PL-ser 1PL lá
+# text_pt = ‘Lá pra nós, também é assim.’ 
+ 
+# sent_id = FernandaM2017:TextsII-3-11
+# text_orig = Tukury a-kama, katarukyry a-kama, a-ũkatsaã-ta, ã-aiata, aiku a-kama, a-txa apaka. 
+# text = Tukury akama, katarukyry akama, aũkatsaãta, ãaiata, aiku akama, atxa apaka. 
+# gloss_pt = roçado 1PL-fazer farinha 1PL-fazer 1PL-pescar-VBLZ 1PL-caçar casa 1PL-fazer 1PL-aux também
+# text_pt = ‘Nós também fazemos roçado, farinha, pescamos, caçamos, fazemos casa, fazemos isso também.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-12
+# text_orig = Kuriiaty: Ateeneka. Ereka-pyty-ka-ry. 
+# text = Kuriiaty: Ateeneka. Erekapytykary. 
+# gloss_pt = tá.certo ser.bom-ENF-PRED-3SG.M.O
+# text_pt = ‘É mesmo. Então tá bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-13
+# text_orig = Txiakatxi: Sytu-waku-ru, kiripa u-kama-ã-ne? 
+# text = Txiakatxi: Sytuwakuru, kiripa ukamaãne? 
+# gloss_pt = mulher-PL-F o.quê 3PL.F-fazer-PROGR-3PL.F
+# text_pt = ‘E as mulheres, o que elas fazem?’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-3-14
+# text_orig = Kuriiaty: Mãka-txi ũ-eruka, nhipuku-ry u-kama, xãmyna u-txirata, ĩparãa ũ-apa-ã-ta, ama-ry-ny u-kipa-ã-ta, tui-txi u-weruka, ama-ry-ny u-inhĩkata, mãka-txi u-iutsaã, ximaky u-iumareta, xinhĩ-txi u-sututa, u-ỹruta-wa-ta, u-ỹruta-ry ximaky, ũ-ỹruta-ry xinhĩ-txi, nhipuku-ry u-ãxitha, tsapyryky u-kama. Ypusatuku ũ-ãkirita-ry ũ-tanyry ama-ry-ny-ky ywasaaky nhipuku-ta a-txa. 
+# text = Kuriiaty: Mãkatxi ũeruka, nhipukury ukama, xãmyna utxirata, ĩparãa ũapaãta, amaryny ukipaãta, tuitxi uweruka, amaryny uinhĩkata, mãkatxi uiutsaã, ximaky uiumareta, xinhĩtxi usututa, uỹrutawata, uỹrutary ximaky, ũỹrutary xinhĩtxi, nhipukury uãxitha, tsapyryky ukama. Ypusatuku ũãkiritary ũtanyry amarynyky ywasaaky nhipukuta atxa. 
+# gloss_pt = roupa.de-N.POSSD 3SG.F-lavar comida-N.POSSD 3SG.F-fazer lenha 3SG.F-partir água 3SG.F-buscar-PROGR-VBLZ criança-M-PL 3SG.F-dar.banho-PROGR-VBLZ coisa.de-N.POSSD 3SG.F-lavar criança -M-PL 3SG.F-cuidar roupa.de-N.POSSD 3SG.F-costurar peixe 3SG.F-tratar carne.de-N.POSSD 3SG.F-cortar 3SG.F-moquear-refl-vblz 3sg.f-moquear-3sg.m.o peixe 3sg.f-moquear-3SG.M.O carne.de-N.POSSD comida-N.POSS 3SG.F-cozinhar açaí 3SG.F-fazer depois 3SG.F-chamar-3SG.M.O 3SG.F-marido.de criança-M-PL-NC.pequeno TEMP comida-VBLZ 1PL-AUX
+# text_pt = ‘Ela lava a roupa, faz comida, parte a lenha, vai buscar água, dá banho nas crianças, lava os pratos, cuida das crianças, costura a roupa, trata o peixe, corta a carne, faz o moqueado, moqueia o peixe, cozinha a comida, faz o açaí. Depois de pronto, ela chama o marido, as crianças, aí então comemos.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-15
+# text_orig = Txiakatxi: Ama-ry-ny-ky kiripa y-kama-ã-ne? 
+# text = Txiakatxi: Amarynyky kiripa ykamaãne? 
+# gloss_pt = criança-M-PL-NC.pequeno o.quê 3PL.M-fazer-PROGR-3PL.M
+# text_pt = ‘O que as crianças fazem?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-16
+# text_orig = Kuriiaty: Ama-ry-ny-ky kuna parĩka-wa-ta, y-sarawata-pi-ka-ne. 
+# text = Kuriiaty: Amarynyky kuna parĩkawata, ysarawatapikane. 
+# gloss_pt = criança-M-PL-NC.pequeno não trabalho-REFL-VBLZ 3PL.M-brincar-HAB-PRED-3PL.M
+# text_pt = ‘As crianças não trabalham, elas apenas brincam.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-17
+# text_orig = Kytsyna y-kymataka-ne. 
+# text = Kytsyna ykymatakane. 
+# gloss_pt = calango 3PL.M-flechar-3PL.M
+# text_pt = ‘Flecham calango.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-18
+# text_orig = Kytypyryky apaka y-kymataka-ne. 
+# text = Kytypyryky apaka ykymatakane. 
+# gloss_pt = passarinho também 3PL.M-flechar-3PL.M
+# text_pt = ‘Eles também flecham passarinho.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-19
+# text_orig = Ama-ry-ny-ky sytu-waku-ru inha-kany-wa muiana-ta-ru u-nyru-ne. 
+# text = Amarynyky sytuwakuru inhakanywa muianataru unyrune. 
+# gloss_pt = criança-M-PL-NC.pequeno mulher-PL-F ser-REL.PL-REFL acompanhar-VBLZ-3SG.F.O 3PL.F-mãe.de-3PL.F
+# text_pt = ‘As meninas acompanham as mães.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-20
+# text_orig = Mãka-txi u-weruk-inhi ama-ry-ny 
+# text = Mãkatxi uwerukinhi amaryny 
+# gloss_pt = roupa.de-N.POSSD 3SG.F-ajudar-GER criança-M-PL
+# text_pt = ‘As crianças ajudam com a roupa’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-21
+# text_orig = u-inhĩkat-inhi tui-txi ũ-weruk-inhi. 
+# text = uinhĩkatinhi tuitxi ũwerukinhi. 
+# gloss_pt = 3SG.F-lavar-GER coisa.de-N.POSSD 3SG.F-ajudar-GER 
+# text_pt = ‘As meninas ajudam a lavar os pratos.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-3-22
+# text_orig = Ama-ry-ny axa-piti-ri ywa-kata u-sarawata u-txa-ne. 
+# text = Amaryny axapitiri ywakata usarawata utxane. 
+# gloss_pt = criança-M-PL ser.pequeno-ENF-3SG.M.O 3SG.M-ASSOC 3SG.F-brincar 3PL.F-AUX-3PL.F
+# text_pt = ‘Elas brincam (cuidam das) com as crianças menores.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-1
+# text_orig = Lição 4: Katarukyry a-kama (farinh 1PL-fazer) ‘Nós fazemos farinha’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-2
+# text_orig = Kirama ĩkanũka-panhi-ka ũkytykawa kumyry i-mapik-inhi ĩkapane. 
+# text = Kirama ĩkanũkapanhika ũkytykawa kumyry imapikinhi ĩkapane. 
+# gloss_pt = N.PROP noite-IPFTV-PRED ?levantar mandioca 3SG.M-descascar-GER com.o.propósito de
+# text_pt = ‘O Kirama levantou de manhã cedo pra descascar mandioca.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-3
+# text_orig = Akiritha-ru Kamĩkiu ĩ-tanyru. 
+# text = Akiritharu Kamĩkiu ĩtanyru. 
+# gloss_pt = chamar-3SG.F N.PROP 3SG.M-esposa.de
+# text_pt = ‘Ele chamou Kamĩkiu, a sua esposa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-4
+# text_orig = Kirama: Kiripa a-kama watxa? 
+# text = Kirama: Kiripa akama watxa? 
+# gloss_pt = o.quê 1PL-fazer hoje
+# text_pt = ‘O que é que nós vamos fazer hoje?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-5
+# text_orig = Kamĩkiiu: Kumyry a-mapika.
+# text = Kamĩkiiu: Kumyry amapika.
+# gloss_pt = mandioca 1PL-descascar
+# text_pt = ‘Nós vamos descascar mandioca.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-6
+# text_orig = Kirama: Ateeneka. 
+# text = Kirama: Ateeneka. 
+# gloss_pt = tá.certo
+# text_pt = ‘Tá bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-7
+# text_orig = Ĩka amu a-sa-puka. 
+# text = Ĩka amu asapuka. 
+# gloss_pt = ?então EXORT 1PL-ir-?cedo 
+# text_pt = ‘Então vamos logo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-8
+# text_orig = Kamĩkiiu: Kiripa ã-anhika? 
+# text = Kamĩkiiu: Kiripa ãanhika? 
+# gloss_pt = o.que 1PL-levar
+# text_pt = ‘O que nós levamos?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-9
+# text_orig = Kirama: Kutary ã-anhika. 
+# text = Kirama: Kutary ãanhika. 
+# gloss_pt = paneiro 1PL-levar
+# text_pt = ‘Levamos o paneiro.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-10
+# text_orig = Ximaky ã-anhika apaka ywaã a-nhi-ka-kyty ĩkapane. 
+# text = Ximaky ãanhika apaka ywaã anhikakyty ĩkapane. 
+# gloss_pt = peixe 1PL-levar também lá 1PL-comer-pred-REL.O.M com.o.propósito.de 
+# text_pt = ‘Também levamos peixe para comer lá.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-11
+# text_orig = Inhinhiã sa i-txa-ne. 
+# text = Inhinhiã sa itxane. 
+# gloss_pt = então ir 3PL.M-AUX-3PL.M
+# text_pt = ‘Aí eles saíram.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-12
+# text_orig = Ywaã apuka mapika i-txa-ry-na kumyry. 
+# text = Ywaã apuka mapika itxaryna kumyry. 
+# gloss_pt = lá chegar descascar 3PL.M-AUX-3SG.M.O-3PL.M mandioca
+# text_pt = ‘Chegaram e descascaram a mandioca.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-13
+# text_orig = Ypusatuku ø-anhika i-txa-ry kumyry-pe y-katsuna-k-iku-munhi.
+# text = Ypusatuku øanhika itxary kumyrype ykatsunakikumunhi.
+# gloss_pt = depois 3SG.M-levar 3SG.M-AUX-3SG.M.O mandioca-NC.massa, polpa 3SG.M-espremer-PRED-NMLZ-DAT
+# text_pt = ‘Depois disso, ele levou a massa lá para a prensa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-14
+# text_orig = Ypusatuku xamyna i-txirata kumyry-pe y-kuky-t-inhi ĩkapane. 
+# text = Ypusatuku xamyna itxirata kumyrype ykukytinhi ĩkapane. 
+# gloss_pt = depois lenha 3SG.PL-partir mandioca-NC.massa, polpa 3SG.M-torrar-VBLZ-GER com.o.propósito.de
+# text_pt = ‘Depois ele partiu a lenha pra torrar a massa da mandioca.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-15
+# text_orig = Kumyry-pe pusuna-pe-ka inhinhiã akiritha-ru ĩ-tanyru kumyry-pe u-iuẽk-inhi nere. 
+# text = Kumyrype pusunapeka inhinhiã akiritharu ĩtanyru kumyrype uiuẽkinhi nere. 
+# gloss_pt = mandioca-nc.MASSA,POLPA estar.seco-PFTV-PRED então chamar-3SG.F.O 3SG.M-esposa.de mandioca-NC.massa, polpa 3SG.F-peneirar-GER ?vontade
+# text_pt = ‘Quando a massa tá enxuta, aí ele chama a mulher dele pra peneirar a massa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-16
+# text_orig = Kirama akiritha-ru Kamĩkiu: 
+# text = Kirama akiritharu Kamĩkiu: 
+# gloss_pt = N.PROP chamar-3SG.F.O N.PROP
+# text_pt = ‘Kirama chamou Kamĩkiu.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-17
+# text_orig = Kirama: Ximaky p-axitha mitxi. 
+# text = Kirama: Ximaky paxitha mitxi. 
+# gloss_pt = peixe 2SG-cozinhar primeiro
+# text_pt = ‘Primeiro cozinha o peixe (antes da primeira fornada de farinha).’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-18
+# text_orig = Kamĩkiu: Ateeneka. 
+# text = Kamĩkiu: Ateeneka. 
+# gloss_pt = tá.certo
+# text_pt = ‘Tá bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-19
+# text_orig = Ywasawaky ywa Kirama kama-ry xamyna. 
+# text = Ywasawaky ywa Kirama kamary xamyna. 
+# gloss_pt = TEMP 3SG.M N.PROP fazer-3SG.M.O fogo
+# text_pt = ‘Enquanto isso, Kirama foi fazer o fogo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-20
+# text_orig = Uwa apaka kama-ry xamyna ximaky ũ-axit-inhi ĩkapane. 
+# text = Uwa apaka kamary xamyna ximaky ũaxitinhi ĩkapane. 
+# gloss_pt = 3SG.F também fazer-3SG.M.O fogo peixe 3SG.F-cozinhar-GER com.o.propósito.de
+# text_pt = ‘Ela também fez fogo, pra cozinhar o peixe.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-21
+# text_orig = Ximaky ypukasaaky uwa iuẽka-ry kumyry-pe. 
+# text = Ximaky ypukasaaky uwa iuẽkary kumyrype. 
+# gloss_pt = peixe TEMP 3SG.F peneirar-3SG.M.O mandioca-NC.massa, polpa
+# text_pt = ‘Enquanto o peixe (está fervendo), ela peneira a massa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-22
+# text_orig = Ypusupeka ininhiã, ywa Kirama kuky-ta i-txa-ry kumyry-pe.
+# text = Ypusupeka ininhiã, ywa Kirama kukyta itxary kumyrype.
+# gloss_pt = depois então 3SG.M N.PROP torrar-VBLZ 3SG.M-AUX-3SG.M.O mandioca-NC.massa, polpa
+# text_pt = ‘Depois de peneirada, Kirama torra a massa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-23
+# text_orig = Inhinhiã y-kama-ry katarukyry. 
+# text = Inhinhiã ykamary katarukyry. 
+# gloss_pt = então 3SG.M-fazer-3SG.M.O farinha
+# text_pt = ‘Então, ele fez a farinha.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-24
+# text_orig = Iiana ãky taka i-txa-ry katarukyry. 
+# text = Iiana ãky taka itxary katarukyry. 
+# gloss_pt = gamela dentro colocar 3SG.M-AUX-3SG.M.O farinha
+# text_pt = ‘Depois, ele colocou a farinha dentro da gamela.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-25
+# text_orig = Ypusatukuika akiritha-ru Kamĩkiu. 
+# text = Ypusatukuika akiritharu Kamĩkiu. 
+# gloss_pt = depois.disso chamar-3SG.F.O N.PROP
+# text_pt = ‘Depois disso, ele chamou a Kamĩkiu.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-26
+# text_orig = Kirama: Ximaky py-myna. Amu a-nhi-puku-ta. 
+# text = Kirama: Ximaky pymyna. Amu anhipukuta. 
+# gloss_pt = peixe 2SG-trazer EXORT 2PL-comer-DISTR-VBLZ
+# text_pt = ‘Traga o peixe. Vamos comer.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-27
+# text_orig = Inhinhiã ywasaaki-ika Kirama Kamĩkiu nhi-puku-ta i-txa-ne. 
+# text = Inhinhiã ywasaakiika Kirama Kamĩkiu nhipukuta itxane. 
+# gloss_pt = então nesse.momento N.PROP N.PROP comer-DISTR-VBLZ 3PL.M-AUX-3PL.M
+# text_pt = ‘Nesse momento, kirama e Kamĩkiiu comeram (o peixe).’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-28
+# text_orig = Inhinhiã i-txa Kirama: 
+# text = Inhinhiã itxa Kirama: 
+# gloss_pt = então 3SG.M-dizer N.PROP
+# text_pt = ‘Assim, Kirama diz:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-29
+# text_orig = Kirama: Ny-sãpaka nuta. 
+# text = Kirama: Nysãpaka nuta. 
+# gloss_pt = 1SG-estar.cansado 1SG
+# text_pt = ‘Eu estou cansado.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-30
+# text_orig = Kamĩkiu: Nuta apaka. 
+# text = Kamĩkiu: Nuta apaka. 
+# gloss_pt = 1SG também
+# text_pt = ‘Eu também.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-31
+# text_orig = Kirama: Kiripa a-kama watxa? 
+# text = Kirama: Kiripa akama watxa? 
+# gloss_pt = o.quê 1PL-fazer hoje/agora
+# text_pt = ‘O que fazemos agora?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-32
+# text_orig = Kamĩkiu: Katarukyry ã-anhika ã-awinhi-munhi. 
+# text = Kamĩkiu: Katarukyry ãanhika ãawinhimunhi. 
+# gloss_pt = farinha 1PL-levar 1PL-casa.de-DAT
+# text_pt = ‘Vamos levar a farinha pra casa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-33
+# text_orig = Nynuwa-nany parĩka-wa-ta. 
+# text = Nynuwanany parĩkawata. 
+# gloss_pt = 3PL-RESTR trabalho-REFL-VBLZ
+# text_pt = ‘Eles trabalham sozinhos.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-34
+# text_orig = Kuna ama-ry-ny ø-muianata-ne kutxi i-kiiumane-pe-ka-ne inhinhiã kuna ama-ry-ny-ky awa-ry. 
+# text = Kuna amaryny ømuianatane kutxi ikiiumanepekane inhinhiã kuna amarynyky awary. 
+# gloss_pt = não criança-M-PL 3PL.M-acompanhar-3PL.M porque 3PL.M-ser.velho-PFTV-PRED-3PL.M então não criança-M-PL-NC.pequeno existir-3SG.M.O
+# text_pt = ‘As crianças não os acompanham, porque eles já são idosos e, por isso, não há crianças.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-35
+# text_orig = Ama-ry-ny ma-wa-kany-ã, anãpa-nany muianata-ne nynuwa.
+# text = Amaryny mawakanyã, anãpanany muianatane nynuwa.
+# gloss_pt = criança-M-PL PRIV-ter-rel.PL-LOC cachorro-RESTR acompanhar-3PL 3PL
+# text_pt = ‘Não têm filhos, apenas os cachorrinhos os acompanham.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-4-36
+# text_orig = Ykaratuku i-txa Kirama Kamĩkiu-kata. 
+# text = Ykaratuku itxa Kirama Kamĩkiukata. 
+# gloss_pt = assim 3SG.M-ser N.PROP N.PROP-ASSOC
+# text_pt = ‘É assim, o Kirama e a Kamĩkiu.’
+
+# sent_id = FernandaM2017:TextsII-5-1
+# text_orig = Lição 5: Ukatsaã-txi (pesca-n.possd) ‘pesca’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-2
+# text_orig = Kasãtumary sãpirata-ry ukatsãat-inhi pirana. 
+# text = Kasãtumary sãpiratary ukatsãatinhi pirana. 
+# gloss_pt = N.PROP contar-3SG.M.O pesca-GER história
+# text_pt = ‘O Kasãtumary contou a história de uma pescaria.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-3
+# text_orig = Mapiiã-pe-ka Kasãtumary aiamata-ru tsapykyã, i-xiripi, y-thapu, malhadera apaka. 
+# text = Mapiiãpeka Kasãtumary aiamataru tsapykyã, ixiripi, ythapu, malhadera apaka. 
+# gloss_pt = noite-PFTV-PRED N.PROP arrumar-3SG.F.O anzol 3SG.M-flecha.de 3SG.M-arco.de malhadeira também
+# text_pt = ‘De tarde, Kasãtumary arrumou o anzol, a flecha dele, o arco dele e também a malhadeira.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-4
+# text_orig = Puka-tyma-ry-kata ĩkanũka-panhi-ka, y-puturi-ka. 
+# text = Pukatymarykata ĩkanũkapanhika, yputurika. 
+# gloss_pt = cedo-levantar-3SG.M.O-ASSOC noite-IPFTV-PRED 3SG.M-começar-PRED 
+# text_pt = ‘No outro dia, de manhã cedo, ele saiu.’Q
+# text_en = ‘The other day, early in the morning, he left.‘
+
+# sent_id = FernandaM2017:TextsII-5-5
+# text_orig = Pu-mama-ry sutuãry-ty-munhi y-s-inhi. 
+# text = Pumamary sutuãrytymunhi ysinhi. 
+# gloss_pt = ATRIB-PRETO-3SG.M.O igarapé-NC.grande-DAT 3SG.M-ir-GER
+# text_pt = ‘Ele foi para o igarapé preto.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-6
+# text_orig = Ypixinhiãpu y-taka-napa-ry malhadera apiku sa i-txa. 
+# text = Ypixinhiãpu ytakanapary malhadera apiku sa itxa. 
+# gloss_pt = meio.dia 3SG.M-colocar-passar-3SG.M.O malhadeira adiante ir 3SG.M-AUX
+# text_pt = ‘No meio dia, ele colocou a malhadeira e foi mais adiante.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-7
+# text_orig = Ywaã uka-ru pitikyru, txitxiri, ypuka-ru matxuky, y-kysaka-ry kypatxi tsumi y-makatxak-inhi ĩkapane itxũtyã ĩkapane. 
+# text = Ywaã ukaru pitikyru, txitxiri, ypukaru matxuky, ykysakary kypatxi tsumi ymakatxakinhi ĩkapane itxũtyã ĩkapane. 
+# gloss_pt = lá matar-3SG.F grilo gafanhoto ?-3SG.F.O bicho.de.coco 3SG.M-cavar-3SG.M.O terra minhoca 3SG.M-tirar-GER com.o.propósito.de ?isca com.o.propósito.de
+# text_pt = ‘Lá ele matou grilo, gafanhoto, quebrou coco, cavou terra pra tirar minhoca, pra servir de isca.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-8
+# text_orig = Ywaã y-peruka-ru mamury, tũpary, ykyparu, uma, kukuixima, kariti, y-peruka. 
+# text = Ywaã yperukaru mamury, tũpary, ykyparu, uma, kukuixima, kariti, yperuka. 
+# gloss_pt = lá 3SG.M-?pescar-3SG.F.O matrinxã pacu piau piranha jatuarana piaba 3SG-pescar
+# text_pt = ‘Lá ele pegou matrinxã, pacu, piau, piranha, jatuarana, piaba, ele pegou’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-9
+# text_orig = Kikata-pe-ka inhinhiã y-kanapyry-pe. 
+# text = Kikatapeka inhinhiã ykanapyrype. 
+# gloss_pt = entardecer-PFTV-PRED então 3SG.M-voltar-PFTV
+# text_pt = ‘Já de tarde ele voltou. 
+
+# sent_id = FernandaM2017:TextsII-5-10
+# text_orig = Malhadera y-taka-napa-kyty eta. 
+# text = Malhadera ytakanapakyty eta. 
+# gloss_pt = malhadeira 3SG.M-colocar-passar- REL.O.M ver
+# text_pt = ‘Ele olhou a malhadeira que ele tinha deixado.’
+ 
+
+# sent_id = FernandaM2017:TextsII-5-11
+# text_orig = Apuka-ry ximaky. Apuka-ry kapynaxima, iukuwaty. 
+# text = Apukary ximaky. Apukary kapynaxima, iukuwaty. 
+# gloss_pt = achar-3SG.M.O peixe achar-3SG.M.O tucunaré caruaçu
+# text_pt = ‘Achou peixe. Achou tucunaré, caruaçu.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-12
+# text_orig = Apuka-ru tũpary apaka, ykyparu, tsukirima. 
+# text = Apukaru tũpary apaka, ykyparu, tsukirima. 
+# gloss_pt = achar-3SG.F.O pacu também piau surubim
+# text_pt = ‘Achou também pacu, piau, surubim.’ 
+
+# sent_id = FernandaM2017:TextsII-5-13
+# text_orig = Y-makatxaka-ry ximaky.
+# text = Ymakatxakary ximaky.
+# gloss_pt = 3SG.M-tirar-3SG.M.O peixe
+# text_pt = ‘Tirou o peixe.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-14
+# text_orig = Ypukatuku ø-awinhi-munhi sy-pe i-txa. 
+# text = Ypukatuku øawinhimunhi sype itxa. 
+# gloss_pt = depois 3SG.M-casa.de-DAT ir-PFTV 3SG.M-AUX
+# text_pt = ‘Depois foi pra casa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-15
+# text_orig = Ỹ-tanyru, Kahukiã, puxuku-ta-ry ximaky. 
+# text = Ỹtanyru, Kahukiã, puxukutary ximaky. 
+# gloss_pt = 3SG.M-esposa.de N.PROP ser.alegre-VBLZ-3SG.M.O peixe
+# text_pt = ‘Kahukiã, a mulher dele, ficou alegre com o peixe.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-16
+# text_orig = Ximaky u-syka-ru u-ynyru, u-ĩtharu apaka. 
+# text = Ximaky usykaru uynyru, uĩtharu apaka. 
+# gloss_pt = peixe 3SG.F-dar-3SG.F.O 3SG.F-mãe.de 3SG.F-irmã.de também
+# text_pt = ‘Ela deu peixe para a mãe dela e também para a irmã dela.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-5-17
+# text_orig = Uwa kaikuta-ka apaka. 
+# text = Uwa kaikutaka apaka. 
+# gloss_pt = 3SG.F ?-PRED também
+# text_pt = ‘Ele ficou (com peixe) também.’ 
+
+# sent_id = FernandaM2017:TextsII-6-1
+# text_orig = Lição 6: Aiata (‘caçar’)
+
+# sent_id = FernandaM2017:TextsII-6-2
+# text_orig = Kasãtumary sãpirata-ry aiat-inhi pirana Xirikary-munhi.
+# text = Kasãtumary sãpiratary aiatinhi pirana Xirikarymunhi.
+# gloss_pt = N.PROP contar-3SG.M.O caçar-GER história N.PROP-DAT 
+# text_pt = ‘Kasãtumary conta sobre a caçada dele para o Xirikary.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-3
+# text_orig = Kasãtumary: Nuta, Kasãtumary, ny-sãpirata-i-ku n-aiat-inhi pirana. 
+# text = Kasãtumary: Nuta, Kasãtumary, nysãpirataiku naiatinhi pirana. 
+# gloss_pt = 1SG N.PROP 1SG-contar-2SG.O-FUT 1SG-caçar-GER história
+# text_pt = ‘Eu, Kasãtumary, vou lhe contar sobre a minha caçada.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-4
+# text_orig = Nuta kyta aiata. 
+# text = Nuta kyta aiata. 
+# gloss_pt = 1SG ontem caçar
+# text_pt = ‘Ontem fui caçar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-5
+# text_orig = Ĩthupa ny-s-inhi apysa, ny-awanata-ru iuwata. 
+# text = Ĩthupa nysinhi apysa, nyawanataru iuwata. 
+# gloss_pt = mata 1SG-ir-GER ?antes 1SG-amolar-3SG.F.O faca
+# text_pt = ‘Antes de ir para o mato, amolei a faca.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-6
+# text_orig = Ny-ere-ka-ta-ru xamynaky. 
+# text = Nyerekataru xamynaky. 
+# gloss_pt = 1SG-ser.bom-CAUS-VBLZ-3SG.F.O espingarda 
+# text_pt = ‘Arrumei a espingarda.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-7
+# text_orig = Ny-ere-ka-ta-ru apaka paraky. 
+# text = Nyerekataru apaka paraky. 
+# gloss_pt = 1SG-ser.bom-CAUS-VBLZ-3SG.F.O também cartucho
+# text_pt = ‘Prepaparei também os cartuchos.’ 
+# text_en = ‘I will also prepare the cartridges.‘
+
+# sent_id = FernandaM2017:TextsII-6-8
+# text_orig = Inhinhiã puka-tyma-ry-kata sa nhi-txa. 
+# text = Inhinhiã pukatymarykata sa nhitxa. 
+# gloss_pt = então cedo-levantar-3SG.M.O-ASSOC ir 1SG-AUX
+# text_pt = ‘Assim, de manhã cedo, fui pra mata.’Q
+# text_en = ‘So, early in the morning, I went to the woods.‘
+
+# sent_id = FernandaM2017:TextsII-6-9
+# text_orig = Ny-sa-ry ĩthakuxiti ywaã ny-taũkyta-ru irary. 
+# text = Nysary ĩthakuxiti ywaã nytaũkytaru irary. 
+# gloss_pt = 1SG-ir-3SG.M.O longe lá 1SG-encontrar-3SG.F.O queixada
+# text_pt = ‘Fui longe e lá encontrei queixada.’ 
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-10
+# text_orig = Inhinhiã keta nhi-txa-ru. 
+# text = Inhinhiã keta nhitxaru. 
+# gloss_pt = então atirar 1SG-AUX-3SG.F.O
+# text_pt = ‘Aí atirei nelas.’ 
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-11
+# text_orig = Ipi hãtu pakyny nhi-keta. 
+# text = Ipi hãtu pakyny nhiketa. 
+# gloss_pt = dois uma mais 1SG-atirar
+# text_pt = ‘Atirei em três.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-12
+# text_orig = Ipi-ka n-uka, hãtu kuna n-uka. 
+# text = Ipika nuka, hãtu kuna nuka. 
+# gloss_pt = dois-?PRED 1SG-matar uma não 1SG-matar
+# text_pt = ‘Matei duas, e uma escapou.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-13
+# text_orig = Xirikary pymãa-ry: 
+# text = Xirikary pymãary: 
+# gloss_pt = N.PROP perguntar-3SG.M.O
+# text_pt = ‘Xirikary perguntou:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-14
+# text_orig = Xirikary: Py-myna-ta-ru p-uka-kytu? 
+# text = Xirikary: Pymynataru pukakytu? 
+# gloss_pt = 2SG-trazer-VBLZ-3SG.F.O 2SG-matar-REL.M.O
+# text_pt = ‘Trouxe o que matou?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-15
+# text_orig = Kasãtumary: Ary, ny-myna-pyty-ka-ru. 
+# text = Kasãtumary: Ary, nymynapytykaru. 
+# gloss_pt = sim 1SG-trazer-ENF-PRED-3SG.F.O
+# text_pt = ‘Sim, trouxe mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-16
+# text_orig = Xirikary: Kuna minha-ru irary? 
+# text = Xirikary: Kuna minharu irary? 
+# gloss_pt = não ser.pesado-3SG.F.O queixada
+# text_pt = ‘Não tava pesada a queixada?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-17
+# text_orig = Kasãtumary: Ary. Minha-pyty-ka-ru. 
+# text = Kasãtumary: Ary. Minhapytykaru. 
+# gloss_pt = sim ser.pesado-ENF-PRED-3SG.F.O
+# text_pt = ‘Sim, tava pesado mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-18
+# text_orig = Inhinhiã-pyty-ka-ra mapiã-pe-ka n-apu-ka wai.
+# text = Inhinhiãpytykara mapiãpeka napuka wai.
+# gloss_pt = então-ENF-?PRED-FOC escuridão-PFTV-PRED 1SG-chegar-PRED aqui
+# text_pt = ‘Por isso mesmo, cheguei já de tardezinha.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-6-19
+# text_orig = Xirikary: P-awinhi-ã p-apu-k-inhi-ã kiripa py-kama-panhi-ka? 
+# text = Xirikary: Pawinhiã papukinhiã kiripa pykamapanhika? 
+# gloss_pt = 2SG-casa.de-LOC 2SG-chegar-PRED-GER-PROGR o.quê 2SG-fazer-IPFTV-PRED
+# text_pt = ‘Chegando na sua casa, o que mais você fez?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-20
+# text_orig = Kasãtumary: Kuna m-inha-ka-ty ny-kama-ika kutxi ny-sãpaka-pe-ka. 
+# text = Kasãtumary: Kuna minhakaty nykamaika kutxi nysãpakapeka. 
+# gloss_pt = não PRIV-ser-PRED-3SG.M.O 1SG-fazer-não.mais porque 1SG-estar.cansado-PFTV-PRED
+# text_pt = ‘Não fiz mais nada porque eu já tava cansado.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-6-21
+# text_orig = Nhi-kipa-ã-t-inhi-wa-nany ny-kama. 
+# text = Nhikipaãtinhiwanany nykama. 
+# gloss_pt = 1SG-tomar.banho-PROGR-VBLZ-GER-REFL-RESTR 1SG-fazer
+# text_pt = ‘Só fiz tomar banho.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-22
+# text_orig = Xirikary: Natuku-pa u-txa irary p-uka-kytu? 
+# text = Xirikary: Natukupa utxa irary pukakytu? 
+# gloss_pt = como-INTERR 3SG.F-AUX queixada 2SG-matar-REL.M.O
+# text_pt = ‘Como ficou o queixada morto por você?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-23
+# text_orig = Kiripa iiumaretata-ru? 
+# text = Kiripa iiumaretataru? 
+# gloss_pt = quem tratar-3SG.F.O
+# text_pt = ‘Quem tratou?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-24
+# text_orig = Kasãtumary: N-amary-te-ny inhĩkata-ru. 
+# text = Kasãtumary: Namaryteny inhĩkataru. 
+# gloss_pt = 1SG-filhos.de cuidar-3SG.F.O
+# text_pt = ‘Meus filhos cuidaram dela (a queixada).’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-25
+# text_orig = Xirikary: Kuna py-natxitha ĩthupa p-aiat-inhi-ã? 
+# text = Xirikary: Kuna pynatxitha ĩthupa paiatinhiã? 
+# gloss_pt = não 2SG-sentir.fome mata 2SG-caçar-GER-LOC
+# text_pt = ‘Você não sente fome quando caça na mata?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-26
+# text_orig = Kasãtumary: Ary. Ny-natxitha-pyty-ka. 
+# text = Kasãtumary: Ary. Nynatxithapytyka. 
+# gloss_pt = sim 1SG-sentir.fome-ENF-PRED
+# text_pt = ‘Sim, sinto fome mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-27
+# text_orig = Ywaxika-pyty-ka-ra n-uka-ru irary. 
+# text = Ywaxikapytykara nukaru irary. 
+# gloss_pt = ?por.isso-ENF-PRED-FOC 1SG-matar-3SG.F.O queixada
+# text_pt = ‘É por isso mesmo que matei o queixada.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-28
+# text_orig = Xirikary: P-awinhi-ã p-apu-ka-saaky kiripa pi-nhi-ka? 
+# text = Xirikary: Pawinhiã papukasaaky kiripa pinhika? 
+# gloss_pt = 2SG-casa.de-LOC 2SG-chegar-PRED-TEMP o.quê 2SG-comer-PRED
+# text_pt = ‘Quando chegou em casa, o que comeu?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-29
+# text_orig = Kasãtumary: Nhi-nhi-ka-ry ximaky nỹ-tanyru, Kahukyã, takapasata-kyty. 
+# text = Kasãtumary: Nhinhikary ximaky nỹtanyru, Kahukyã, takapasatakyty. 
+# gloss_pt = 1SG-comer-PRED-3SG.M.O peixe 1SG-esposa.de N.PROP guardar-O.M.REL
+# text_pt = ‘Comi peixe que minha esposa, a Kahukyã, guardou.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-30
+# text_orig = Ny-ãta-ry tsapyryky apaka. 
+# text = Nyãtary tsapyryky apaka. 
+# gloss_pt = 1SG-beber-3SG.M.O açaí também
+# text_pt = ‘Também bebi açaí.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-6-31
+# text_orig = Ykaratuku nhi-txa nuta kyta. 
+# text = Ykaratuku nhitxa nuta kyta. 
+# gloss_pt = assim 1SG-ser 1SG ontem
+# text_pt = ‘Foi assim meu dia de ontem’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-6-32
+# text_orig = Xirikary: Ary. Ereka-pyty-ka-ry p-aiat-inhi pirana. 
+# text = Xirikary: Ary. Erekapytykary paiatinhi pirana. 
+# gloss_pt = sim ser.bom-ENF-PRED-3SG.M.O 2SG-caçar-GER história
+# text_pt = ‘É. Foi muito boa a história da tua caçada.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-1
+# text_orig = Lição 7: Natuku-pa pi-txa? (como-interr 2sg-ser) ‘Como você está?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-2
+# text_orig = Amiia-ta-ka-txi pirana 
+# text = Amiiatakatxi pirana 
+# gloss_pt = doença-VBLZ-ENF-N.POSSD história 
+# text_pt = ‘História de doença’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-3
+# text_orig = Upirĩka, Kĩpuku sa-ry ĩthupa ø-aiat-inhi-ne ĩkapane. 
+# text = Upirĩka, Kĩpuku sary ĩthupa øaiatinhine ĩkapane. 
+# gloss_pt = N.PROP N.PROP ir-3sg.m.o mata 3PL.M.caçar-GER-3PL.M com.o.propósito.de
+# text_pt = ‘Upirĩka, Kĩpuku foram pra mata pra caçar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-4
+# text_orig = Ĩthaku-xiti-pe-ka ø-awa-ka-sawaky-ne iia Kĩpuku y-tsyy-kywy txa-ry;
+ser.longe-TERRA-PFTV-PRED 3PL.M-estar.em-PRED-TEMP-3PL.M esse N.PROP 3SG.M-dor.de-cabeça.de AUX-3SG.M.O
+# text_pt = ‘Quando eles já estavam longe, o Kĩpuku sentiu dor de cabeça;’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-5
+# text_orig = Inhinhiã y-sãpira-ta-ry Upirĩka. 
+# text = Inhinhiã ysãpiratary Upirĩka. 
+# gloss_pt = então 3SG.M-contar-VBLZ N.PROP
+# text_pt = ‘Então ele contou pro Upirĩka.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-6
+# text_orig = Kĩpuku: Kuna ereka-nu i-txa. 
+# text = Kĩpuku: Kuna erekanu itxa. 
+# gloss_pt = não ser.bom-1SG.O 3SG.M-AUX
+# text_pt = ‘Eu não estou bem (ele disse).’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-7
+# text_orig = Upirĩka: Natuku-pa pi-txa? 
+# text = Upirĩka: Natukupa pitxa? 
+# gloss_pt = como-INTERR 2SG-ser
+# text_pt = ‘Como você está?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-8
+# text_orig = Kĩpuku: Ny-tsyy-kywy txa-nu. 
+# text = Kĩpuku: Nytsyykywy txanu. 
+# gloss_pt = 1SG-dor.de-cabeça.de ser-1SG.O
+# text_pt = ‘Eu estou com dor de cabeça.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-9
+# text_orig = Nhĩ-ithu ymak-inhi-ka apuuma-ta-kary atuku nhi-txa. 
+# text = Nhĩithu ymakinhika apuumatakary atuku nhitxa. 
+# gloss_pt = 1SG-corpo.de domir-GER-ENF febre-VBLZ- REL.S.M igual 1SG-AUX
+# text_pt = ‘Meu corpo todo parece estar com febre.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-10
+# text_orig = Upirĩka: Ĩka amu a-kanapyry-pe-ka kutxi pitha amiiana-ta. 
+# text = Upirĩka: Ĩka amu akanapyrypeka kutxi pitha amiianata. 
+# gloss_pt = então EXORT 1PL-voltar-PFTV-PRED porque 2SG doença-VBLZ
+# text_pt = ‘Então vamos voltar porque você tá doente.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-11
+# text_orig = Kuna apaka-ta ãaiat-inhi. 
+# text = Kuna apakata ãaiatinhi. 
+# gloss_pt = não também-?VBLZ caçar-GER
+# text_pt = ‘Não dá pra caçar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-12
+# text_orig = Inhinhiã kanapyry-pe i-txa Upirĩka y-muianary-kata. 
+# text = Inhinhiã kanapyrype itxa Upirĩka ymuianarykata. 
+# gloss_pt = então voltar-PFTV 3SG.M-AUX N.PROP 3SG.M-companheiro.de-ASSOC
+# text_pt = ‘Então o Upirĩka voltou com o companheiro dele.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-13
+# text_orig = Aiku-ã apu-ka i-txa-ne, aiku-ã awa-karu Ĩkiiapa pymãa-ry. 
+# text = Aikuã apuka itxane, aikuã awakaru Ĩkiiapa pymãary. 
+# gloss_pt = casa-LOC chegar-PRED 3PL.M-AUX-3PL.M casa-LOC ter- REL.S.F N.PROP perguntar-3SG.M.O
+# text_pt = ‘Chegaram na casa. A Ĩkiiapa, que tava em casa, perguntou:’Q
+# text_en = 
+
+# sent_id = FernandaM2017:TextsII-7-14
+# text_orig = Ĩkiiapa: Kuna m-inha-katy h-ũka? 
+# text = Ĩkiiapa: Kuna minhakaty hũka? 
+# gloss_pt = não PRIV-SER-RELZ.3SG.M 2PL-matar
+# text_pt = ‘Vocês não mataram nada?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-15
+# text_orig = Upirĩka: Kuna ka-iuma-ã-wa. 
+# text = Upirĩka: Kuna kaiumaãwa. 
+# gloss_pt = não ATRIB-trabalho.de-?PROGR-1SG.O
+# text_pt = ‘Não matamos nada’ Lit.: ‘?Não teve trabalho pra nós’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-16
+# text_orig = Ny-muianary amiiana-t-inhi-ã, a-kanapyry-pe. 
+# text = Nymuianary amiianatinhiã, akanapyrype. 
+# gloss_pt = 1SG-companheiro.de doença-VBLZ-GER-?PROGR 1PL-voltar-PFTV
+# text_pt = ‘Meu companheiro adoeceu, e a gente voltou.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-17
+# text_orig = "Inhinhiã amiiana-ta-kary inhĩkata-karu, Mirĩeru”?
+# text = "Inhinhiã amiianatakary inhĩkatakaru, Mirĩeru”?
+# gloss_pt = então doença-VBLZ-RELZ-REL.S.M cuidar-REL.S.F N.PROP
+# text_pt = ‘"Então quem cuida de quem tá doente, Mirĩeru?",’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-18
+# text_orig = pymaã-ry Kĩpuku: 
+# text = pymaãry Kĩpuku: 
+# gloss_pt = perguntar-3SG.M.O N.PROP
+# text_pt = O Kĩpuku perguntou: 
+
+# sent_id =  FernandaM2017:TextsII-7-19
+# text_orig = Mirĩeru: Natuku-pa i-txa p-amiiana-re puturi-k-inhi? 
+# text = Mirĩeru: Natukupa itxa pamiianare puturikinhi? 
+# gloss_pt = como-INTERR 3SG.M-AUX 2SG-doença-POSSD ?trabalhar-PRED-GER
+# text_pt = ‘Como começou a tua doença?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-20
+# text_orig = Kĩpuku: Ny-tsyy-kywy txa-nu mitxi. 
+# text = Kĩpuku: Nytsyykywy txanu mitxi. 
+# gloss_pt = 1SG-dor.de-cabeça.de AUX-1SG.O primeiro
+# text_pt = ‘Primeiro senti dor de cabeça.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-21
+# text_orig = Ẽere-k-atuku-ika apuuma-ry apu-ka i-txa. 
+?ser.bom-?PRED-como-não.mais febre-N.POSSD chegar-PRED 3SG.M-AUX
+# text_pt = ‘Depois de poucas horas veio a febre.’ Lit.: ‘Quando não estava mais bom, a febre chegou’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-22
+# text_orig = Mirĩeru: Natuku-pa pi-txa watxa? 
+# text = Mirĩeru: Natukupa pitxa watxa? 
+# gloss_pt = como-INTERR 2SG-ser agora
+# text_pt = ‘Como você está agora?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-23
+# text_orig = Kĩpuku: Apuuma-ry, ny-tsyy-kywy, ny-tsyy-ĩthu txa-nu. 
+# text = Kĩpuku: Apuumary, nytsyykywy, nytsyyĩthu txanu. 
+# gloss_pt = febre-N.POSSD 1SG-dor.de-cabeça.de 1SG-dor.de-corpo.de AUX-1SG.O
+# text_pt = ‘Sinto febre, dor de cabeça e dor no corpo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-24
+# text_orig = Inhinhiã uwa, Mirĩeru, syka-ry amiiana-ry pinhi. 
+# text = Inhinhiã uwa, Mirĩeru, sykary amiianary pinhi. 
+# gloss_pt = então 3SG.F N.PROP dar-3SG.M.O doença-N.POSSD remédio.de
+# text_pt = ‘Aí ela, a Mirĩeru, deu remédio pra doença.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-7-25
+# text_orig = Ipi ũty atuku apuuma-ry kuna awa-ika. 
+# text = Ipi ũty atuku apuumary kuna awaika. 
+# gloss_pt = dois dia depois febre-N.POSSD não existir-não.mais
+# text_pt = ‘Dois dias depois, não havia mais febre. 
+
+# sent_id = FernandaM2017:TextsII-8-1
+# text_orig = Lição 8: Kyynyry (xingané ‘festa tradicional dos Apurinã’)
+
+# sent_id = FernandaM2017:TextsII-8-2
+# text_orig = Kamaxiriĩry kama-ry-ku kyynyry, inhinhiã ø-akiritha-ry ø-imi Xirikary. 
+# text = Kamaxiriĩry kamaryku kyynyry, inhinhiã øakirithary øimi Xirikary. 
+# gloss_pt = N.PROP fazer-3SG.M.O-FUT xingané então 3SG.M-chamar-3SG.M.O 3SG.M-filho.de N.PROP
+# text_pt = ‘Kamaxirĩiry, o dono da festa, então chamou o filho dele, Xirikary.’ Lit.: ‘O Kamaxiriĩry vai fazer um xingané, então, ele chamou o filho dele, Xirikary.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-3
+# text_orig = Kamaxiriĩry: Xirikary, a-nyrymane py-ĩkamaneta i-txa-ry kyynyry ĩkapane.
+# text = Kamaxiriĩry: Xirikary, anyrymane pyĩkamaneta itxary kyynyry ĩkapane.
+# gloss_pt = N.PROP 1PL-parentes.de 2SG-convidar 3SG.M-AUX-3SG.M.O xingané com.o.propósito.de
+# text_pt = ‘Xirikary, convida os nossos parentes para a festa do xingané.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-4
+# text_orig = Xirikary: Ary, ny-sa-pyty-ka-ku. 
+# text = Xirikary: Ary, nysapytykaku. 
+# gloss_pt = sim 1SG-ir-ENF-PRED-FUT
+# text_pt = ‘Sim, eu vou mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-5
+# text_orig = Inhinhiã y-sa Xirikary y-nyrymane ĩkamaneta. 
+# text = Inhinhiã ysa Xirikary ynyrymane ĩkamaneta. 
+# gloss_pt = então 3SG.M-ir N.PROP 3SG.M-parentes.de convidar
+# text_pt = ‘Assim, Xirikary foi convidar os parentes.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-6
+# text_orig = Ywa Kamaxiriĩry panhiata-ne apanakyny aiat-inhi ukasaãt-inhi. 
+# text = Ywa Kamaxiriĩry panhiatane apanakyny aiatinhi ukasaãtinhi. 
+# gloss_pt = 3SG.M N.PROP ?mandar-?3PL resto caçar-GER pescar-GER
+# text_pt = ‘Kamaxiriĩry mandou os outros pescar e caçar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-7
+# text_orig = Ywa Kamaxiriĩry kama-ry katarukyry. 
+# text = Ywa Kamaxiriĩry kamary katarukyry. 
+# gloss_pt = 3SG.M N.PROP fazer-3SG.M.O farinha
+# text_pt = ‘Ele, o Kamaxiriĩry, fez farinha.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-8
+# text_orig = Xirikary: Mutxaka, n-yry iukana-pira-ẽ-ta-i  hĩtha kyynyry hỹ-s-inhi ĩkapane. 
+# text = Xirikary: Mutxaka, nyry iukanapiraẽtai  hĩtha kyynyry hỹsinhi ĩkapane. 
+# gloss_pt = N.PROP 1SG-pai.de mandar, enviar-FAL.REP-?-VBLZ-2SG.O 2PL xingané 2PL-ir-GER com.o.propósito.de
+# text_pt = ‘Mutxaka, meu pai mandou dizer para vocês irem para a festa dele.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-9
+# text_orig = Mutxaka: Kiri-sawaky-pa kyynyry? 
+# text = Mutxaka: Kirisawakypa kyynyry? 
+# gloss_pt = INTERR-TEMP-INTERR xingané
+# text_pt = ‘Quando vai ser a festa?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-10
+# text_orig = Xirikary: Katana puka-tyma-ryty. 
+# text = Xirikary: Katana pukatymaryty. 
+# gloss_pt = amanhã cedo-?levantar-REL.3SG.M
+# text_pt = ‘Depois de amanhã.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-11
+# text_orig = Mutxaka: Ki-nha-kary-ty-pa nhipuku-ry awa-ta-ku? 
+# text = Mutxaka: Kinhakarytypa nhipukury awataku? 
+# gloss_pt = INTERR-ser-REL.S.M-AUM-INTERR comida-N.POSSD existir-VBLZ-FUT
+# text_pt = ‘Que comida vai ter?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-12
+# text_orig = Xirikary: Kuna nh-imaru-t-ika-ry. 
+# text = Xirikary: Kuna nhimarutikary. 
+# gloss_pt = não 1SG-saber-VBLZ-não.mais-3SG.M.O
+# text_pt = ‘Eu ainda não sei.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-13
+# text_orig = I-txa-ma awa-pe-ka katarukyry, txipari, anãna, mutu, kypary, kimi.
+# text = Itxama awapeka katarukyry, txipari, anãna, mutu, kypary, kimi.
+# gloss_pt = 3SG.M-AUX-FRUST existir-PFTV-PRED farinha banana abacaxi cará batata milho
+# text_pt = ‘Mas já tem farinha, banana, abacaxi, cará, batata e milho.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-14
+# text_orig = A-nyrymane aiata-panhi-ka, ukatsaã-ta-panhi-ka.
+# text = Anyrymane aiatapanhika, ukatsaãtapanhika.
+# gloss_pt = 1PL-parente.de caça-IPFTV-PRED pesca-VBLZ-IPFTV-PRED
+# text_pt = ‘Os parentes ainda estão caçando, pescando.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-15
+# text_orig = Inhinhiã awa-pyty-ka-ku nhipuku-ry.
+# text = Inhinhiã awapytykaku nhipukury.
+# gloss_pt = então existir-ENF-PRED-FUT comida-N.POSSD 
+# text_pt = ‘Então, com certeza vai ter comida.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-16
+# text_orig = Mutxaka: Ereka-pyty-ka-ry. Kiri-pa xipuãta-ta-ku? 
+# text = Mutxaka: Erekapytykary. Kiripa xipuãtataku? 
+# gloss_pt = ser.bom-ENF-PRED-3SG.M.O quem-INTERR canto-VBLZ-FUT
+# text_pt = ‘Então, tá muito bom. Quem vai cantar?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-17
+# text_orig = Xirikary: N-yry ka-xikare-ry i-txa-wa. 
+# text = Xirikary: Nyry kaxikarery itxawa. 
+# gloss_pt = 1SG-pai.de ATRIB-cantar-3SG.M.O 3SG.M-ser-REFL
+# text_pt = ‘O meu pai é um cantador.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-18
+# text_orig = Mutxaka: Ateeneka ereka-pyty-ka-ry. Ki-nha-kary-yãry-ty-pa awa-ta-ku. 
+# text = Mutxaka: Ateeneka erekapytykary. Kinhakaryyãrytypa awataku. 
+# gloss_pt = tá.certo ser.bom-ENF-PRED-3SG.M.O INTERR-ser-REL.S.M-bebida-AUM-INTERR existir-VBLZ-FUT
+# text_pt = ‘Tá certo. Que tipo de bebida vai ter?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-19
+# text_orig = Xirikary: Txipary, anãna, kimi, kypary awa-pe-ka.
+# text = Xirikary: Txipary, anãna, kimi, kypary awapeka.
+# gloss_pt = banana abacaxi milho batata existir-PFTV-PRED
+# text_pt = ‘De banana, abacaxi, milho e batata, já tá lá.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-20
+# text_orig = Mutxaka: Ateeneka ereka-pyty-ka-ry. 
+# text = Mutxaka: Ateeneka erekapytykary. 
+# gloss_pt = tá.certo ser.bom-ENF-PRED-3SG.M.O
+# text_pt = ‘Então, tá muito bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-21
+# text_orig = Nuta apuka ereka-ta-ry ykaratuku inhinhi. 
+# text = Nuta apuka erekatary ykaratuku inhinhi. 
+# gloss_pt = 1SG achar ser.bom-VBLZ-3SG.M.O assim ?então
+# text_pt = ‘Eu gosto assim.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-22
+# text_orig = Inhinhiã Xirikary kanapyry-ã ø-awinhi-munhi. 
+# text = Inhinhiã Xirikary kanapyryã øawinhimunhi. 
+# gloss_pt = então N.PROP voltar-LOC 3SG.M-casa.de-DAT
+# text_pt = ‘Então, Xirikary voltou para casa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-23
+# text_orig = Inhinhiã kyynyry ũty ykyny-mane sa-ry kyynyry-munhi. 
+# text = Inhinhiã kyynyry ũty ykynymane sary kyynyrymunhi. 
+# gloss_pt = então xingané dia todo-corpo.de ir-3SG.M.O xingané-DAT
+# text_pt = ‘Então no dia da festa, todos foram pra festa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-24
+# text_orig = Ywaã ø-apu-ka-ne my-r-ykyny-ty nhipuku-ry:
+# text = Ywaã øapukane myrykynyty nhipukury:
+# gloss_pt = lá 3PL.M-chegar-PRED-3PL.M ATRIB.INTENS-FOC-todo-AUM comer-N.POSSD
+# text_pt = ‘Chegaram lá e tinha muita comida:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-25
+# text_orig = Awa ximaky, xinhĩ-txi, txipari-pẽe,anãna-pẽe, kypary-pẽe, kimi-pẽe.
+# text = Awa ximaky, xinhĩtxi, txiparipẽe,anãnapẽe, kyparypẽe, kimipẽe.
+# gloss_pt = existir peixe carne.de-N.POSSD banana-NC.massa, polpa abacaxi-NC.massa, polpa batata-NC.massa, polpa milho-NC.massa, polpa
+# text_pt = ‘tinha peixe, carne, vinho de banana, de abacaxi, de batata e de milho.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-26
+# text_orig = Awa apaka kitxiti-pẽe tsapyryky-pẽe. 
+# text = Awa apaka kitxitipẽe tsapyrykypẽe. 
+# gloss_pt = existir também patuá-NC.massa, polpa açaí-NC.massa, polpa
+# text_pt = ‘Tinha também patuá, açaí.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-27
+# text_orig = Ykyny-puku awa-ry. 
+# text = Ykynypuku awary. 
+# gloss_pt = todo-DISTR existir-3SG.M.O
+# text_pt = ‘Tinha todo tipo de comida.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-28
+# text_orig = Inhinhiã ykyny-mane-pe-ka apu-k-inhi-ã, xipuãta, serena-pirĩka-ta.
+# text = Inhinhiã ykynymanepeka apukinhiã, xipuãta, serenapirĩkata.
+# gloss_pt = então todo-corpo.de-PFTV-ENF chegar-PRED-GER-LOC cantar dançar-coletivo-VBLZ
+# text_pt = ‘Assim chagando todo mundo, cantaram e dançaram.’ 
+
+# sent_id = FernandaM2017:TextsII-8-29
+# text_orig = I-txa pupỹkary. 
+# text = Itxa pupỹkary. 
+# gloss_pt = 3SG.M-ser índio
+# text_pt = ‘É assim o índio.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-30
+# text_orig = Ykyny-mane nhipuku-ta, yã-pirĩka-ta. 
+todo-corpo.de comer-VBLZ beber-coletivo-VBLZ
+# text_pt = ‘Todo mundo comeu, bebeu.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-31
+# text_orig = Puka-tyma-ry-kata sy-pe i-txa-ne. 
+cedo-?levantar-3SG.M.O-ASSOC sair-PFTV 3PL.M-AUX-3PL.M
+# text_pt = ‘No outro dia de manhã, todos foram embora.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-8-32
+# text_orig = Ykaratuku i-txa kyynyry pirana. 
+# text = Ykaratuku itxa kyynyry pirana. 
+# gloss_pt = assim 3SG.M-ser xingané história
+# text_pt = ‘É assim a história da festa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-1
+# text_orig = Lição 9: Natuku-pa maky u-ĩki? (como-interr castanha 3sg.f-preço.de)
+
+# sent_id = FernandaM2017:TextsII-9-2
+# text_orig = Maky kariwa-munhi sik-iku pirana. 
+# gloss_pt = castanha não.índio-DAT vender-NMLZ história
+# text_pt = ‘Sobre a venda de castanha pro Branco.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-3
+# text_orig = Atha pupỹkary inha-kany-wa syka-ru maky a-parĩka kariwa-munhi. 
+# text = Atha pupỹkary inhakanywa sykaru maky aparĩka kariwamunhi. 
+# gloss_pt = 1PL não.índio ser-REL.PL-1PL.O vender-3SG.F castanha 1PL-trabalho.de não.índio-DAT
+# text_pt = ‘Nós, índios, vendemos castanha, nosso produto, pro Branco.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-4
+# text_orig = Ywa Kariwa amuta-ru atha maky-te. 
+# text = Ywa Kariwa amutaru atha makyte. 
+# gloss_pt = 3SG.M não.índio comprar-3SG.F.O 1PL castanha-POSSD
+# text_pt = ‘O Branco compra a nossa castanha.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-5
+# text_orig = Mitxi a-pymaã-ry natuku-pa u-ĩki. 
+primeiro 1PL-perguntar-3SG.M.O como-INTERR 3SG.F-preço.de
+# text_pt = ‘Primeiro perguntamos quanto é o preço dela.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-6
+# text_orig = Ywa sãpirata-wa atha u-ĩki. 
+# text = Ywa sãpiratawa atha uĩki. 
+# gloss_pt = 3SG.M contar, dizer-1PL.O 1PL 3SG.F-preço.de
+# text_pt = ‘Ele nos diz o preço dela.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-7
+# text_orig = U-ĩki ereka inhinhiã atha syka-ru maky ywa-munhi. 
+# text = Uĩki ereka inhinhiã atha sykaru maky ywamunhi. 
+# gloss_pt = 3SG.F-preço.de ser.bom então 1PL vender-3SG.F castanha 3SG.M-DAT
+# text_pt = ‘Sendo um preço bom, nós vendemos pra ele.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-8
+# text_orig = Ywa ĩki-txi-ta-wa atha. 
+# text = Ywa ĩkitxitawa atha. 
+# gloss_pt = 3SG.M preço.de-N.POSSD-VBLZ-1PL.O 1PL
+# text_pt = ‘Ele nos paga.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-9
+# text_orig = Ywaã atha a-amuta-ru iũkyra, parithu, 
+# text = Ywaã atha aamutaru iũkyra, parithu, 
+# gloss_pt = então 1PL 1PL-comprar-3SG.F sal fósforo
+# text_pt = ‘Então nós compramos sal, fósforo,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-10
+# text_orig = tsapykyã, tsapykyã-tsa, a-amuta-ry apaka keku-txi,
+# text = tsapykyã, tsapykyãtsa, aamutary apaka kekutxi,
+# gloss_pt = anzol anzol-NC.longo, fino, flexível 1PL-comprar-3SG.F.O também rede.de-N.POSSD
+# text_pt = ‘anzol, linha de pesca, compramos também rede,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-11
+# text_orig = muskitero, mãka-txi, saasara, iuwata, 
+# text = muskitero, mãkatxi, saasara, iuwata, 
+# gloss_pt = mosquiteiro roupa.de-N.POSSD terçado faca
+# text_pt = ‘mosquiteiro, roupa, terçado, faca,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-12
+# text_orig = a-amuta-ry xamynaky, xũpu-ky, xũpu-panhi, 
+# text = aamutary xamynaky, xũpuky, xũpupanhi, 
+# gloss_pt = 1PL-comprar-3SG.M.O espingarda chumbo-NC.pequeno,redondo chumbo-NC.pó
+# text_pt = ‘compramos espingarda, chumbo, pólvora,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-13
+# text_orig = a-amuta-ru puryta-ky, parapa... 
+# text = aamutaru purytaky, parapa... 
+# gloss_pt = 1PL-comprar-3SG.F.O espoleta-NC.pequeno, redondo cartucho
+# text_pt = ‘compramos espoleta, cartucho...’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-14
+# text_orig = A-maky-te ĩiki iaũ-ka a-amuta. 
+# text = Amakyte ĩiki iaũka aamuta. 
+# gloss_pt = 1PL-castanha-POSSD preço contar-PRED 1PL-comprar
+# text_pt = ‘Compramos a quantidade equivalente ao preço da nossa castanha.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-15
+# text_orig = Ykaratuku i-txa Puiaka y-muianary 
+# text = Ykaratuku itxa Puiaka ymuianary 
+# gloss_pt = assim 3SG.M-AUX N.PROP 3SG.M-companheiro.de 
+# text_pt = ‘É assim que o Puiaka e o companheiro dele,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-16
+# text_orig = Mutxaka-kata, maky kariwa-munhi y-syk-inhi-ne. 
+# text = Mutxakakata, maky kariwamunhi ysykinhine. 
+# gloss_pt = N.PROP-ASSOC castanha não.índio-DAT 3PL.M-vender-GER-3PL.M
+# text_pt = ‘Mutxaka, vendem castanha pro Branco.’Q
+# text_en = ‘Mutxaka, sell chestnuts to Branco.‘
+
+# sent_id = FernandaM2017:TextsII-9-17
+# text_orig = Puiaka pymaã-ry Mutxaka: 
+# text = Puiaka pymaãry Mutxaka: 
+# gloss_pt = N.PROP perguntar-3SG.M.O N.PROP
+# text_pt = ‘Puiaka perguntou pro Mutxaka:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-18
+# text_orig = Puiaka: Ereka-ru xamynaky py-ãmuta-kytu? 
+# text = Puiaka: Erekaru xamynaky pyãmutakytu? 
+# gloss_pt = ser.bom-3SG.F.O espingarda 2SG-comprar-REL.M.O
+# text_pt = ‘É boa a espingarda que você comprou?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-19
+# text_orig = Mutxaka: Ary. Ereka-pyty-ka-ru, kutxi kuna xamynaky aw-inh-ã-nu nuta. Inhinhiã ereka-pyty-karu. 
+# text = Mutxaka: Ary. Erekapytykaru, kutxi kuna xamynaky awinhãnu nuta. Inhinhiã erekapytykaru. 
+# gloss_pt = sim ser.bom-ENF-PRED-3SG.F.O porque não espingarda existir-GER-PASS-1SG.O 1SG então ser.bom-intens-REL.S.F.
+# text_pt = ‘Sim, é muito boa. Eu não tinha espingarda. Assim, é boa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-20
+# text_orig = Puiaka: Nuta amuta-ry keku-txi. 
+# text = Puiaka: Nuta amutary kekutxi. 
+# gloss_pt = 1SG comprar-3SG.M.O rede.de-N.POSSD
+# text_pt = ‘Eu comprei uma rede.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-21
+# text_orig = Nuta apaka kuna keku-txi aw-inhi-ã-nu. 
+# text = Nuta apaka kuna kekutxi awinhiãnu. 
+# gloss_pt = 1SG também não rede.de-N.POSSD existir-GER-LOC-1SG.O
+# text_pt = ‘Eu também não tinha rede.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-22
+# text_orig = Watxa awa-pe-ka. 
+# text = Watxa awapeka. 
+# gloss_pt = agora, hoje existir-PFTV-PRED
+# text_pt = ‘Agora eu já tenho.’ Lit.: ‘Agora já tem’. 
+
+# sent_id = FernandaM2017:TextsII-9-23
+# text_orig = Puiaka pymaã-ry Mutxaka: 
+# text = Puiaka pymaãry Mutxaka: 
+# gloss_pt = N.PROP perguntar-3SG.M.O N.PROP
+# text_pt = ‘Puiaka perguntou pro Mutxaka:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-24
+# text_orig = Puiaka: Ki-pakyny-pa pi-xamynaky-te ĩki? 
+# text = Puiaka: Kipakynypa pixamynakyte ĩki? 
+# gloss_pt = INTERR-mais-INTERR 2SG-espingarda-POSSD preço.de
+# text_pt = ‘Qual foi o preço da sua espingarda?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-25
+# text_orig = Mutxaka: Duzentos reais u-ĩki. 
+# text = Mutxaka: Duzentos reais uĩki. 
+# gloss_pt = duzentos reais 3SG.F-preço.de
+# text_pt = ‘Duzentos reais.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-26
+# text_orig = Puiaka: Pa-karune-ru i-txa-ry!
+# text = Puiaka: Pakaruneru itxary!
+# gloss_pt = ATRIB.INTENS-caro-3SG.F.O 3SG.M-ser-3SG.M.O
+# text_pt = ‘Foi muito caro!’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-27
+# text_orig = Nuta keku cento e cinquenta reais-nany ĩ-ĩki. 
+# text = Nuta keku cento e cinquenta reaisnany ĩĩki. 
+# gloss_pt = 1SG rede.de cento e cinquenta reais-RESTR preço.de
+# text_pt = ‘A minha rede foi só 150 reais.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-28
+# text_orig = Mutxaka: Ary. Ereka-pyty-ka-ry a-amuta-kyty, kutxi atha nereka-ka-ry.
+# text = Mutxaka: Ary. Erekapytykary aamutakyty, kutxi atha nerekakary.
+# gloss_pt = sim ser.bom-ENF-PRED-3SG.M.O 1PL-comprar-REL.O.M porque 1PL querer-PRED-3SG.M.O
+# text_pt = ‘É, tá bom o que nós compramos, porque nós precisamos.
+
+# sent_id = FernandaM2017:TextsII-9-29
+# text_orig = Nuta ka-xamynaky-te-pe-ka, pitha ka-keku-pe-ka a-txa ereka-pe-ka-ry watxa. 
+# text = Nuta kaxamynakytepeka, pitha kakekupeka atxa erekapekary watxa. 
+# gloss_pt = 1SG ATRIB-espingarda-POSSD-PFTV-PRED 1PL ATRIB-rede.de-PFTV-PRED 1PL-AUX ser.bom-PFTV-PRED-3SG.M.O agora
+# text_pt = ‘Eu já tenho uma espingarda, você já tem rede, então agora já tá bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-30
+# text_orig = Kãkyty amuta-ry ereka-ry. 
+pessoa comprar-3SG.M.O ser.bom-3SG.M.O
+# text_pt = ‘As pessoas compram o que é bom.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-31
+# text_orig = Puiakaa: Taũ-pyty-ka-ra. Kuna ereka-ry kaxaxaã amut-iku. 
+# text = Puiakaa: Taũpytykara. Kuna erekary kaxaxaã amutiku. 
+# gloss_pt = ser.verdade-ENF-PRED-FOC não ser.bom-3SG.M.O cachaça comprar-NMLZ
+# text_pt = ‘É verdade. Não é bom comprar cachaça.’ Lit.: ‘É verdade. Não é bom a compra de cachaça.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-32a
+# text_orig = Kaxaxaã u-mysyry-ta-ry kãkyty, ũ-uka-ry kãkyty. 
+# text = Kaxaxaã umysyrytary kãkyty, ũukary kãkyty. 
+# gloss_pt = cachaça 3SG.F-feitiço-VBLZ-3SG.M.O pessoa 3SG.F-matar-3SG.M.O pessoa
+# text_pt = ‘A cachaça destrói as pessoas, mata as pessoas.
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-9-32b
+# text_orig = Inhinhiã kuna ereka-ru uwa. 
+# text = Inhinhiã kuna erekaru uwa. 
+# gloss_pt = então não ser.bom-3SG.F.O 3SG.F
+# text_pt = ‘Então ela não é boa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-1
+# text_orig = Lição 10: Tukury kam-iku manapy-pe-ka atxĩity (roçado-N.POSSD fazer-NMLZ ?ser.época-PFTV-PRED talvez) ‘Talvez já seja tempo de começar o roçado’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-2
+# text_orig = Kirama Kamaxirĩery-kata y-sãkira-wa-nã-ta. 
+# text = Kirama Kamaxirĩerykata ysãkirawanãta. 
+# gloss_pt = N.PROP N.PROP-ASSOC 3SG.M-falar-REFL-PROGR-VBLZ
+# text_pt = ‘Kirama conversando com o Kamaxirĩery.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-3
+# text_orig = Inhinhiã Kamaxirĩery pymaã-ry Kirama:
+# text = Inhinhiã Kamaxirĩery pymaãry Kirama:
+# gloss_pt = então N.PROP perguntar-3SG.M.O N.PROP
+# text_pt = ‘Então o Kamaxirĩery perguntou ao Kirama:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-4
+# text_orig = Kamaxirĩery: Tukury kam-iku manapy-pe-ka atxĩity. 
+# text = Kamaxirĩery: Tukury kamiku manapypeka atxĩity. 
+# gloss_pt = roçado -N.POSSD fazer-NMLZ ?ser.época-PFTV-PRED talvez
+# text_pt = ‘Acho que já é tempo de começar o roçado.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-5
+# text_orig = Kirama: Y-manapy-pyty-ka-ra. 
+# text = Kirama: Ymanapypytykara. 
+# gloss_pt = 3SG.M-ser.época-ENF-PRED-FOC
+# text_pt = ‘É tempo mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-6
+# text_orig = Kamaxirĩery: Kiri-saaky-pa py-putury-kata-ry . py-tuka-re py-kam-inhi
+# text = Kamaxirĩery: Kirisaakypa pyputurykatary . pytukare pykaminhi
+# gloss_pt = INTERR-TEMP-INTENS 2SG-?trabalho-ASSOC-3SG.M.O 2SG-roçado-POSSD 2SG-fazer-GER
+# text_pt = ‘Quando você vai começar a fazer a sua derrubada?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-7
+# text_orig = Kirama: Ny-nyta-panhi-ka-ry-ku ĩthupa tuku-ry ny-kam-inhi ĩkapane. 
+# text = Kirama: Nynytapanhikaryku ĩthupa tukury nykaminhi ĩkapane. 
+# gloss_pt = 1SG-procurar-IPFTV-PRED-3SG.M.O-FUT mata roçado-N.POSSD 1SG-fazer-GER com.o.propósito-de
+# text_pt = ‘Eu ainda vou procurar uma mata ainda pra derrubar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-8
+# text_orig = N-apuka-saaky-ry ny-putury-ka-ry ny-parĩka ny-tuka-re ny-kam-inhi ĩkapane. 
+# text = Napukasaakyry nyputurykary nyparĩka nytukare nykaminhi ĩkapane. 
+# gloss_pt = 1SG-encontrar-TEMP-3SG.M.O 1SG-começar-PRED-3SG.M.O 1SG-trabalho.de 1SG-roçado-POSSD 1SG-fazer-GER com.o.propósito.de
+# text_pt = ‘Quando eu achar, eu vou começar o meu trabalho pra fazer o meu roçado.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-9
+# text_orig = Kamaxirĩery: Ywatuku k-ane-ra-ku nhi-txa-ku nuta. 
+# text = Kamaxirĩery: Ywatuku kaneraku nhitxaku nuta. 
+# gloss_pt = assim,igual ATRIB-?ser.verdade-FOC-FUT 1SG-AUX-FUT 1SG
+# text_pt = ‘Eu vou fazer do mesmo jeito.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-10
+# text_orig = Kirama: Ary. Ereka-pyty-ka-ry ykaratuku a-nh-inhi. 
+# text = Kirama: Ary. Erekapytykary ykaratuku anhinhi. 
+# gloss_pt = sim ser.bom-ENF-PRED-3SG.M.O assim 1PL-ser-GER
+# text_pt = ‘Sim. É bom fazermos isso mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-11
+# text_orig = Kamaxirĩery: Kiripa py-taka py-tuka-re-ã? 
+# text = Kamaxirĩery: Kiripa pytaka pytukareã? 
+# gloss_pt = o.que 2SG-plantar 2SG-roçado-POSSD-LOC
+# text_pt = ‘O que você vai plantar no seu roçado?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-12
+# text_orig = Kirama: Kumyry, iumiãry, txipari, anãna, mutu, 
+# text = Kirama: Kumyry, iumiãry, txipari, anãna, mutu, 
+# gloss_pt = mandioca macaxeira banana abacaxi cará
+# text_pt = ‘Mandioca, macaxeira, banana, abacaxi, cará,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-13
+# text_orig = kypary... ykyny-puku ny-taka. 
+batata todo-DISTR 1SG-plantar
+# text_pt = ‘batata doce... Vou plantar tudo.’ 
+
+# sent_id = FernandaM2017:TextsII-10-14
+# text_orig = Paikuma apaka ny-taka-ku. 
+tingui também 1SG-plantar-FUT
+# text_pt = ‘Vou plantar também tingui.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-15
+# text_orig = Kamaxirĩere: Pitha-munhi awa-ta paikuma? 
+# text = Kamaxirĩere: Pithamunhi awata paikuma? 
+# gloss_pt = 2SG-DAT existir-VBLZ tingui
+# text_pt = ‘Você tem tingui?’ Lit.: ‘Pra você tem tingui?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-16
+# text_orig = Kirama: Ary. Nuta-munhi awa-pyty-ka paikuma. 
+# text = Kirama: Ary. Nutamunhi awapytyka paikuma. 
+# gloss_pt = sim 1SG-DAT existir-ENF-PRED tingui
+# text_pt = ‘Sim. Eu tenho tingui.’ Lit.: ‘Sim, tem tingui pra mim’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-17
+# text_orig = Kamaxirĩere: Py-syka-nu-ku paikuma-ky ny-taka-re ĩkapane. 
+# text = Kamaxirĩere: Pysykanuku paikumaky nytakare ĩkapane. 
+# gloss_pt = 2SG-dar-1SG.O-FUT tingui-NC.pequeno, redondo 1SG-plantar-POSSD com.o.propósito.de
+# text_pt = ‘Você vai me dar semente pra eu plantar.’ Lit.: ‘Você vai me dar semente de tingui pra minha plantação.’Q
+ 
+
+# sent_id = FernandaM2017:TextsII-10-18
+# text_orig = Kirama: Y-manapy-saaky py-sa nuta-munhi ywaã ny-syka-i.
+# text = Kirama: Ymanapysaaky pysa nutamunhi ywaã nysykai.
+# gloss_pt = 3SG.M-ser.época-TEMP 2SG-ir 1SG-DAT assim 1SG-dar-2SG.O
+# text_pt = ‘Quando for no tempo você vai comigo e eu lhe darei a semente’ Lit.: ‘Quando for a época, você vai comigo e eu dou pra você’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-19
+# text_orig = Kamaxirĩere: Ateeneka. Ereka-pyty-ka-ry. 
+# text = Kamaxirĩere: Ateeneka. Erekapytykary. 
+# gloss_pt = tá.certo ser.bom-ENF-PRED-3SG.M.O
+# text_pt = ‘Tá certo. Muito bem.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-20
+# text_orig = Ĩka a-sãkire-wa-ta-pe-ka. 
+# text = Ĩka asãkirewatapeka. 
+# gloss_pt = ?então 1PL-falar-REFL-VBLZ-PFTV-PRED
+# text_pt = ‘Então já conversamos.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-21
+# text_orig = N-awinhi-munhi ny-sy-pe-ka. 
+# text = Nawinhimunhi nysypeka. 
+# gloss_pt = 1SG-casa.de-DAT 1SG-ir-PFTV-PRED 
+# text_pt = ‘Eu já vou pra casa.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-22a
+# text_orig = Kirama: Ateeneka. 
+# text = Kirama: Ateeneka. 
+# gloss_pt = tá.certo 
+# text_pt = ‘Tá certo.
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-10-22b
+# text_orig =  Hãty ũty a-taũkyta-kaka ywa ĩkane. 
+# text =  Hãty ũty ataũkytakaka ywa ĩkane. 
+# gloss_pt =  um dia 1PL-encontrar-REC 3sg ?novamente
+# text_pt = ‘Outro dia a gente se encontra de novo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-1
+# text_orig = Lição 11: Natuku-pa i-txa kitxakapirĩka? 
+(como-INTERR 3SG.M-ser antigamente) ‘Como era antigamente’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-2
+# text_orig = Natuku-pa i-txa kitxakapirĩka? 
+como-INTERR 3SG.M-ser antigamente
+# text_pt = ‘Como era antigamente?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-3
+# text_orig = Txiiupirĩiry pymaã-ry ø-yry, y-nyru apaka: 
+# text = Txiiupirĩiry pymaãry øyry, ynyru apaka: 
+# gloss_pt = N.PROP perguntar-3SG.M.O 3SG.M-pai.de 3SG-mãe.de também
+# text_pt = ‘Ele perguntou ao pai e à mãe:’’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-4
+# text_orig = Txiiupirĩiry: Natuku-pa i-txa kitxakapirĩka? 
+# text = Txiiupirĩiry: Natukupa itxa kitxakapirĩka? 
+# gloss_pt = como-INTERR 3SG.M-ser antigamente
+# text_pt = ‘Como era antigamente?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-5
+# text_orig = Kamarapu: Kuna watxa atuku i-txa kitxakapirĩka. 
+# text = Kamarapu: Kuna watxa atuku itxa kitxakapirĩka. 
+# gloss_pt = não hoje como 3SG.M-ser antigamente
+# text_pt = ‘Antigamente não era como hoje.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-6
+# text_orig = Kenere-pa pỹ-pymaã-nu kitxaka-ry pirana? 
+por.quê-INTERR 2SG-perguntar-1SG.O ser.antigo-3SG.M.O história
+# text_pt = ‘Por que você me pergunta sobre a história antiga?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-7
+# text_orig = Txiiupirĩiry: Ny-nereka-ka-ry nh-imarut-inhi-ry natuku-pyty-pa i-txa kitxakapirĩka.
+# text = Txiiupirĩiry: Nynerekakary nhimarutinhiry natukupytypa itxa kitxakapirĩka.
+# gloss_pt = 1SG-ter.vontade, querer 1SG-saber-GER-3SG.M.O como-ENF-INTERR 3SG.M-ser antigamente
+# text_pt = ‘Eu quero saber como é que era mesmo antigamente.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-8
+# text_orig = Kamarapu: Ĩka ny-sãpira-ta-i. 
+# text = Kamarapu: Ĩka nysãpiratai. 
+# gloss_pt = então 1SG-contar-VBLZ-2SG.O
+# text_pt = ‘Então vou lhe contar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-9
+# text_orig = Watxapirĩka py-sãpira-na ĩkapane. 
+# text = Watxapirĩka pysãpirana ĩkapane. 
+# gloss_pt = ?posteriormente 2SG-contar-?3PL com.o.propósito.de
+# text_pt = ‘Isso é pra você contar no futuro.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-10
+# text_orig = Kitxakapirĩka p-atukyry-wakuri-nhi sãpira-ta-nu kuna watxa atuku i-txa. 
+# text = Kitxakapirĩka patukyrywakurinhi sãpiratanu kuna watxa atuku itxa. 
+# gloss_pt = antigamente 2SG-avô-de-PL-AFET contar-VBLZ-1SG.O não hoje como 3SG.M-ser
+# text_pt = ‘Antigamente os teus avós me contavam que não era como hoje.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-11
+# text_orig = Ĩthupa awa kãkyty ywasaaky kuna ymaruta-ry karywa. 
+# text = Ĩthupa awa kãkyty ywasaaky kuna ymarutary karywa. 
+# gloss_pt = mata estar.em gente naquele.tempo não conhecer-3SG.M.O não.índio
+# text_pt = ‘Na época em que a gente vivia na mata, não conhecia os Brancos.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-12
+# text_orig = Apanakyny pupỹkary mukaiaka-ta-ry kãkyty. 
+# text = Apanakyny pupỹkary mukaiakatary kãkyty. 
+# gloss_pt = resto índio perseguir-VBLZ-3SG.M.O pessoa
+# text_pt = ‘Os outros índios perseguiam a nossa gente.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-13
+# text_orig = ø-Aiata-ne kãkyty y-nyt-inhi-ne. 
+# text = øAiatane kãkyty ynytinhine. 
+# gloss_pt = 3PL.M-caçar-3PL.M pessoa 3PL.M-caçar-GER-3PL.M
+# text_pt = ‘Caçavam a nossa gente.’ 
+
+# sent_id = FernandaM2017:TextsII-11-14
+# text_orig = Ywaxika neenama-txi awa-ry ywasaaky. 
+# text = Ywaxika neenamatxi awary ywasaaky. 
+# gloss_pt = por.isso briga, valentia-N.POSSD existir-3SG.M.O naquele.tempo 
+# text_pt = ‘Por isso havia briga naquela época.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-15
+# text_orig = Atãu y-nyrymane m-inha-kany-wa ø-uka-ne.
+# text = Atãu ynyrymane minhakanywa øukane.
+# gloss_pt = ? 3SG.M-parentes.de PRIV-ser-REL.PL-1PL.O 3pl.m-matar-3pl.m
+# text_pt = ‘Matavam aqueles que não eram parentes próximos.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-16a
+# text_orig = Ywasaaky kuna xamynaky awa-ry. 
+# text = Ywasaaky kuna xamynaky awary. 
+# gloss_pt = naquele.tempo não espingarda existir-3SG.M.O
+# text_pt = ‘Naquela época não havia espingarda.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-16b
+# text_orig = xiripi-txi-nany awa-ry ywasaaky. 
+# text = xiripitxinany awary ywasaaky. 
+# gloss_pt = flecha.de.NC.fino, flexível-N.POSSD-RESTR existir-3SG.M.O naquele.tempo
+# text_pt = ‘Só havia flecha.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-17
+# text_orig = Ywakatykane apanakyny hãty wãka inha-kany-wa umanata-wa atha apaka. 
+# text = Ywakatykane apanakyny hãty wãka inhakanywa umanatawa atha apaka. 
+# gloss_pt = ? resto um,outro nome ser-rel.PL-REFL fazer.maldade-1PL 1PL também
+# text_pt = ‘Além disso, o outro povo também não gostava de nós.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-18
+# text_orig = Kamỹyry-wakury kuwary-nyry-taka umanata-wa apaka. 
+# text = Kamỹyrywakury kuwarynyrytaka umanatawa apaka. 
+# gloss_pt = arara-PL ?-pl-? fazer.maldade-1PL.O também
+# text_pt = ‘Os povo da arara também não gostavam de nós.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-19
+# text_orig = Ykaratuku inhinhiã kama neenama-ta-wa atha, kỹyrypa-wakury kuwary-nyry-taka inha-kany-wa. 
+# text = Ykaratuku inhinhiã kama neenamatawa atha, kỹyrypawakury kuwarynyrytaka inhakanywa. 
+# gloss_pt = assim então fazer briga, valentia-VBLZ-1PL.O 1PL rato-PL ?-pl-? ser-REL.PL-1PL.O
+# text_pt = ‘É isso que fazia com que ficássemos valentes, nós o povo do rato.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-20
+# text_orig = Ykaratuka inhinhiã neenama-txi-ã-nany ã-awa. 
+# text = Ykaratuka inhinhiã neenamatxiãnany ãawa. 
+# gloss_pt = assim então briga, valentia-N.POSSD-RESTR 1PL-existir
+# text_pt = ‘É por isso que nós vivíamos brigando.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-21
+# text_orig = i-txa-panhi-ka watxa.
+# text = itxapanhika watxa.
+# gloss_pt = 3SG.M-ser-IPFTV-PRED hoje
+# text_pt = ‘Ainda hoje é assim.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-22
+# text_orig = Ywasaaky ereka-ry awa apaka. 
+# text = Ywasaaky erekary awa apaka. 
+# gloss_pt = naquele.tempo ser.bom-3SG.M.O existir também
+# text_pt = ‘Naquela época existia coisa boa também.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-23
+# text_orig = Awa ximaky, nhi-puku-ry, amãatyyry. 
+# text = Awa ximaky, nhipukury, amãatyyry. 
+# gloss_pt = existir peixe comida-N.POSSD fruta
+# text_pt = ‘Tinha peixe, caça, frutas.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-24
+# text_orig = Amiiana-ry awa-pyty-ka-ma, 
+# text = Amiianary awapytykama, 
+# gloss_pt = doença-N.POSSD existir-ENF-PRED-FRUSTR
+# text_pt = ‘Tinha doença,’ Lit.: ‘Mas tinha doença’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-25
+# text_orig = i-txa-ma puiaũ-ka amiiana-ry awa-ry; 
+# text = itxama puiaũka amiianary awary; 
+# gloss_pt = 3PL-AUX-FRUST pouco-?ENF doença-N.POSSD existir-3SG.M.O
+# text_pt = ‘mas era pouca;’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-26
+# text_orig = kuna watxa atuku i-txa.
+# text = kuna watxa atuku itxa.
+# gloss_pt = não hoje como 3SG.M-ser
+# text_pt = ‘não era como hoje.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-27
+# text_orig = Ywasaaky ykyny-mane sãkira-wa-ta pupỹkary sãkire. 
+# text = Ywasaaky ykynymane sãkirawata pupỹkary sãkire. 
+# gloss_pt = naquele.tempo todo-corpo.de falar-REFL-VBLZ índio língua
+# text_pt = ‘Naquela época, todo mundo falava a língua Apurinã.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-28
+# text_orig = Y-kama-ã-ry-ne kyynyry, 
+# text = Ykamaãryne kyynyry, 
+# gloss_pt = 3PL.M-fazer-PROGR-3SG.M.O-3PL.M xingané 
+# text_pt = ‘Eles faziam festa,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-29
+# text_orig = i-xipuwã-ta-ne, y-serena-pirĩka-ta-ne.
+3PL.M-canto-VBLZ-3PL.M 3PL.M-dança-coletivo-VBLZ-3PL.M
+# text_pt = ‘cantavam e dançavam.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-30
+# text_orig = Watxa kuna i-txa-ika.
+# text = Watxa kuna itxaika.
+# gloss_pt = hoje não 3SG.M-ser-não.mais
+# text_pt = ‘Hoje não é mais assim.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-31
+# text_orig = Watxa puiaũ-nuka pupỹkary awa-ry kutxi karywa xipuka-ry pupỹkary-wakury.
+# text = Watxa puiaũnuka pupỹkary awary kutxi karywa xipukary pupỹkarywakury.
+hoje pouco-RESTR índio existir-3SG.M.O porque não.índio acabar-3SG.M.O índio-PL
+# text_pt = ‘Hoje tem pouco índio porque o Branco acabou com os índios.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-32
+# text_orig = Txiiupirĩiry: Kenere-pa karywa xipu-ka-ry pupỹkary? 
+# text = Txiiupirĩiry: Kenerepa karywa xipukary pupỹkary? 
+# gloss_pt = por.quê-INTERR não.índio acabar-PRED-3SG.M.O índio
+# text_pt = ‘Por que os brancos acabaram com os índios?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-33
+# text_orig = Kamarapu: Umanata-ry pupỹkary ywaxika i-xipuka-ry-ne pupỹkary. 
+# text = Kamarapu: Umanatary pupỹkary ywaxika ixipukaryne pupỹkary. 
+# gloss_pt = fazer.maldade-3SG.M.O índio por.isso 3PL.M-acabar-3SG.M.O-3PL.M índio 
+# text_pt = ‘Eles não gostavam dos índios, por isso que eles os mataram.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-34
+# text_orig = Watxa pupỹkary kuna umanata-ika-ry apanakyny pupỹkary. 
+hoje índio não fazer.maldade-não.mais-3SG.M.O resto índio
+# text_pt = ‘Hoje o índio não tem mais brigas com outros índios.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-35
+# text_orig = Karywa ywa-tuku-ka-ne. 
+# text = Karywa ywatukukane. 
+# gloss_pt = não.índio 3SG.M-como, assim-PRED-3PL
+# text_pt = ‘O Branco, do mesmo jeito.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-36
+# text_orig = Watxa inhĩkata-pe-ka-ry pupỹkary, 
+# text = Watxa inhĩkatapekary pupỹkary, 
+# gloss_pt = agora cuidar-PFTV-PRED-3SG.M.O índio
+# text_pt = ‘Agora ele já cuida dos índios,’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-37
+# text_orig = kuna yteene inhĩkata-ma-ry. 
+# text = kuna yteene inhĩkatamary. 
+# gloss_pt = não ? cuidar-FRUSTR-3SG.M.O
+# text_pt = ‘mas não cuida bem.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-11-38
+# text_orig = Ĩiki-txi-t-iku-ã-ra inhĩkata-ry pupỹkary. 
+# text = Ĩikitxitikuãra inhĩkatary pupỹkary. 
+# gloss_pt = preço.de-N.POSSD-VBLZ-NMLZ-PROGR-FOC cuidar-3SG.M.O índio
+# text_pt = ‘Pagando pra ele, ele cuida dos índios.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-1
+# text_orig = Lição12: Himaruata-ta-ry kimapu-ry?
+# text = Lição12: Himaruatatary kimapury?
+# gloss_pt = saber-VBLZ-3SG.M.O caminho-n.possd
+# text_pt = ‘sabe o caminho?’
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-2
+# text_orig = Puiaka aiata. 
+# text = Puiaka aiata. 
+# gloss_pt = N.PROP caçar 
+# text_pt = ‘Puiaka foi caçar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-3
+# text_orig = Ywa uka-ru ipi hãtu pakiny irary. 
+# text = Ywa ukaru ipi hãtu pakiny irary. 
+# gloss_pt = 3SG.M matar-3SG.F.O dois uma mais queixada
+# text_pt = ‘Ele matou três queixadas.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-4
+# text_orig = Hãty-nuka y-myna. Ipi kaikuta ĩthupa. 
+# text = Hãtynuka ymyna. Ipi kaikuta ĩthupa. 
+# gloss_pt = um-apenas 3SG.M-trazer dois ?ficar mata
+# text_pt = ‘Só trouxe uma. Duas ficaram na mata.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-5
+# text_orig = Xirikary apuka Puiaka-munhi. Y-pymaã-ry:
+# text = Xirikary apuka Puiakamunhi. Ypymaãry:
+# gloss_pt = N.PROP chegar N.PROP-DAT 3SG.M-perguntar-3SG.M.O
+# text_pt = ‘Xirikary chegou para o Puiaka e perguntou:’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-6
+# text_orig = Xirikary: P-uka-ta-ry irary? 
+# text = Xirikary: Pukatary irary? 
+# gloss_pt = 2SG-matar-3SG.M.O queixada
+# text_pt = ‘Você matou queixada?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-7
+# text_orig = Puiaka: Ary. N-uka-pe-ru irary. 
+# text = Puiaka: Ary. Nukaperu irary. 
+# gloss_pt = sim 1SG-matar-PFTV-3SG.F.O queixada
+# text_pt = ‘Sim. Eu matei queixada.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-8
+# text_orig = Xirikary: Ki-pakyny-pa p-uka? 
+# text = Xirikary: Kipakynypa puka? 
+# gloss_pt = INTERR-mais-INTERR 2SG-matar
+# text_pt = ‘Quantas você matou?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-9
+# text_orig = Puiaka: ipi hãtu pakyny n-uka. 
+# text = Puiaka: ipi hãtu pakyny nuka. 
+# gloss_pt = dois uma mais 1SG-matar
+# text_pt = ‘Eu matei três.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-10
+# text_orig = Xirikary: Nanhi-pa py-taũkyta-ta-ru? 
+# text = Xirikary: Nanhipa pytaũkytataru? 
+# gloss_pt = onde-intens 2sg-encontrar-vblz-3sg.f.o
+# text_pt = ‘Onde você os encontrou?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-11
+# text_orig = Puiaka: Ykai sutuãry xirikunape ny-taũkyta-ru. 
+# text = Puiaka: Ykai sutuãry xirikunape nytaũkytaru. 
+# gloss_pt = ? igarapé buritizal 1SG-ver-3SG.F.O
+# text_pt = ‘Eu as vi lá no igarapé do buritizal.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-12
+# text_orig = N-uka-pe-ru ipi hãtu pakyny. 
+# text = Nukaperu ipi hãtu pakyny. 
+# gloss_pt = 1SG-matar-PFTV-3SG.F.O dois um mais
+# text_pt = ‘Matei três.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-13
+# text_orig = Xirikary: Ywaã py-taka-napa-ta-ru ipi? 
+# text = Xirikary: Ywaã pytakanapataru ipi? 
+# gloss_pt = então 2SG-colocar-passar-VBLZ-3SG.F.O dois
+# text_pt = ‘Você deixou dois?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-14
+# text_orig = Puiaka: Ary. Kawaãry-ã ny-taka-napa-ru. 
+# text = Puiaka: Ary. Kawaãryã nytakanaparu. 
+# gloss_pt = sim igarapé-LOC 1SG-colocar-passar-3SG.F.O
+# text_pt = ‘Foi, eu as deixei no igarapé. 
+
+# sent_id = FernandaM2017:TextsII-12-15
+# text_orig = Xirikary: Nh-imaruta-ã-ka-ma-ru n-apa-ma-ru-ku. 
+# text = Xirikary: Nhimarutaãkamaru napamaruku. 
+# gloss_pt = 1SG-conhecer-PROGR-PRED-FRUST-3SG.F.O 1SG-buscar-FRUST-3SG.F.O-FUT
+# text_pt = ‘Se eu soubesse onde era, eu ia buscar.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-16
+# text_orig = Puiaka: Mitxi-panhi-ka. Ny-sãpirata-i-ku. 
+# text = Puiaka: Mitxipanhika. Nysãpirataiku. 
+# gloss_pt = primeiro-IPFTV-PRED 1SG-contar-2SG.O-FUT
+# text_pt = ‘Espera aí, eu vou lhe dizer.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-17
+# text_orig = Ataũ-pyty-kany p-apa-ta-ru? 
+# text = Ataũpytykany papataru? 
+# gloss_pt = ser.verdade-ENF-REL.PL 2SG-buscar-VBLZ-3SG.F.O
+# text_pt = ‘É verdade que você vai buscar?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-18
+# text_orig = Xirikary: Ary. Ny-sa-pyty-ka. 
+# text = Xirikary: Ary. Nysapytyka. 
+# gloss_pt = sim 1SG-ir-ENF-PRED
+# text_pt = ‘É. Vou mesmo.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-19
+# text_orig = Puiaka: Py-muianary awa-pe? 
+# text = Puiaka: Pymuianary awape? 
+# gloss_pt = 2SG-companheiro.de-M existir-PFTV
+# text_pt = ‘Tem um companheiro (para lhe acompanhar)?’ Lit.: ‘Seu companheiro, já tem?
+
+# sent_id = FernandaM2017:TextsII-12-20
+# text_orig = Xirikary: Ny-nyta-ry-ku ny-muianary ĩkapane. 
+# text = Xirikary: Nynytaryku nymuianary ĩkapane. 
+# gloss_pt = 1SG-?procurar-3SG.M.O-FUT 1SG-companheiro.de com.o.propósito.de
+# text_pt = ‘Vou procurar alguém para me acompanhar. 
+
+# sent_id = FernandaM2017:TextsII-12-21
+# text_orig = Inhinhiã y-sa. Ykanapyryka-saaky, y-myna-ry y-muianary. 
+# text = Inhinhiã ysa. Ykanapyrykasaaky, ymynary ymuianary. 
+# gloss_pt = então 3SG.M-ir ?-TEMP 3SG.M-trazer-3SG.M.O 3SG.M-compamheiro.de
+# text_pt = Então ele saiu e quando voltou trouxe um companheiro.
+
+# sent_id = FernandaM2017:TextsII-12-22
+# text_orig = Puiaka: Ny-sãpira-ta-iku irary ny-taka-nap-inhi iãtãa. 
+# text = Puiaka: Nysãpirataiku irary nytakanapinhi iãtãa. 
+# gloss_pt = 1SG-contar-VBLZ-NMLZ queixada 1SG-colocar-passar-GER lugar
+# text_pt = ‘Eu vou lhes contar onde estão os queixadas’. 
+
+# sent_id = FernandaM2017:TextsII-12-23
+# text_orig = H-imaruta-ta-ry kimapury?
+# text = Himarutatary kimapury?
+# gloss_pt = 2PL-saber-VBLZ-3SG.M.O caminho
+# text_pt = ‘Vocês conhecem o caminho?’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-24
+# text_orig = Xirikary: Py-sãpira-ta-wa atha. 
+# text = Xirikary: Pysãpiratawa atha. 
+# gloss_pt = 2sg-contar-VBLZ-1PL 1PL
+ Diz pra nós. 
+
+# sent_id = FernandaM2017:TextsII-12-25
+# text_orig = Puiaka: Hỹ-sa-pyty-pu iia kimapury. 
+# text = Puiaka: Hỹsapytypu iia kimapury. 
+# gloss_pt = 2PL-ir-ENF-? esse caminho
+# text_pt = ‘Podem ir direto nesse caminho.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-26
+# text_orig = Hỹ-napa-ry-ku kitxiti ny-makatxak-inhi. 
+# text = Hỹnaparyku kitxiti nymakatxakinhi. 
+# gloss_pt = 2PL-buscar-3SG.M.O-FUT patoá 1SG-tirar-GER
+# text_pt = ‘Vocês vão passar por onde eu tirei patoá.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-27
+# text_orig = Apiku hỹ-sa hỹ-napa-ry-ku akanhimyna aw-inhi-ã. 
+# text = Apiku hỹsa hỹnaparyku akanhimyna awinhiã. 
+# gloss_pt = adiante 2PL-ir 2PL-buscar-3SG.M.O-FUT piquiazeiro existir-GER-LOC
+# text_pt = ‘Vocês podem continuar, aí tem o piquiazeiro.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-28
+# text_orig = Apiku hỹ-sa. Sutuãry hỹ-napa. 
+# text = Apiku hỹsa. Sutuãry hỹnapa. 
+# gloss_pt = adiante 2PL-ir igarapé 2PL-buscar
+# text_pt = ‘Podem continuar. Vocês vão atravessar um igarapé.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-29
+# text_orig = Hỹ-kanhĩki ĩtha.
+# text = Hỹkanhĩki ĩtha.
+# gloss_pt = 2PL-subir 2PL
+# text_pt = ‘Vocês sobem a ladeira.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-30
+# text_orig = Apiku h-ãpuka-ry-ku iatymyna. 
+# text = Apiku hãpukaryku iatymyna. 
+# gloss_pt = adiante 2PL-encontrar-3SG.M.O-FUT pé.de.sorva
+# text_pt = ‘Mais adiante vão achar um pé de sorva.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-31
+# text_orig = Ywaĩka y-puturi-ka pikata-ãpu-txi sutuãry-pe i-txa.
+# text = Ywaĩka yputurika pikataãputxi sutuãrype itxa.
+# gloss_pt = ali 3SG.m-começar-PRED picada-caminho-N.POSSD igarapé -PFTV 3SG.M-AUX
+# text_pt = ‘Ali mesmo começa o pique até o igarapé.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-32
+# text_orig = H-ãpuka-ry-ku ãake ny-mapataka-kyty. 
+# text = Hãpukaryku ãake nymapatakakyty. 
+# gloss_pt = 2PL-encontrar-3SG.M.O-FUT vara 1SG-quebrar- REL.O.M
+# text_pt = ‘Vocês vão achar a vara que eu quebrei.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-33
+# text_orig = Ywaã-ka-ra-ry ny-taka-ũtxika-re. 
+# text = Ywaãkarary nytakaũtxikare. 
+# gloss_pt = lá-PRED-FOC-3SG.M.O 1SG-colocar-?-?
+# text_pt = ‘Lá mesmo tá a vara apontando.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-34
+# text_orig = Ywa-ĩka-ra sutuãry-ã ãa-xikeẽ ny-papitha-ru, tsapyry-xike. 
+# text = Ywaĩkara sutuãryã ãaxikeẽ nypapitharu, tsapyryxike. 
+# gloss_pt = lá-?-FOC igarapé-LOC planta-NC.folha.fina.flexível.de 1SG-?cobrir-3SG.F.O açaí-folha.de
+# text_pt = ‘É lá no igarapé que eu cobri com folhas, folhas de açaí.’Q
+# text_en = ‘‘
+
+# sent_id = FernandaM2017:TextsII-12-35
+# text_orig = Ywaĩka-ra-ru irary. 
+# text = Ywaĩkararu irary. 
+# gloss_pt = lá-FOC-3SG.F.O queixada
+# text_pt = ‘É lá que estão os queixadas.’Q 
+# text_en = ‘‘
+
