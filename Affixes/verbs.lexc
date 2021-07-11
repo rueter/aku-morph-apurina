@@ -33,6 +33,19 @@ Verbs ;
 !tv +	  +	   -	     +	       +	+
 !iv +	  +	   +	     +	       +	+
 
+! Facundes (2000: 417, table 3)
+!Table 3: Special Bound Formatives and their Position Classes in a Noun Base
+|-----|----|----|----|----|----|----|----|----|----|----|
+| -1 | 1 | 2 | 3 |4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|SUBJ|EMPH|AFFECT|OBLIQUES|PFTVT|PRED|FRUSTR|RESTR|FOC|POSSOR|FUT|
+|ny- PxSg1|-pyty|-nhi|-ã Loc|-pẽ Prf|-ka4|-ma|-nany|-ra|-na 3Pl Subj|-ku|
+|py- PxSg2|||-kata Com|-panhi imprf|||||||
+|y- PxSg3M|||-sawaky Tem||||||||
+|u- PxSg3F|||-mukary Goal||||||||
+|a- PxPl1||||-takute Contig|||||||
+|hĩ- PxPl2|||-xika C.Source||||||||
+|y- PxPl3M|||||||||||
+|u- PxPl3F|||||||||||
 
 LEXICON v_suf
 +V: v_person ;

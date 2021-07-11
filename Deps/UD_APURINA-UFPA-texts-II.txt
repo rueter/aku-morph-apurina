@@ -229,8 +229,8 @@ II. TEXTOS DO MATERIAL DE CONVERSAÇÃO (COM O ACRÉSCIMO DAS INTERLINEARIZAÇÕ
 # sent_id = FernandaM2017:TextsII-2-15
 # text_orig = Txiiakatxi: Py-nyru ny-nyru nyrymane u-txa-wa. 
 # text = Pynyru nynyru nyrymane utxawa. 
-# gloss_pt = 2SG-mãe.de 1SG-mãe.de parente .de 3SG.F-ser-REFL
-# text_pt = ‘A sua mãe é parenta da minha mãe.’Q
+# gloss_pt = 2SG-mãe.de 1SG-mãe.de parente.de 3SG.F-ser-REFL
+# text_pt = A sua mãe é parenta da minha mãe.
 # text_en = Your mother is my mother's relative
 
 # sent_id = FernandaM2017:TextsII-2-16
